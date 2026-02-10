@@ -289,9 +289,7 @@ FRANKENSTEIN/
 │   └── frankenstein         # macOS binary (build from source)
 ├── assets/                  # Media
 ├── targets/                 # Drop .txt target files here
-├── logs/                    # Scan logs (auto-created)
 ├── frankenstein-db-viewer.html  # Browser-based DB explorer
-├── frankenstein.db          # SQLite database (auto-created)
 └── README.md
 ```
 

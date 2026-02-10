@@ -110,20 +110,22 @@ Open `db-viewer.html` in any browser and drag your `frankenstein.db` file onto i
 
 ```
 Frankenstein/
-├── main.go                  # All source code (single-file architecture)
-├── console_windows.go       # Windows console UTF-8 + ANSI setup
-├── go.mod / go.sum           # Go module dependencies
-├── frankenstein.db           # SQLite database (auto-created)
-├── db-viewer.html            # Browser-based DB explorer
-├── assets/                   # GIFs and media
-├── targets/                  # Drop .txt target files here
-├── logs/                     # Scan logs (auto-created)
+├── src/
+│   ├── main.go              # All source code (single-file architecture)
+│   ├── console_windows.go   # Windows console UTF-8 + ANSI setup
+│   ├── go.mod               # Go module definition
+│   └── go.sum               # Dependency checksums
+├── WINDOWS/
+│   ├── frankenstein.exe     # Windows binary
+│   └── db-viewer.html      # Browser-based DB explorer
 ├── LINUX/
-│   ├── frankenstein          # Linux binary
-│   └── db-viewer.html
-└── WINDOWS/
-    ├── frankenstein.exe      # Windows binary
-    └── db-viewer.html
+│   ├── frankenstein         # Linux binary
+│   └── db-viewer.html      # Browser-based DB explorer
+├── assets/                  # GIFs and media
+├── targets/                 # Drop .txt target files here
+├── logs/                    # Scan logs (auto-created)
+├── frankenstein.db          # SQLite database (auto-created)
+└── README.md
 ```
 
 ## Built With

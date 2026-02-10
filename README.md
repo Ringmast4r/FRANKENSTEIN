@@ -41,7 +41,7 @@ A site is classified as:
 - **SQLite database** — all results persisted, rescannable, exportable
 - **CSV export** — one-click export of all scan data
 - **TLS certificate alerts** — self-signed certs, expiring certs flagged
-- **DB Viewer** — browser-based HTML viewer with charts, filters, search, and sorting (open `db-viewer.html`)
+- **DB Viewer** — browser-based HTML viewer with charts, filters, search, and sorting (open `frankenstein-db-viewer.html`)
 - **Full TUI** — interactive terminal interface, no browser needed
 - **Cross-platform** — Windows and Linux binaries included
 
@@ -96,7 +96,7 @@ google.com
 
 ## DB Viewer
 
-Open `db-viewer.html` in any browser and drag your `frankenstein.db` file onto it. Gives you:
+Open `frankenstein-db-viewer.html` in any browser and drag your `frankenstein.db` file onto it. Gives you:
 
 - Dashboard with status breakdown and bar charts
 - Sortable, searchable, filterable table of all sites
@@ -122,7 +122,7 @@ Frankenstein/
 ├── assets/                  # GIFs and media
 ├── targets/                 # Drop .txt target files here
 ├── logs/                    # Scan logs (auto-created)
-├── db-viewer.html           # Browser-based DB explorer
+├── frankenstein-db-viewer.html           # Browser-based DB explorer
 ├── frankenstein.db          # SQLite database (auto-created)
 └── README.md
 ```

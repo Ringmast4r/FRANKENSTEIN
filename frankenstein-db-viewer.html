@@ -229,11 +229,67 @@
       cursor: pointer;
     }
     .modal-close:hover { background: #333; color: #fff; }
+
+    /* Light mode */
+    body.light { background: #f5f5f5; color: #222; }
+    body.light h1 { color: #007a30; }
+    body.light h3 { color: #007a30; }
+    body.light .subtitle { color: #5a8a5a; }
+    body.light #drop { background: #e8e8e8; border-color: #007a30; }
+    body.light input[type="file"] { color: #333; }
+    body.light .stat-box { background: #fff; }
+    body.light .section { background: #fff; border-color: #ccc; }
+    body.light .tab { background: #e0e0e0; border-color: #bbb; color: #444; }
+    body.light .tab:hover { background: #d0d0d0; color: #000; }
+    body.light .tab.active { background: #007a30; color: #fff; border-color: #007a30; }
+    body.light .controls input[type="text"] { background: #fff; border-color: #bbb; color: #222; }
+    body.light .controls input[type="text"]:focus { border-color: #007a30; }
+    body.light th { background: #007a30; color: #fff; }
+    body.light th:hover { background: #009a40; }
+    body.light tr:nth-child(even) { background: #f0f0f0; }
+    body.light tr:hover { background: #e0f0e0; }
+    body.light td { border-color: #ddd; }
+    body.light .modal { background: #fff; border-color: #007a30; }
+    body.light .modal-close { border-color: #bbb; color: #666; }
+    body.light .modal-close:hover { background: #eee; color: #000; }
+    body.light .detail-label { color: #007a30; }
+    body.light .detail-value { color: #222; }
+    body.light .ms { color: #666; }
+    body.light .server-cell { color: #555; }
+    body.light .title-cell { color: #333; }
+    body.light #result-info { color: #888; }
+
+    h1 { cursor: pointer; user-select: none; }
+    h1 span { cursor: pointer; }
+
+    /* Easter egg overlay */
+    #easter-egg {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.9);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      cursor: pointer;
+    }
+    #easter-egg.show { display: flex; }
+    #easter-egg .ee-line1 { color: #3c8c50; font-size: 1.2em; margin-bottom: 15px; opacity: 0; animation: fadeIn 0.5s 0.3s forwards; }
+    #easter-egg .ee-names { color: #c8ff00; font-size: 2.2em; font-weight: bold; opacity: 0; animation: fadeIn 0.5s 0.8s forwards; }
+    #easter-egg .ee-heart { color: #ff3c3c; font-size: 2em; margin-top: 20px; opacity: 0; animation: fadeIn 0.5s 1.5s forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
   </style>
 </head>
 <body>
-  <h1><span>&#9889;</span> Frankenstein DB Viewer</h1>
+  <h1><span id="bolt" onclick="showEasterEgg()">&#9889;</span> <span onclick="toggleTheme()">Frankenstein DB Viewer</span></h1>
   <p class="subtitle">Dual Phenomenology Site Checker &mdash; Database Explorer</p>
+
+  <div id="easter-egg" onclick="hideEasterEgg()">
+    <div class="ee-line1">this is for</div>
+    <div class="ee-names">_m0usem0use_ &amp; ziggy</div>
+    <div class="ee-heart">&lt;3</div>
+  </div>
 
   <div id="drop">
     Drop your <strong>frankenstein.db</strong> file here or
@@ -672,6 +728,19 @@
       v = String(v);
       if (v.includes(',') || v.includes('"') || v.includes('\n')) return `"${v.replace(/"/g, '""')}"`;
       return v;
+    }
+
+    // ── Theme Toggle ─────────────────────────────────────────
+    function toggleTheme() {
+      document.body.classList.toggle('light');
+    }
+
+    // ── Easter Egg ──────────────────────────────────────────
+    function showEasterEgg() {
+      document.getElementById('easter-egg').classList.add('show');
+    }
+    function hideEasterEgg() {
+      document.getElementById('easter-egg').classList.remove('show');
     }
 
     // ── Helpers ──────────────────────────────────────────────

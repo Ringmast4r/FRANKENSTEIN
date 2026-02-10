@@ -866,8 +866,11 @@ func (tui *TUI) renderSplash() {
 			tui.drawString(x, startY+9, sub, tcell.StyleDefault.Foreground(ColorDim).Background(ColorBackground))
 		}
 	} else {
-		// Phase 1: Dedication easter egg
-		if elapsed > 2.5 {
+		// Phase 1: Dedication easter egg with dissolve effect
+		totalDuration := 5.0
+		dissolveStart := 3.5
+
+		if elapsed > totalDuration {
 			tui.showSplash = false
 			return
 		}
@@ -880,20 +883,50 @@ func (tui *TUI) renderSplash() {
 
 		centerY := tui.height / 2
 
+		// Dissolve characters: as time progresses past dissolveStart, randomly replace chars with falling fragments
+		dissolving := elapsed > dissolveStart
+		dissolveProgress := 0.0
+		if dissolving {
+			dissolveProgress = (elapsed - dissolveStart) / (totalDuration - dissolveStart)
+		}
+		fragments := []rune{'·', '.', ':', '°', ' ', ' ', ' '}
+
+		drawDissolving := func(x, y int, text string, style tcell.Style) {
+			for i, r := range text {
+				if dissolving {
+					// Hash-based pseudo-random per character position
+					hash := (x + i*7 + y*13 + int(elapsed*10)) % 10
+					threshold := int(dissolveProgress * 10)
+					if hash < threshold {
+						// Character has dissolved — show a falling fragment or blank
+						fragIdx := (hash + int(elapsed*5)) % len(fragments)
+						dropY := y + int(dissolveProgress*float64(tui.height-y)*float64(hash+1)/10.0)
+						if dropY < tui.height && fragments[fragIdx] != ' ' {
+							fadedStyle := tcell.StyleDefault.Foreground(ColorDim).Background(ColorBackground)
+							tui.screen.SetContent(x+i, dropY, fragments[fragIdx], nil, fadedStyle)
+						}
+						tui.screen.SetContent(x+i, y, ' ', nil, style)
+						continue
+					}
+				}
+				tui.screen.SetContent(x+i, y, r, nil, style)
+			}
+		}
+
 		if elapsed > 0.3 {
 			line1 := "this is for"
 			x := (tui.width - displayWidth(line1)) / 2
-			tui.drawString(x, centerY-1, line1, dimStyle)
+			drawDissolving(x, centerY-1, line1, dimStyle)
 		}
 		if elapsed > 0.8 {
 			line2 := "_m0usem0use_  &  ziggy"
 			x := (tui.width - displayWidth(line2)) / 2
-			tui.drawString(x, centerY+1, line2, nameStyle)
+			drawDissolving(x, centerY+1, line2, nameStyle)
 		}
 		if elapsed > 1.5 {
 			heart := "<3"
 			x := (tui.width - displayWidth(heart)) / 2
-			tui.drawString(x, centerY+3, heart, heartStyle)
+			drawDissolving(x, centerY+3, heart, heartStyle)
 		}
 	}
 }

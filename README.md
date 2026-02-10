@@ -9,6 +9,9 @@
 <p align="center"><strong>Dual-Phenomenology Site Checker</strong></p>
 <p align="center"><em>For _m0usem0use_ & ziggy</em></p>
 <p align="center">
+<a href="https://buymeacoffee.com/ringmast4r"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+</p>
+<p align="center">
 <em>DNS + HTTP/S probing, 50 concurrent workers, TLS cert analysis, retry pass, response time percentiles</em>
 </p>
 
@@ -296,3 +299,7 @@ FRANKENSTEIN/
 ---
 
 <p align="center"><em>This one's for <strong>_m0usem0use_</strong> and <strong>ziggy</strong></em></p>
+
+<p align="center">
+<a href="https://buymeacoffee.com/ringmast4r"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+</p>

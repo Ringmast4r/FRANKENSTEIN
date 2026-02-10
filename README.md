@@ -116,14 +116,13 @@ Frankenstein/
 │   ├── go.mod               # Go module definition
 │   └── go.sum               # Dependency checksums
 ├── WINDOWS/
-│   ├── frankenstein.exe     # Windows binary
-│   └── db-viewer.html      # Browser-based DB explorer
+│   └── frankenstein.exe     # Windows binary
 ├── LINUX/
-│   ├── frankenstein         # Linux binary
-│   └── db-viewer.html      # Browser-based DB explorer
+│   └── frankenstein         # Linux binary
 ├── assets/                  # GIFs and media
 ├── targets/                 # Drop .txt target files here
 ├── logs/                    # Scan logs (auto-created)
+├── db-viewer.html           # Browser-based DB explorer
 ├── frankenstein.db          # SQLite database (auto-created)
 └── README.md
 ```

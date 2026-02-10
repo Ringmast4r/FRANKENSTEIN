@@ -1,8 +1,6 @@
-<!-- GIF-START -->
 <p align="center">
-<img src="assets/Mad%20Scientist.gif" width="500">
+<img src="assets/week%20computer%20GIF.gif" width="500">
 </p>
-<!-- GIF-END -->
 
 <h1 align="center">FRANKENSTEIN</h1>
 <p align="center">

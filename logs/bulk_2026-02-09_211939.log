@@ -1,0 +1,2733 @@
+[*] Loaded 2723 targets from venezuelan-websites.txt
+[*] Starting concurrent scan (50 workers)...
+
+[-] (1/2723) nuevopais.net DEAD
+[-] (2/2723) primeraedicion.com.ve DEAD
+[+] (3/2723) vpitv.com ALIVE 200 138ms -- "VPITV"
+[-] (4/2723) circuito.com.ve DEAD
+[+] (5/2723) unionradio.net ALIVE 403 156ms -- "Just a moment..."
+[-] (6/2723) radiomundial.gob.ve DEAD
+[+] (7/2723) elpitazo.net ALIVE 200 195ms -- "Investigación, noticias e informaciones confirmadas ...
+[-] (8/2723) panorama.com.ve DEAD
+[+] (9/2723) contrapunto.com ALIVE 200 210ms -- "Contrapunto.com | Donde la verdad es tendencia"
+[!] (10/2723) tves.gob.ve DNS-ONLY -- IPs: 172.67.75.136,104.26.6.83,104.26.7.83,2606:4700:20::681a:753,2606:4700:20::ac43:4b88,2606:4700:20::681a:653
+[+] (11/2723) prodavinci.com ALIVE 200 179ms -- "Prodavinci &#8211; Portal de ideas venezolano"
+[+] (12/2723) talcualdigital.com ALIVE 200 190ms -- "TalCual - Claro y raspao - TalCual"
+[+] (13/2723) ntn24.com ALIVE 200 250ms -- "NTN24 | Noticias de Colombia, Venezuela, M&#xE9;xico...
+[+] (14/2723) rcnv.com ALIVE 200 188ms
+[+] (15/2723) misionverdad.com ALIVE 200 245ms -- "Misión Verdad | Grupo de investigación y análisis"
+[+] (16/2723) elimpulso.com ALIVE 403 295ms -- "Just a moment..."
+[+] (17/2723) elnacional.com ALIVE 200 313ms -- "EL NACIONAL - Noticias de Venezuela y el Mundo"
+[+] (18/2723) laiguana.tv ALIVE 200 386ms -- "Noticias, TV web y geopolítica de Venezuela y el mun...
+[+] (19/2723) reporteconfidencial.info ALIVE 200 310ms -- "Reporte Confidencial | Noticias de Venezuela y el Mu...
+[-] (20/2723) vive.gob.ve DEAD
+[+] (21/2723) noticiaaldia.com ALIVE 200 389ms -- "Noticia al Dia - Noticias de Maracaibo y El Zulia la...
+[+] (22/2723) larazon.net ALIVE 200 287ms -- "La Razón"
+[+] (23/2723) diariolavoz.net ALIVE 200 425ms -- "La Voz - Un Suceso Nacional"
+[+] (24/2723) rnv.gob.ve ALIVE 200 457ms -- "Inicio - RNV | La Emisora Oficial del Estado venezol...
+[+] (25/2723) globovision.com ALIVE 200 473ms -- "Globovisión"
+[+] (26/2723) ultimasnoticias.com.ve ALIVE 202 317ms
+[+] (27/2723) correodelcaroni.com ALIVE 200 452ms -- "Correo del Caroní - La Casa de las Ideas"
+[-] (28/2723) mercantilbanco.com DEAD
+[-] (29/2723) bod.com.ve DEAD
+[-] (30/2723) magallanes.com.ve DEAD
+[+] (31/2723) televen.com ALIVE 200 199ms -- "TELEVEN Tu Canal | Home"
+[-] (32/2723) navegantes.com.ve DEAD
+[+] (33/2723) eluniversal.com ALIVE 200 460ms -- "EL UNIVERSAL"
+[+] (34/2723) 2001.com.ve ALIVE 200 580ms -- "2001 Online | Noticias de Estados Unidos y el mundo"
+[+] (35/2723) liderendeportes.com ALIVE 202 225ms
+[+] (36/2723) beisbolvenezolano.com ALIVE 200 182ms
+[-] (37/2723) banesco.com DEAD
+[-] (38/2723) bicentenario.com.ve DEAD
+[+] (39/2723) aguilasdelzulia.com ALIVE 200 176ms
+[+] (40/2723) bravosdemargarita.com ALIVE 200 210ms -- "Web Oficial de Bravos de Margarita"
+[+] (41/2723) diariodelosandes.com ALIVE 200 613ms -- "Inicio - Diario de Los Andes"
+[+] (42/2723) bancodevenezuela.com ALIVE 403 58ms -- "ERROR: The request could not be satisfied"
+[-] (43/2723) fvf.org.ve DEAD
+[+] (44/2723) leones.com ALIVE 200 319ms -- "Sitio oficial de los Leones del Caracas Baseball Club"
+[-] (45/2723) banfanb.com.ve DEAD
+[+] (46/2723) elsiglo.com.ve ALIVE 200 435ms -- "elsiglocomve | El matutino de los Valles de Aragua"
+[+] (47/2723) provincial.com ALIVE 403 222ms -- "BBVA"
+[+] (48/2723) telesurtv.net ALIVE 200 471ms -- "Inicio - teleSUR"
+[-] (49/2723) exterior.com.ve DEAD
+[-] (50/2723) bancaribe.com.ve DEAD
+[-] (51/2723) antv.gob.ve DEAD
+[+] (52/2723) meridiano.com.ve ALIVE 200 461ms -- "Meridiano.net | Todo sobre el mundo deportivo"
+[+] (53/2723) tigresdearagua.com ALIVE 200 441ms -- "TigresDeAragua.com - Sports Domains for Sale - Buy P...
+[-] (54/2723) mppe.gob.ve DEAD
+[+] (55/2723) bnc.com.ve ALIVE 200 476ms
+[+] (56/2723) conindustria.org ALIVE 200 399ms -- "Conindustria - Conindustria"
+[+] (57/2723) venevision.com ALIVE 200 1175ms -- "Venevision"
+[+] (58/2723) notitarde.com ALIVE 200 676ms
+[-] (59/2723) minec.gob.ve DEAD
+[+] (60/2723) ciudadccs.info ALIVE 200 1216ms -- "Inicio | Periódico CiudadCCS"
+[+] (61/2723) bcv.org.ve ALIVE 200 599ms -- "Banco Central de Venezuela |"
+[+] (62/2723) patria.org.ve ALIVE 200 575ms -- "Patria"
+[+] (63/2723) vicepresidencia.gob.ve ALIVE 200 566ms -- "Vicepresidencia de la Republica Bolivariana de Venez...
+[+] (64/2723) sofitasa.com ALIVE 200 911ms -- "Banco Sofitasa - Inicio"
+[-] (65/2723) avavit.com.ve DEAD
+[-] (66/2723) oncti.gob.ve DEAD
+[+] (67/2723) banplus.com ALIVE 200 1200ms -- "Banplus &#8211; Banco Universal"
+[+] (68/2723) mpprijp.gob.ve ALIVE 200 530ms -- "Bienvenida | Ministerio del Poder Popular para Relac...
+[+] (69/2723) albatv.org ALIVE 200 1542ms -- "albatv.org -"
+[+] (70/2723) avn.info.ve ALIVE 200 1924ms -- "Home - Agencia Venezolana de Noticias"
+[+] (71/2723) prensa-latina.cu ALIVE 200 1274ms -- "Portada - Noticias Prensa Latina"
+[+] (72/2723) minaguas.gob.ve ALIVE 200 408ms -- "MINAGUAS &#8211; Ministerio del Poder Popular de Ate...
+[+] (73/2723) venamcham.org ALIVE 200 1405ms -- "VenAmCham &#8211; Bienvenidos a VenAmCham"
+[+] (74/2723) vinotinto.org ALIVE 200 1437ms -- "Plesk Obsidian 18.0.75"
+[+] (75/2723) eltiempo.com.ve ALIVE 200 2129ms -- "El Tiempo - Informando al pueblo oriental"
+[+] (76/2723) mincyt.gob.ve ALIVE 200 1107ms -- "Ministerio del Poder Popular de Ciencia y Tecnología...
+[+] (77/2723) minmujer.gob.ve ALIVE 200 1147ms -- "Ministerio del Poder Popular para la Mujer y la Igua...
+[-] (78/2723) mp.gob.ve DEAD
+[+] (79/2723) mindefensa.gob.ve ALIVE 200 639ms -- "Ministerio del Poder Popular para la Defensa"
+[-] (80/2723) an.gob.ve DEAD
+[+] (81/2723) sudeban.gob.ve ALIVE 200 788ms -- "SUDEBAN."
+[+] (82/2723) mppt.gob.ve ALIVE 503 337ms -- "Tu acceso a este sitio ha sido limitado por el propi...
+[+] (83/2723) bolsadecaracas.com ALIVE 200 1637ms -- "BVC &raquo; Bolsa de Valores de Caracas"
+[+] (84/2723) tsj.gob.ve ALIVE 503 350ms
+[-] (85/2723) minhvi.gob.ve DEAD
+[-] (86/2723) asambleanacional.gob.ve DEAD
+[-] (87/2723) minhidrocarburos.gob.ve DEAD
+[-] (88/2723) cne.gob.ve DEAD
+[+] (89/2723) mpppst.gob.ve ALIVE 400 313ms -- "ownCloud"
+[+] (90/2723) mppef.gob.ve ALIVE 404 1467ms
+[+] (91/2723) quepasa.com.ve ALIVE 200 3858ms -- "Qué Pasa - Sin mordaza y sin miedo - Maracaibo, Vene...
+[!] (92/2723) laprensalara.com.ve DNS-ONLY -- IPs: 104.21.0.155,172.67.151.64,2606:4700:3037::ac43:9740,2606:4700:3035::6815:9b
+[-] (93/2723) imprentanacional.gob.ve DEAD
+[+] (94/2723) minpesca.gob.ve ALIVE 200 2329ms -- "Ministerio del Poder Popular de Pesca y Acuicultura"
+[+] (95/2723) mppee.gob.ve ALIVE 200 1132ms -- "MPPEE &#8211; Ministerio del Poder Popular para la E...
+[-] (96/2723) pgr.gob.ve DEAD
+[-] (97/2723) bcv.gob.ve DEAD
+[+] (98/2723) minpi.gob.ve ALIVE 200 2368ms -- "MINPI - Inicio"
+[-] (99/2723) cencoex.gob.ve DEAD
+[-] (100/2723) sibci.gob.ve DEAD
+[+] (101/2723) mindeporte.gob.ve ALIVE 200 626ms -- "Inicio - MINDEPORTE"
+[+] (102/2723) maduradas.com ALIVE 200 140ms -- "Maduradas.com - Noticias de Venezuela sobre política...
+[+] (103/2723) lapatilla.com ALIVE 200 136ms -- "Home - LaPatilla.com"
+[+] (104/2723) efectococuyo.com ALIVE 200 337ms -- "Efecto Cocuyo - Periodismo que ilumina"
+[-] (105/2723) minci.gob.ve DEAD
+[+] (106/2723) desarrollominero.gob.ve ALIVE 200 1381ms -- "- Ministerio del Poder Popular de Desarrollo Minero ...
+[+] (107/2723) laverdad.com ALIVE 200 263ms -- "La Verdad - La Verdad"
+[+] (108/2723) fedecamaras.org.ve ALIVE 200 4767ms -- "Fedecámaras. Asociación civil - Asociación Civil. El...
+[-] (109/2723) inpsasel.gob.ve DEAD
+[+] (110/2723) inac.gob.ve ALIVE 403 351ms -- "403 Forbidden"
+[+] (111/2723) cgr.gob.ve ALIVE 200 366ms -- "Contraloría General de la República Bolivariana de V...
+[-] (112/2723) saren.gob.ve DEAD
+[-] (113/2723) banavih.gob.ve DEAD
+[-] (114/2723) insai.gob.ve DEAD
+[+] (115/2723) conatel.gob.ve ALIVE 200 516ms -- "CONATEL &#8211; Comision Nacional de Telecomunicacio...
+[+] (116/2723) sapi.gob.ve ALIVE 200 152ms -- "Potential Threat Detected"
+[+] (117/2723) mppsp.gob.ve ALIVE 200 4401ms -- "Inicio - MPPSP"
+[-] (118/2723) opsu.gob.ve DEAD
+[+] (119/2723) sunai.gob.ve ALIVE 200 869ms -- "Sunai-Web"
+[+] (120/2723) correodelorinoco.gob.ve ALIVE 200 3162ms -- "Correo del Orinoco - Correo del Orinoco | La Artille...
+[+] (121/2723) sunaval.gob.ve ALIVE 403 235ms -- "Attention Required! | Cloudflare"
+[+] (122/2723) suscerte.gob.ve ALIVE 200 5642ms -- "ZeroShell"
+[-] (123/2723) ife.gob.ve DEAD
+[+] (124/2723) inn.gob.ve ALIVE 200 918ms -- "INNQR - Login"
+[+] (125/2723) abae.gob.ve ALIVE 200 1270ms -- "ABAE - Agencia Bolivariana para Actividades Espacial...
+[+] (126/2723) igvsb.gob.ve ALIVE 200 375ms -- "IGVSB - Instituto Geográfico de Venezuela Simón Bolí...
+[-] (127/2723) inttt.gob.ve DEAD
+[+] (128/2723) sudeaseg.gob.ve ALIVE 200 2126ms -- "Sudeaseg &#8211; Superintendencia de la Actividad As...
+[+] (129/2723) unif.gob.ve ALIVE 200 422ms -- "Zimbra Web Client Sign In"
+[+] (130/2723) cnu.gob.ve ALIVE 200 912ms -- "Consejo Nacional de Universidades &#8211; CNU"
+[-] (131/2723) cendit.gob.ve DEAD
+[-] (132/2723) unes.gob.ve DEAD
+[+] (133/2723) sundde.gob.ve ALIVE 200 1872ms -- "SUNDDE &#8211; Superintendencia Nacional para la Def...
+[+] (134/2723) pcivil.gob.ve ALIVE 200 1447ms -- "Home PC - Protección Civil y Administración de Desas...
+[+] (135/2723) fonacit.gob.ve ALIVE 200 1056ms -- "Fondo Nacional de Ciencia, Tecnología e Innovación."
+[+] (136/2723) inhrr.gob.ve ALIVE 200 335ms -- "Instituto Nacional de Higiene &quot;Rafael Rangel&qu...
+[+] (137/2723) ivic.gob.ve ALIVE 200 1157ms -- "Instituto Venezolano de Investigaciones IVIC &#8211;...
+[-] (138/2723) fii.gob.ve DEAD
+[+] (139/2723) lvbp.com ALIVE 200 9902ms -- "Liga Venezolana de Béisbol Profesional - Presentada ...
+[+] (140/2723) ipsfa.gob.ve ALIVE 200 2458ms -- "IPSFANB - Instituto de Previsión de la Fuerza Armada"
+[+] (141/2723) cnti.gob.ve ALIVE 200 1234ms -- "Inicio - CNTI"
+[-] (142/2723) industriacanaima.gob.ve DEAD
+[+] (143/2723) fidetel.gob.ve ALIVE 200 1947ms -- "Inicio - FIDETEL"
+[-] (144/2723) fanb.mil.ve DEAD
+[+] (145/2723) infocentro.gob.ve ALIVE 200 3953ms -- "Inicio - Infocentro"
+[+] (146/2723) armada.mil.ve ALIVE 200 1187ms
+[+] (147/2723) ejercito.mil.ve ALIVE 200 1006ms -- "Sitio Oficial del Ejército Bolivariano de Venezuela ...
+[+] (148/2723) caribesdeanzoategui.com ALIVE 200 121ms -- "Potential Threat Detected"
+[-] (149/2723) milicia.mil.ve DEAD
+[+] (150/2723) mppeuct.gob.ve ALIVE 403 129ms -- "403 Forbidden"
+[-] (151/2723) dhn.mil.ve DEAD
+[-] (152/2723) gnb.gob.ve DEAD
+[+] (153/2723) funvisis.gob.ve ALIVE 200 141ms -- "Bienvenidos a Funvisis Funvisis"
+[!] (154/2723) cenditel.gob.ve DNS-ONLY -- IPs: 150.187.36.30,200.109.67.83,200.11.216.66
+[-] (155/2723) sebin.gob.ve DEAD
+[+] (156/2723) ceofanb.mil.ve ALIVE 500 843ms -- "Error de la base de datos"
+[+] (157/2723) cicpc.gob.ve ALIVE 200 475ms -- "Zimbra Web Client Sign In"
+[+] (158/2723) petrosur.com ALIVE 200 492ms -- "PETROSUR | Société de génie-conseil spécialisée, PET...
+[+] (159/2723) fogade.gob.ve ALIVE 403 514ms -- "403 Forbidden"
+[-] (160/2723) milicia.gob.ve DEAD
+[+] (161/2723) defensoria.gob.ve ALIVE 200 1306ms -- "- Institución del Poder Ciudadano para la Promoción,...
+[-] (162/2723) ipsfa.mil.ve DEAD
+[!] (163/2723) hidroven.gob.ve DNS-ONLY -- IPs: 190.202.5.138
+[-] (164/2723) metrodecaracas.gob.ve DEAD
+[-] (165/2723) mpd.gob.ve DEAD
+[-] (166/2723) venalum.gob.ve DEAD
+[+] (167/2723) sidor.com ALIVE 200 366ms -- "Siderúrgica del Orinoco Alfredo Maneiro"
+[+] (168/2723) pequiven.com ALIVE 200 166ms
+[-] (169/2723) dgcim.mil.ve DEAD
+[-] (170/2723) minerven.gob.ve DEAD
+[+] (171/2723) sunavi.gob.ve ALIVE 200 149ms -- "Página de Mantenimiento"
+[+] (172/2723) conviasa.aero ALIVE 200 1700ms -- "Conviasa-El Placer de Volar-
+Inicio"
+[-] (173/2723) cva.gob.ve DEAD
+[+] (174/2723) cvg.gob.ve ALIVE 200 1604ms -- "Noticias | Corporación Venezolana de Guayana"
+[-] (175/2723) metrodevalencia.gob.ve DEAD
+[-] (176/2723) metrodelosteques.gob.ve DEAD
+[+] (177/2723) bolipuertos.gob.ve ALIVE 200 343ms -- "· Bolipuertos S.A."
+[-] (178/2723) indepabis.gob.ve DEAD
+[-] (179/2723) incanal.gob.ve DEAD
+[-] (180/2723) bt.gob.ve DEAD
+[+] (181/2723) metrodemaracaibo.gob.ve ALIVE 200 758ms -- "Metro de Maracaibo &#8211; Pagina oficial del Metro ...
+[-] (182/2723) bancoagricola.gob.ve DEAD
+[-] (183/2723) banfanb.gob.ve DEAD
+[+] (184/2723) bandes.gob.ve ALIVE 200 460ms -- "BANDES"
+[+] (185/2723) ipostel.gob.ve ALIVE 200 7640ms -- "Apache2 Debian Default Page: It works"
+[!] (186/2723) dollartoday.com DNS-ONLY -- IPs: 184.168.221.52
+[!] (187/2723) runrun.es DNS-ONLY -- IPs: 185.152.214.190
+[-] (188/2723) misionrobinson.gob.ve DEAD
+[-] (189/2723) barrioadentro.gob.ve DEAD
+[!] (190/2723) camarapetrolera.org DNS-ONLY -- IPs: 135.148.72.141
+[-] (191/2723) mincultura.gob.ve DEAD
+[-] (192/2723) granmisionvivienda.gob.ve DEAD
+[!] (193/2723) presidencia.gob.ve DNS-ONLY -- IPs: 190.202.11.88
+[!] (194/2723) mpps.gob.ve DNS-ONLY -- IPs: 201.249.169.94
+[!] (195/2723) prensapresidencialvenezuela.gob.ve DNS-ONLY -- IPs: 190.202.11.92
+[!] (196/2723) mppre.gob.ve DNS-ONLY -- IPs: 64.212.76.2,200.11.136.158,190.202.88.140
+[!] (197/2723) vtv.gob.ve DNS-ONLY -- IPs: 190.205.52.171
+[-] (198/2723) bancodevenezuela.gob.ve DEAD
+[!] (199/2723) consecomercio.org DNS-ONLY -- IPs: 200.58.112.82
+[-] (200/2723) inia.gob.ve DEAD
+[!] (201/2723) mppp.gob.ve DNS-ONLY -- IPs: 190.205.34.82
+[-] (202/2723) agropatria.gob.ve DEAD
+[!] (203/2723) onapre.gob.ve DNS-ONLY -- IPs: 190.205.49.202
+[!] (204/2723) gobiernoenlinea.gob.ve DNS-ONLY -- IPs: 150.189.0.14
+[-] (205/2723) acav.gob.ve DEAD
+[+] (206/2723) aragua.gob.ve ALIVE 200 150ms
+[!] (207/2723) mintur.gob.ve DNS-ONLY -- IPs: 190.205.57.12
+[!] (208/2723) sunacrip.gob.ve DNS-ONLY -- IPs: 190.217.12.132
+[!] (209/2723) ministeriopublico.gob.ve DNS-ONLY -- IPs: 200.7.96.120
+[!] (210/2723) defensapublica.gob.ve DNS-ONLY -- IPs: 200.109.238.132
+[!] (211/2723) minpal.gob.ve DNS-ONLY -- IPs: 190.202.51.147,190.202.30.126
+[+] (212/2723) movilnet.com.ve ALIVE 200 434ms -- "..::MOVILNET::.."
+[+] (213/2723) lara.gob.ve ALIVE 200 277ms -- "Gobernación de LARA"
+[!] (214/2723) ivss.gob.ve DNS-ONLY -- IPs: 200.109.237.53
+[+] (215/2723) falcon.gob.ve ALIVE 200 702ms -- "SAT:
+        Principal"
+[!] (216/2723) armando.info DNS-ONLY -- IPs: 185.152.214.179
+[+] (217/2723) yaracuy.gob.ve ALIVE 200 469ms -- "Gobernación del estado Yaracuy"
+[!] (218/2723) intt.gob.ve DNS-ONLY -- IPs: 190.202.82.70,190.217.13.57
+[!] (219/2723) saime.gob.ve DNS-ONLY -- IPs: 200.11.208.38
+[-] (220/2723) sucre.gob.ve DEAD
+[!] (221/2723) inces.gob.ve DNS-ONLY -- IPs: 201.248.74.148
+[-] (222/2723) nuevaesparta.gob.ve DEAD
+[!] (223/2723) inea.gob.ve DNS-ONLY -- IPs: 200.44.164.193
+[-] (224/2723) caracas.gob.ve DEAD
+[-] (225/2723) monagas.gob.ve DEAD
+[-] (226/2723) alcaldiadecaracas.gob.ve DEAD
+[-] (227/2723) alcaldiachacao.gob.ve DEAD
+[-] (228/2723) alcaldialibertador.gob.ve DEAD
+[+] (229/2723) apure.gob.ve ALIVE 200 457ms -- "Gobernación del Estado Apure"
+[-] (230/2723) alcaldiasucre.gob.ve DEAD
+[+] (231/2723) trujillo.gob.ve ALIVE 200 698ms
+[!] (232/2723) ine.gob.ve DNS-ONLY -- IPs: 190.205.34.82
+[+] (233/2723) alcaldiabaruta.gob.ve ALIVE 200 1083ms -- "Alcaldía de Municipio Baruta, Caracas, Venezuela"
+[+] (234/2723) guarico.gob.ve ALIVE 200 2896ms -- "Gobernacion de Guarico &#8211; Gobernacion de Guarico"
+[!] (235/2723) sencamer.gob.ve DNS-ONLY -- IPs: 190.202.144.173
+[!] (236/2723) inparques.gob.ve DNS-ONLY -- IPs: 198.50.159.41
+[-] (237/2723) alcaldiamunicipiovalencia.gob.ve DEAD
+[-] (238/2723) deltaamacuro.gob.ve DEAD
+[!] (239/2723) seniat.gob.ve DNS-ONLY -- IPs: 200.11.221.4
+[-] (240/2723) luz.ve DEAD
+[+] (241/2723) secretarialuz.org ALIVE 200 397ms -- "Bienvenidos a Secretaría LUZ"
+[+] (242/2723) ula.ve ALIVE 200 733ms -- "Universidad de los Andes (ULA)"
+[!] (243/2723) alcaldiademaracaibo.gob.ve DNS-ONLY -- IPs: 127.0.0.2
+[-] (244/2723) barinas.gob.ve DEAD
+[-] (245/2723) alcaldiadebarquisimeto.gob.ve DEAD
+[-] (246/2723) vargas.gob.ve DEAD
+[!] (247/2723) codecyt.gob.ve DNS-ONLY -- IPs: 190.202.123.55
+[+] (248/2723) unexpo.edu.ve ALIVE 200 754ms -- "UNIVERSIDAD NACIONAL EXPERIMENTAL POLITÉCNICA &#8211...
+[-] (249/2723) pdvsa.com DEAD
+[+] (250/2723) urbe.edu.ve ALIVE 200 342ms
+[-] (251/2723) uniandes.edu.ve DEAD
+[!] (252/2723) policianacional.gob.ve DNS-ONLY -- IPs: 162.248.52.204
+[-] (253/2723) umc.edu.ve DEAD
+[+] (254/2723) luz.edu.ve ALIVE 200 518ms
+[+] (255/2723) unimet.edu.ve ALIVE 200 942ms -- "Inicio - BIBLIOTECA PEDRO GRASES"
+[!] (256/2723) idea.gob.ve DNS-ONLY -- IPs: 190.202.42.16
+[!] (257/2723) ciepe.gob.ve DNS-ONLY -- IPs: 46.21.148.130
+[-] (258/2723) udone.edu.ve DEAD
+[+] (259/2723) alcaldiadevalencia.gob.ve ALIVE 200 3720ms -- "Alcaldía de Valencia - Inicio"
+[+] (260/2723) enagas.gob.ve ALIVE 200 148ms -- "Ente Nacional del Gas"
+[!] (261/2723) fundabit.gob.ve DNS-ONLY -- IPs: 201.249.206.163
+[+] (262/2723) uneg.edu.ve ALIVE 200 541ms -- "UNEG - Universidad Nacional Experimental de Guayana"
+[-] (263/2723) primariave.com DEAD
+[+] (264/2723) unesr.edu.ve ALIVE 200 989ms -- "Universidad Nacional Experimental Simón Rodríguez &#...
+[+] (265/2723) unet.edu.ve ALIVE 200 1111ms -- "Universidad Nacional Experimental del Táchira"
+[-] (266/2723) untvzla.com DEAD
+[-] (267/2723) acaborojas.org DEAD
+[+] (268/2723) ucab.edu.ve ALIVE 200 2453ms -- "Universidad Católica Andrés Bello &#8226; UCAB"
+[+] (269/2723) mariacorina.com ALIVE 200 176ms
+[+] (270/2723) copei.org ALIVE 200 167ms
+[+] (271/2723) primerojusticia.org.ve ALIVE 200 811ms -- "Primero Justicia"
+[-] (272/2723) accesojusticia.org DEAD
+[+] (273/2723) foropenal.com ALIVE 403 185ms
+[+] (274/2723) ubv.edu.ve ALIVE 200 632ms -- "Inicio – Universidad Bolivariana de Venezuela"
+[+] (275/2723) une.edu.ve ALIVE 200 2190ms -- "Home 2.0 - Universidad Nueva Esparta"
+[+] (276/2723) uny.edu.ve ALIVE 200 2611ms
+[+] (277/2723) controlatugobierno.com ALIVE 200 227ms -- "Controla Tu Gobierno | Organización Civil Mexicana"
+[+] (278/2723) fundacioncisneros.org ALIVE 200 185ms -- "Fundacion Cisneros"
+[+] (279/2723) uvm.edu.ve ALIVE 200 3102ms -- "UVM |"
+[-] (280/2723) centrodeartelaestancia.com DEAD
+[+] (281/2723) provea.org ALIVE 200 1527ms -- "Inicio - PROVEA"
+[+] (282/2723) fundacionbigott.com ALIVE 200 343ms -- "FundacionBigott.com is for sale | HugeDomains"
+[-] (283/2723) museojesussoto.com DEAD
+[-] (284/2723) procompetencia.gob.ve DEAD
+[+] (285/2723) cedice.org.ve ALIVE 202 812ms
+[-] (286/2723) odalysart.com DEAD
+[+] (287/2723) transparencia.org.ve ALIVE 200 1512ms -- "Transparencia"
+[-] (288/2723) galeriaodalys.com DEAD
+[+] (289/2723) ujap.edu.ve ALIVE 200 375ms -- "Portal de la Universidad José Antonio Páez - Univers...
+[+] (290/2723) jacoboborges.com ALIVE 200 375ms -- "Jacobo Borges"
+[!] (291/2723) aviacion.mil.ve DNS-ONLY -- IPs: 201.249.196.74
+[-] (292/2723) teatroteresacarreno.gob.ve DEAD
+[-] (293/2723) alejandrootero.org DEAD
+[-] (294/2723) fundacionmercantil.com DEAD
+[+] (295/2723) fontur.gob.ve ALIVE 200 2827ms -- "FONTUR"
+[-] (296/2723) ateneo.org.ve DEAD
+[+] (297/2723) uptm.edu.ve ALIVE 200 5406ms -- "UPTM &#8211; UNIVERSIDAD POLITÉCNICA TERRITORIAL DEL...
+[-] (298/2723) fundacionvillanueva.org DEAD
+[+] (299/2723) mercadolibre.com.ve ALIVE 200 485ms -- "Mercado Libre Venezuela - Envíos Gratis en el día"
+[+] (300/2723) galeriafreites.com ALIVE 200 1494ms -- "Inicio - Galería Freites"
+[+] (301/2723) carloscruz-diez.com ALIVE 200 1525ms -- "Cruz-Diez Carlos Archives - Mike Art Kunst"
+[+] (302/2723) tucarro.com.ve ALIVE 200 743ms
+[+] (303/2723) misionsucre.gob.ve ALIVE 200 1214ms -- "Misión Sucre &#8211; Universidad en la Comunidad"
+[-] (304/2723) excelsior.com.ve DEAD
+[-] (305/2723) central-madeirense.com DEAD
+[+] (306/2723) tuinmueble.com.ve ALIVE 200 807ms
+[-] (307/2723) automercado.com.ve DEAD
+[+] (308/2723) epaenlinea.com ALIVE 200 194ms -- "Ferreteria EPA"
+[-] (309/2723) canaima.com.ve DEAD
+[-] (310/2723) fmn.gob.ve DEAD
+[+] (311/2723) venezuelatuya.com ALIVE 200 263ms -- "Venezuela Tuya... - Venezuela Tuya"
+[-] (312/2723) mochima.org DEAD
+[-] (313/2723) merida-andes.com DEAD
+[+] (314/2723) losroques.org ALIVE 200 170ms
+[-] (315/2723) margarita.com.ve DEAD
+[+] (316/2723) venezuelanalysis.com ALIVE 200 143ms -- "Home - Venezuelanalysis"
+[-] (317/2723) daboraenvzla.com DEAD
+[+] (318/2723) cofavic.org ALIVE 200 4287ms -- "Cofavic"
+[+] (319/2723) jesusrafaelsoto.com ALIVE 200 2955ms -- "Home - Mike Art Kunst"
+[-] (320/2723) ministeriodelacultura.gob.ve DEAD
+[+] (321/2723) ucat.edu.ve ALIVE 200 7855ms
+[!] (322/2723) cantv.com.ve DNS-ONLY -- IPs: 161.196.43.73
+[-] (323/2723) tsj.gov.ve DEAD
+[+] (324/2723) venezuelamia.com ALIVE 200 319ms -- "VenezuelaMia.com is for sale | HugeDomains"
+[+] (325/2723) farmatodo.com.ve ALIVE 200 2220ms -- "Farmatodo: Farmacia Online las 24 Horas | Delivery"
+[+] (326/2723) elchiguirebipolar.net ALIVE 200 911ms -- "El Chigüire Bipolar &#8211; Noticias parciales y sin...
+[-] (327/2723) fiscalia.gov.ve DEAD
+[!] (328/2723) guardia.mil.ve DNS-ONLY -- IPs: 190.202.145.60
+[+] (329/2723) venezolanosenelmundo.com ALIVE 200 547ms
+[+] (330/2723) fasmee.gob.ve ALIVE 200 610ms -- "FASMEE: Fondo Autoadministrado de Salud del Minister...
+[!] (331/2723) corpoelec.gob.ve DNS-ONLY -- IPs: 190.202.128.41
+[-] (332/2723) seniat.gov.ve DEAD
+[-] (333/2723) mindefensa.gov.ve DEAD
+[!] (334/2723) corpoelec.com.ve DNS-ONLY -- IPs: 206.62.169.242
+[+] (335/2723) carabobo.gob.ve ALIVE 200 3141ms -- "Gobernación del Estado Carabobo"
+[-] (336/2723) guayanaesequiba.gob.ve DEAD
+[+] (337/2723) sedatebne.gob.ve ALIVE 200 408ms -- "SEDATEBNE"
+[!] (338/2723) ferrominera.gob.ve DNS-ONLY -- IPs: 190.202.108.91
+[-] (339/2723) sen.gob.ve DEAD
+[+] (340/2723) ascaso.com ALIVE 200 7005ms -- "Ascaso Factory | Espresso coffee machines handcrafte...
+[-] (341/2723) bolivar.gob.ve DEAD
+[-] (342/2723) cronistadecaracas.gob.ve DEAD
+[+] (343/2723) enpi.gob.ve ALIVE 200 383ms -- "Inicio1 - ENPI"
+[+] (344/2723) comex.gob.ve ALIVE 200 630ms -- "COMEX"
+[+] (345/2723) ucv.ve ALIVE 200 155ms -- "Universidad Central de Venezuela"
+[+] (346/2723) alcaldiadeguarenas.gob.ve ALIVE 200 3253ms -- "Alcaldía del municipio Plaza Guarenas - Alcaldia de ...
+[-] (347/2723) cojedes.gob.ve DEAD
+[-] (348/2723) circuitoscomunales.gob.ve DEAD
+[+] (349/2723) dgnb.gob.ve ALIVE 200 2268ms -- "Dirección General Nacional de Bomberos"
+[-] (350/2723) cpsa.gob.ve DEAD
+[+] (351/2723) granmisionvueltaalapatria.gob.ve ALIVE 200 2164ms -- "Inicio | Gran Misión Vuelta a la Patria"
+[+] (352/2723) siarteccarabobo.gob.ve ALIVE 200 391ms -- "Siartec"
+[-] (353/2723) pciviltachira.gob.ve DEAD
+[+] (354/2723) uc.edu.ve ALIVE 200 281ms -- "Universidad de Carabobo"
+[+] (355/2723) minaamp.gob.ve ALIVE 200 619ms -- "Login | Registro del adulto mayor"
+[-] (356/2723) clap.gob.ve DEAD
+[-] (357/2723) gacetaoficial.gov.ve DEAD
+[+] (358/2723) contraloriadecarirubana.gob.ve ALIVE 202 379ms
+[+] (359/2723) alcaldiasancristobal.gob.ve ALIVE 200 535ms -- "Alcaldía del Municipio San Cristóbal"
+[+] (360/2723) corpesca.gob.ve ALIVE 200 390ms -- "Venezuela Come + Pescado"
+[+] (361/2723) inpsaseletica.gob.ve ALIVE 200 973ms -- "Registro e Inicio de Sesión"
+[+] (362/2723) unefa.edu.ve ALIVE 200 440ms -- "UNEFA Excelencia Educativa, Abierta al Pueblo"
+[-] (363/2723) alcaldiadelmunicipiotinaco.gob.ve DEAD
+[+] (364/2723) nuevaepoca.gob.ve ALIVE 200 515ms
+[+] (365/2723) venezuelatoda.gob.ve ALIVE 200 557ms
+[+] (366/2723) traki.com ALIVE 200 10891ms -- "traki"
+[+] (367/2723) psuv.org.ve ALIVE 200 1308ms -- "Partido Socialista Unido de Venezuela"
+[!] (368/2723) bicentenario.gob.ve DNS-ONLY -- IPs: 190.202.109.243
+[+] (369/2723) sigestel.gob.ve ALIVE 200 465ms -- "SIGESTEL | INICIO"
+[+] (370/2723) masciencia.gob.ve ALIVE 200 1128ms -- "Inicio - +Ciencia"
+[!] (371/2723) bancoex.gob.ve DNS-ONLY -- IPs: 190.9.128.247
+[+] (372/2723) cenipa.gob.ve ALIVE 503 309ms
+[+] (373/2723) comisionpresidencialucv.gob.ve ALIVE 202 262ms
+[-] (374/2723) vsctes.gob.ve DEAD
+[!] (375/2723) transbarca.gob.ve DNS-ONLY -- IPs: 201.249.61.41
+[+] (376/2723) loteriadecaracas.gob.ve ALIVE 200 1362ms -- "Home - Lotería de Caracas"
+[!] (377/2723) sunagro.gob.ve DNS-ONLY -- IPs: 190.205.103.97
+[!] (378/2723) misionribas.gob.ve DNS-ONLY -- IPs: 190.202.31.170
+[!] (379/2723) mercal.gob.ve DNS-ONLY -- IPs: 186.24.13.6
+[!] (380/2723) miranda.gob.ve DNS-ONLY -- IPs: 200.44.156.147
+[!] (381/2723) cfg.gob.ve DNS-ONLY -- IPs: 190.202.54.107,190.202.54.106
+[-] (382/2723) 1x10delbuengobierno.gob.ve DEAD
+[!] (383/2723) zulia.gob.ve DNS-ONLY -- IPs: 190.124.30.67
+[!] (384/2723) fondas.gob.ve DNS-ONLY -- IPs: 201.248.64.121
+[+] (385/2723) alcaldiadenaguanagua.gob.ve ALIVE 200 628ms -- "Alcaldía de Naguanagua"
+[-] (386/2723) juegosnacionales.gob.ve DEAD
+[!] (387/2723) misionatodavidavenezuela.gob.ve DNS-ONLY -- IPs: 190.202.15.211
+[+] (388/2723) respaldocomunal.gob.ve ALIVE 200 935ms -- "Servicio Fondo Nacional del Poder Popular"
+[+] (389/2723) futurafm.gob.ve ALIVE 200 254ms -- "Futura 104.7 Fm | La mejor Radio en Cabimas, ¡Origin...
+[+] (390/2723) sabates.gob.ve ALIVE 200 1332ms -- "SABATES | Inicio"
+[+] (391/2723) cmao.gob.ve ALIVE 200 644ms -- "Inicio"
+[-] (392/2723) polocientifico.gob.ve DEAD
+[+] (393/2723) gobernaciondelzulia.gob.ve ALIVE 200 1658ms
+[+] (394/2723) emvepro.gob.ve ALIVE 200 899ms -- "Iniciar sesión – EMVEPRO"
+[!] (395/2723) tachira.gob.ve DNS-ONLY -- IPs: 190.202.128.131
+[+] (396/2723) comunas.gob.ve ALIVE 200 1545ms -- "Inicio - Comunas, Movimientos Sociales y Agricultura...
+[+] (397/2723) tubhelca.gob.ve ALIVE 200 198ms -- "Inicio - TUBHELCA, Tuberías Helicoidales Compañía An...
+[+] (398/2723) corselca.gob.ve ALIVE 200 551ms -- "Corselca &#8211; Logo"
+[-] (399/2723) mre.gov.ve DEAD
+[+] (400/2723) concejomunicipiolostaques.gob.ve ALIVE 200 2018ms -- "CONCELOSTAQUES &#8211; Concejo Bolivariano del Munic...
+[+] (401/2723) sna.gob.ve ALIVE 503 404ms -- "Sitio Mantenimiento"
+[+] (402/2723) sunad.gob.ve ALIVE 503 429ms -- "Sitio Mantenimiento"
+[+] (403/2723) merida.gob.ve ALIVE 200 13856ms -- "Gobernación del Estado Bolivariano de Mérida"
+[+] (404/2723) emprenderjuntos.gob.ve ALIVE 200 326ms -- "Emprender Juntos"
+[-] (405/2723) celarg.gob.ve DEAD
+[!] (406/2723) portuguesa.gob.ve DNS-ONLY -- IPs: 138.128.182.50
+[+] (407/2723) gaslara.gob.ve ALIVE 200 184ms -- "GasLara c.a Rif: G-20013100-4"
+[!] (408/2723) anzoategui.gob.ve DNS-ONLY -- IPs: 209.126.102.168
+[+] (409/2723) fundacite.gob.ve ALIVE 200 334ms -- "FUNDACITE"
+[!] (410/2723) laguaira.gob.ve DNS-ONLY -- IPs: 38.45.37.157,38.45.37.158
+[+] (411/2723) sedat.gob.ve ALIVE 200 405ms -- "Cargando"
+[+] (412/2723) observatorio.gob.ve ALIVE 200 1913ms -- "Home - Observatorio Venezolano Antibloqueo"
+[+] (413/2723) hidrocapital.gob.ve ALIVE 200 1411ms
+[!] (414/2723) amazonas.gob.ve DNS-ONLY -- IPs: 198.50.159.41
+[-] (415/2723) prensapresidencial.gob.ve DEAD
+[+] (416/2723) lecheria.gob.ve ALIVE 404 493ms -- "404 Not Found"
+[-] (417/2723) sistemadelaboratoriosgnb.mil.ve DEAD
+[+] (418/2723) petrocasa.gob.ve ALIVE 200 1329ms -- "Petrocasa"
+[+] (419/2723) inidi.gob.ve ALIVE 200 648ms
+[-] (420/2723) jirajara.gob.ve DEAD
+[+] (421/2723) xvcenso.gob.ve ALIVE 200 1080ms -- "Inicio - XV Censo"
+[-] (422/2723) fonaguas.gob.ve DEAD
+[-] (423/2723) venetur.gob.ve DEAD
+[-] (424/2723) cmpazcastillo.gob.ve DEAD
+[+] (425/2723) funvi.gob.ve ALIVE 200 561ms -- "FUNVI - Fundación Vivienda"
+[+] (426/2723) mincomercionacional.gob.ve ALIVE 200 635ms -- "Ministerio del Poder Popular de Industrias y Comerci...
+[-] (427/2723) alcaldiadecumana.gob.ve DEAD
+[-] (428/2723) carnetdelapatria.gob.ve DEAD
+[!] (429/2723) corposaludyaracuy.gob.ve DNS-ONLY -- IPs: 104.21.51.6,172.67.216.38,2606:4700:3033::ac43:d826,2606:4700:3031::6815:3306
+[!] (430/2723) usb.ve DNS-ONLY -- IPs: 159.90.100.206
+[-] (431/2723) gmcupaz.gob.ve DEAD
+[+] (432/2723) hidrolago.gob.ve ALIVE 200 10786ms -- "HIDROLAGO &#8211; Compañía suministradora de agua en...
+[+] (433/2723) fundapret.gob.ve ALIVE 403 365ms -- "403 Forbidden"
+[-] (434/2723) cmsfco.gob.ve DEAD
+[-] (435/2723) cuadrantesdepaz.gob.ve DEAD
+[-] (436/2723) igt.gob.ve DEAD
+[-] (437/2723) machiques.gob.ve DEAD
+[-] (438/2723) yacambu-quibor.gob.ve DEAD
+[-] (439/2723) clez.gob.ve DEAD
+[-] (440/2723) contraloriapedrocamejo.gob.ve DEAD
+[-] (441/2723) jovenesdelbarrio.gob.ve DEAD
+[+] (442/2723) suptrimza.gob.ve ALIVE 200 3602ms -- "Suptrimza - Superintendencia de Administración Tribu...
+[-] (443/2723) idemaa.gob.ve DEAD
+[!] (444/2723) iutepal.edu.ve DNS-ONLY -- IPs: 173.225.106.242
+[-] (445/2723) mppipn.gob.ve DEAD
+[-] (446/2723) chambajuvenil.gob.ve DEAD
+[+] (447/2723) corpoez.gob.ve ALIVE 200 1225ms -- "INICIO - CORPOEZ"
+[+] (448/2723) iaefalcon.gob.ve ALIVE 200 296ms -- "Klockmetal"
+[-] (449/2723) comercioexterior.gob.ve DEAD
+[+] (450/2723) alcaldiademiranda.gob.ve ALIVE 403 422ms -- "DNS points to prohibited IP | alcaldiademiranda.gob....
+[!] (451/2723) unefm.edu.ve DNS-ONLY -- IPs: 150.187.4.239
+[!] (452/2723) umbv.edu.ve DNS-ONLY -- IPs: 200.109.228.7
+[-] (453/2723) subcomisiondecontenidos.gob.ve DEAD
+[+] (454/2723) alcaldiacaroni.gob.ve ALIVE 200 4372ms -- "ALCALDIA DE CARONI"
+[-] (455/2723) alcaldiarionegro.gob.ve DEAD
+[+] (456/2723) icopetro.gob.ve ALIVE 520 280ms -- "icopetro.gob.ve | 520: Web server is returning an un...
+[!] (457/2723) voluntadpopular.com DNS-ONLY -- IPs: 200.58.111.116,2800:6c0:2::c:280
+[-] (458/2723) mppct.gob.ve DEAD
+[-] (459/2723) municipiozamora.gob.ve DEAD
+[-] (460/2723) provenezuela.gob.ve DEAD
+[-] (461/2723) venezuelapotencia.gob.ve DEAD
+[-] (462/2723) pequiven.gob.ve DEAD
+[-] (463/2723) alcaldiadecordoba.gob.ve DEAD
+[+] (464/2723) minagricultura.gob.ve ALIVE 200 467ms
+[-] (465/2723) alcaldiadearismendine.gob.ve DEAD
+[+] (466/2723) maracaibo.gob.ve ALIVE 200 489ms -- "Alcaldía Bolivariana de Maracaibo | ¡Con mi gente se...
+[-] (467/2723) expovenezuelapotencia.gob.ve DEAD
+[-] (468/2723) tcv.gob.ve DEAD
+[-] (469/2723) elpetro.gob.ve DEAD
+[!] (470/2723) fundarte.gob.ve DNS-ONLY -- IPs: 75.102.22.168
+[-] (471/2723) supcriptove.gob.ve DEAD
+[-] (472/2723) abp.gob.ve DEAD
+[-] (473/2723) nicolasmaduro.gob.ve DEAD
+[!] (474/2723) locatel.com.ve DNS-ONLY -- IPs: 190.94.218.100
+[-] (475/2723) planpatria.gob.ve DEAD
+[!] (476/2723) venezuelaaldia.com DNS-ONLY -- IPs: 172.67.219.214,104.21.38.71
+[-] (477/2723) minpet.gob.ve DEAD
+[!] (478/2723) fonden.gob.ve DNS-ONLY -- IPs: 201.249.193.162
+[+] (479/2723) ispeb.gob.ve ALIVE 200 510ms -- ":: Portal del Instituto de Salud Pública ::"
+[-] (480/2723) araguena.gob.ve DEAD
+[-] (481/2723) plandelapatria.gob.ve DEAD
+[-] (482/2723) observatorioblockchain.gob.ve DEAD
+[!] (483/2723) ivss.gov.ve DNS-ONLY -- IPs: 200.109.237.53
+[!] (484/2723) cne.gov.ve DNS-ONLY -- IPs: 200.44.45.5,190.9.130.14
+[-] (485/2723) cvaup.gob.ve DEAD
+[-] (486/2723) pasajeestudiantil.gob.ve DEAD
+[+] (487/2723) cmcarvajal.gob.ve ALIVE 200 630ms -- "Contraloria del Municipio San Rafael de Carvajal"
+[!] (488/2723) cidata.gob.ve DNS-ONLY -- IPs: 74.81.95.179
+[-] (489/2723) fundasalud-lara.gob.ve DEAD
+[+] (490/2723) insemat.gob.ve ALIVE 200 401ms -- "Insemat"
+[!] (491/2723) robertserra.gob.ve DNS-ONLY -- IPs: 66.45.226.178
+[-] (492/2723) canaimitas.gob.ve DEAD
+[-] (493/2723) onafim.gob.ve DEAD
+[+] (494/2723) cneh.gob.ve ALIVE 200 1636ms -- "cneh.gob.ve"
+[-] (495/2723) cebag.gob.ve DEAD
+[-] (496/2723) senafim.gob.ve DEAD
+[!] (497/2723) alcaldiaderoscio.gob.ve DNS-ONLY -- IPs: 148.72.152.174
+[-] (498/2723) fictec.gob.ve DEAD
+[-] (499/2723) panteonnacional.gob.ve DEAD
+[-] (500/2723) directoriodigitalvenezuela.gob.ve DEAD
+[-] (501/2723) agrosur.gob.ve DEAD
+[-] (502/2723) complejoindustrialtiuna.gob.ve DEAD
+[-] (503/2723) cebac.gob.ve DEAD
+[-] (504/2723) tla.gob.ve DEAD
+[-] (505/2723) telearagua.gob.ve DEAD
+[+] (506/2723) alcaldia-lobatera.gob.ve ALIVE 200 781ms
+[!] (507/2723) mincoex.gob.ve DNS-ONLY -- IPs: 167.250.49.5
+[-] (508/2723) blockchain.gob.ve DEAD
+[-] (509/2723) fabrica27f.gob.ve DEAD
+[-] (510/2723) planpatria2025.gob.ve DEAD
+[-] (511/2723) datos-abiertos.gob.ve DEAD
+[-] (512/2723) datosabiertos.gob.ve DEAD
+[!] (513/2723) consejolegislativolara.gob.ve DNS-ONLY -- IPs: 206.72.205.68
+[+] (514/2723) apn.gob.ve ALIVE 200 420ms -- "Inicio - APN"
+[-] (515/2723) coveplast.gob.ve DEAD
+[-] (516/2723) congefanb.mil.ve DEAD
+[-] (517/2723) vensalud.gob.ve DEAD
+[!] (518/2723) comisionesequibo.gob.ve DNS-ONLY -- IPs: 201.249.134.85
+[!] (519/2723) procuraduriaestadobarinas.gob.ve DNS-ONLY -- IPs: 162.244.94.11
+[-] (520/2723) canaimacomunal.gob.ve DEAD
+[-] (521/2723) mineranacional.gob.ve DEAD
+[-] (522/2723) canaimacultural.gob.ve DEAD
+[-] (523/2723) canaimaescolar.gob.ve DEAD
+[-] (524/2723) cenapri.gob.ve DEAD
+[-] (525/2723) uesppe.mil.ve DEAD
+[-] (526/2723) industriascanaima.gob.ve DEAD
+[-] (527/2723) infralara.gob.ve DEAD
+[!] (528/2723) sbr.gob.ve DNS-ONLY -- IPs: 38.41.2.137
+[-] (529/2723) canaimaobrero.gob.ve DEAD
+[!] (530/2723) fonaem.gob.ve DNS-ONLY -- IPs: 201.148.104.81
+[-] (531/2723) condiciones.gob.ve DEAD
+[-] (532/2723) sedefanb.mil.ve DEAD
+[-] (533/2723) bienaldelsur.gob.ve DEAD
+[-] (534/2723) canaimauniversitario.gob.ve DEAD
+[-] (535/2723) stributoscaroni.gob.ve DEAD
+[!] (536/2723) femsur.gob.ve DNS-ONLY -- IPs: 181.225.45.141
+[!] (537/2723) cmbnaguanagua.gob.ve DNS-ONLY -- IPs: 157.250.197.234
+[-] (538/2723) billeteravirtual.gob.ve DEAD
+[-] (539/2723) alcaldiasantosmichelena.gob.ve DEAD
+[-] (540/2723) iamproam.gob.ve DEAD
+[-] (541/2723) formacioncanaima.gob.ve DEAD
+[-] (542/2723) lrds.gob.ve DEAD
+[!] (543/2723) concejolossalias.gob.ve DNS-ONLY -- IPs: 204.13.239.170
+[-] (544/2723) canaimamusical.gob.ve DEAD
+[!] (545/2723) parguaza.gob.ve DNS-ONLY -- IPs: 190.205.107.177
+[!] (546/2723) alcaldiasanfrancisco.gob.ve DNS-ONLY -- IPs: 198.50.159.41
+[-] (547/2723) concejomunicipaldeguaicaipuro.gob.ve DEAD
+[-] (548/2723) vrssabae.gob.ve DEAD
+[!] (549/2723) nube.gob.ve DNS-ONLY -- IPs: 201.243.95.42
+[!] (550/2723) misionpiar.gob.ve DNS-ONLY -- IPs: 190.205.107.177
+[-] (551/2723) elearningcanaima.gob.ve DEAD
+[-] (552/2723) deportesmiranda.gob.ve DEAD
+[-] (553/2723) siamtel.gob.ve DEAD
+[-] (554/2723) seb.gob.ve DEAD
+[+] (555/2723) dicom.gob.ve ALIVE 403 373ms -- "Invalid Connection"
+[!] (556/2723) inmobiliarianacional.gob.ve DNS-ONLY -- IPs: 169.47.130.72
+[-] (557/2723) policialibertadormerida.gob.ve DEAD
+[-] (558/2723) alcaldiadepapelon-portuguesa.gob.ve DEAD
+[-] (559/2723) alcaldiadefreites-anzoategui.gob.ve DEAD
+[-] (560/2723) fpnp.gob.ve DEAD
+[-] (561/2723) asambleanacionalconstituyente.gob.ve DEAD
+[-] (562/2723) inaf.gob.ve DEAD
+[-] (563/2723) sedefanb.gob.ve DEAD
+[-] (564/2723) datambrosioplaza.gob.ve DEAD
+[-] (565/2723) safpoac.gob.ve DEAD
+[!] (566/2723) flnh.gob.ve DNS-ONLY -- IPs: 190.114.6.55
+[-] (567/2723) fuerzachoque.mil.ve DEAD
+[!] (568/2723) elpuebloparticipa.gob.ve DNS-ONLY -- IPs: 172.67.158.65,104.21.73.53,2606:4700:3031::6815:4935,2606:4700:3030::ac43:9e41
+[!] (569/2723) solucioneshidraulicas.gob.ve DNS-ONLY -- IPs: 190.114.6.55
+[-] (570/2723) cmaat.gob.ve DEAD
+[!] (571/2723) regresoaclases.gob.ve DNS-ONLY -- IPs: 104.21.15.204,172.67.164.55,2606:4700:3037::ac43:a437,2606:4700:3035::6815:fcc
+[-] (572/2723) consejolegislativodeyaracuy.gob.ve DEAD
+[-] (573/2723) constituyentevenezuela2017.gob.ve DEAD
+[-] (574/2723) semillas.gob.ve DEAD
+[-] (575/2723) alcaldiadesanjeronimodeguayabal.gob.ve DEAD
+[!] (576/2723) cenaoz.gob.ve DNS-ONLY -- IPs: 190.202.5.53
+[-] (577/2723) corpodelargo.gob.ve DEAD
+[-] (578/2723) constituyentevenezuela.gob.ve DEAD
+[-] (579/2723) conconstituyente2017.gob.ve DEAD
+[-] (580/2723) loteriademargarita.gob.ve DEAD
+[-] (581/2723) iaspmupal.gob.ve DEAD
+[!] (582/2723) sedematlagunillas.gob.ve DNS-ONLY -- IPs: 185.132.6.3
+[-] (583/2723) consejomunicipaldecolon-zulia.gob.ve DEAD
+[!] (584/2723) alcaldiadesanfelipe.gob.ve DNS-ONLY -- IPs: 173.225.106.242
+[-] (585/2723) alcaldiadelmunicipiosanjeronimodeguayabal.gob.ve DEAD
+[+] (586/2723) cuspal.gob.ve ALIVE 200 641ms -- "Pagina Principal - CUSPAL"
+[-] (587/2723) fiaven.gob.ve DEAD
+[-] (588/2723) alcaldiadelatrinidad-yaracuy.gob.ve DEAD
+[!] (589/2723) sedatez.gob.ve DNS-ONLY -- IPs: 148.72.152.131
+[+] (590/2723) oncdoft.gob.ve ALIVE 200 3263ms -- "ONCDOFT"
+[-] (591/2723) venezuelaconstituyente.gob.ve DEAD
+[-] (592/2723) alcaldiadesancasimiro-aragua.gob.ve DEAD
+[-] (593/2723) alcaldiadelostaques-falcon.gob.ve DEAD
+[-] (594/2723) codai.mil.ve DEAD
+[-] (595/2723) concostituyente2017.gob.ve DEAD
+[-] (596/2723) dirpersucre.gob.ve DEAD
+[-] (597/2723) hackatonpatria.gob.ve DEAD
+[-] (598/2723) anc2017.gob.ve DEAD
+[-] (599/2723) contraloriadezamora-miranda.gob.ve DEAD
+[-] (600/2723) frnsedobolivar.gob.ve DEAD
+[-] (601/2723) concejomunicipaldecolon-zulia.gob.ve DEAD
+[-] (602/2723) alcaldiadeandreseloyblanco-barinas.gob.ve DEAD
+[-] (603/2723) corposervica.gob.ve DEAD
+[-] (604/2723) fsbolivar.gob.ve DEAD
+[+] (605/2723) mppop.gob.ve ALIVE 200 1321ms -- "MPPOP"
+[-] (606/2723) emiltra.gob.ve DEAD
+[-] (607/2723) incodir.gob.ve DEAD
+[-] (608/2723) mineriaecologica.gob.ve DEAD
+[+] (609/2723) fanco.gob.ve ALIVE 200 360ms
+[+] (610/2723) juventudydeporte.gob.ve ALIVE 200 922ms -- "Inicio - MINDEPORTE"
+[-] (611/2723) insmamarosabol.gob.ve DEAD
+[-] (612/2723) alcaldialatrinidad-yaracuy.gob.ve DEAD
+[-] (613/2723) alcaldiaezequielzamora-monagas.gob.ve DEAD
+[-] (614/2723) fonpesca.gob.ve DEAD
+[-] (615/2723) minpetroleo.gob.ve DEAD
+[-] (616/2723) fundacionarmonia.gob.ve DEAD
+[-] (617/2723) movimientopazyvida.gob.ve DEAD
+[-] (618/2723) viceops.gob.ve DEAD
+[-] (619/2723) fundanagua.gob.ve DEAD
+[!] (620/2723) datos.gob.ve DNS-ONLY -- IPs: 150.185.10.135
+[-] (621/2723) sedebats.gob.ve DEAD
+[-] (622/2723) distribuidoradelacultura.gob.ve DEAD
+[-] (623/2723) alcaldiadepiar-bolivar.gob.ve DEAD
+[-] (624/2723) minppaucva.gob.ve DEAD
+[-] (625/2723) betamincultura.gob.ve DEAD
+[!] (626/2723) sudeca.gob.ve DNS-ONLY -- IPs: 190.205.49.196
+[-] (627/2723) minppaurna.gob.ve DEAD
+[-] (628/2723) minppauvu.gob.ve DEAD
+[-] (629/2723) vpeconomia.gob.ve DEAD
+[-] (630/2723) minppibes.gob.ve DEAD
+[-] (631/2723) alcaldiadelibertador-carabobo.gob.ve DEAD
+[-] (632/2723) mppibes.gob.ve DEAD
+[-] (633/2723) clapformacion.gob.ve DEAD
+[-] (634/2723) coryaturyaracuy.gob.ve DEAD
+[-] (635/2723) comandonacionalantidrogas.mil.ve DEAD
+[-] (636/2723) teletrabajo.gob.ve DEAD
+[+] (637/2723) contraloriamunicipaldeheres-bolivar.gob.ve ALIVE 200 129ms -- "Potential Threat Detected"
+[!] (638/2723) clezulia.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (639/2723) cbnbt.gob.ve DEAD
+[-] (640/2723) contraloriadearaure-portuguesa.gob.ve DEAD
+[-] (641/2723) circulomilitarbarquisimeto.gob.ve DEAD
+[-] (642/2723) alcaldiadepalavecino-lara.gob.ve DEAD
+[!] (643/2723) fic.gob.ve DNS-ONLY -- IPs: 169.47.130.72
+[-] (644/2723) cmblcaracas.gob.ve DEAD
+[-] (645/2723) policiaelhatillo.gob.ve DEAD
+[!] (646/2723) ont.gob.ve DNS-ONLY -- IPs: 190.205.49.196
+[-] (647/2723) emmepsa.gob.ve DEAD
+[+] (648/2723) avp.gob.ve ALIVE 200 847ms -- "Cuenta Suspendida"
+[-] (649/2723) iabaep.gob.ve DEAD
+[-] (650/2723) comandonacionalantidrogasgnb.mil.ve DEAD
+[-] (651/2723) alcaldiadeguanarito-portugal.gob.ve DEAD
+[!] (652/2723) petro.gob.ve DNS-ONLY -- IPs: 190.205.107.50,190.217.12.34
+[-] (653/2723) salusmilitae.mil.ve DEAD
+[-] (654/2723) concejomunucipalelhatillo.gob.ve DEAD
+[-] (655/2723) minasdelguarico.gob.ve DEAD
+[!] (656/2723) envial.gob.ve DNS-ONLY -- IPs: 172.67.135.195,104.21.7.50,2606:4700:3035::ac43:87c3,2606:4700:3030::6815:732
+[-] (657/2723) contraloriadepazcastillo-miranda.gob.ve DEAD
+[-] (658/2723) contraloriadegirardot-aragua.gob.ve DEAD
+[-] (659/2723) contraloriarafaelrangel-trujillo.gob.ve DEAD
+[-] (660/2723) consejolegislativodelzulia.gob.ve DEAD
+[!] (661/2723) minppal.gob.ve DNS-ONLY -- IPs: 190.202.30.126
+[-] (662/2723) consejolegislativodemerida.gob.ve DEAD
+[-] (663/2723) contraloriadepedraza-barinas.gob.ve DEAD
+[-] (664/2723) gabinetecultura-amazonas.gob.ve DEAD
+[+] (665/2723) fnp.gob.ve ALIVE 200 500ms -- "Servicio Desconcentrado Fondo Negro Primero | Portal...
+[-] (666/2723) dnaed.mil.ve DEAD
+[-] (667/2723) bnbt.gob.ve DEAD
+[-] (668/2723) esinsep.gob.ve DEAD
+[-] (669/2723) mippcoexin.gob.ve DEAD
+[-] (670/2723) alcaldiadesucre-bolivar.gob.ve DEAD
+[+] (671/2723) contraloriamunicipioindependencia-mir.gob.ve ALIVE 200 141ms -- "DCH"
+[-] (672/2723) contraloriadecardenas-tachira.gob.ve DEAD
+[-] (673/2723) liceomilitar4deagosto.mil.ve DEAD
+[-] (674/2723) contraloriadesancristobal-tachira.gob.ve DEAD
+[-] (675/2723) mpptop.gob.ve DEAD
+[-] (676/2723) mtop.gob.ve DEAD
+[-] (677/2723) ut-anz.gob.ve DEAD
+[-] (678/2723) circuitorrb.gob.ve DEAD
+[-] (679/2723) cmcardenas.gob.ve DEAD
+[-] (680/2723) alcaldiadeguanarito-portuguesa.gob.ve DEAD
+[-] (681/2723) concejomunicipaldesantiagomari�o-aragua.gob.ve DEAD
+[-] (682/2723) mppic.gob.ve DEAD
+[-] (683/2723) cnep.gob.ve DEAD
+[-] (684/2723) fundacite-tachira.gob.ve DEAD
+[-] (685/2723) fundacite-delta.gob.ve DEAD
+[-] (686/2723) alcaldiamariobricenoiragorry-aragua.gob.ve DEAD
+[-] (687/2723) cenvih.gob.ve DEAD
+[-] (688/2723) comandoprecio.gob.ve DEAD
+[-] (689/2723) corpoturcarabobo.gob.ve DEAD
+[-] (690/2723) contraloriametropolitanadecaracas.gob.ve DEAD
+[-] (691/2723) comandoprecios.gob.ve DEAD
+[-] (692/2723) sinamaica.gob.ve DEAD
+[-] (693/2723) pnsii.gob.ve DEAD
+[-] (694/2723) ipmebg.gob.ve DEAD
+[-] (695/2723) io.gob.ve DEAD
+[-] (696/2723) alcaldiadesantiagomari�o-aragua.gob.ve DEAD
+[-] (697/2723) policolon.gob.ve DEAD
+[-] (698/2723) consejolegislativodemonagas.gob.ve DEAD
+[-] (699/2723) alcaldiadejulianmellado-guarico.gob.ve DEAD
+[-] (700/2723) drsg.gob.ve DEAD
+[-] (701/2723) corpodelagro.gob.ve DEAD
+[-] (702/2723) interoperabilidad.gob.ve DEAD
+[-] (703/2723) controlariadejulianmellado-guarico.gob.ve DEAD
+[-] (704/2723) hechoenmerida.gob.ve DEAD
+[-] (705/2723) erabicentenaria.gob.ve DEAD
+[-] (706/2723) procuraduriadecarabobo.gob.ve DEAD
+[-] (707/2723) alcaldiamunicipioiribarren-lar.gob.ve DEAD
+[-] (708/2723) controlariamunicipioindependencia-mir.gob.ve DEAD
+[-] (709/2723) alcaldiamunicipiolibertador-mer.gob.ve DEAD
+[-] (710/2723) micven.gob.ve DEAD
+[-] (711/2723) alcaldiadelobatera-tachira.gob.ve DEAD
+[-] (712/2723) contraloriamunicipaldesanfrancisco.gob.ve DEAD
+[-] (713/2723) pgebg.gob.ve DEAD
+[-] (714/2723) alcaldiadesucre-barinas.gob.ve DEAD
+[+] (715/2723) antimonopolio.gob.ve ALIVE 200 1395ms -- "Superintendencia Antimonopolio &#8211; Ministerio de...
+[-] (716/2723) minea.gob.ve DEAD
+[!] (717/2723) billeteramovil.gob.ve DNS-ONLY -- IPs: 201.249.156.9
+[-] (718/2723) ageba.gob.ve DEAD
+[-] (719/2723) corpotachira.gob.ve DEAD
+[-] (720/2723) aucc.gob.ve DEAD
+[-] (721/2723) fondonegroprimero.mil.ve DEAD
+[-] (722/2723) agriculturaproductiva.gob.ve DEAD
+[-] (723/2723) iara.gob.ve DEAD
+[!] (724/2723) anc.gob.ve DNS-ONLY -- IPs: 190.202.60.249
+[-] (725/2723) alcaldiasamueldariomaldonado.gob.ve DEAD
+[-] (726/2723) alcaldiadesanfrancisco.gob.ve DEAD
+[-] (727/2723) alcaldiarafaelurdaneta.gob.ve DEAD
+[-] (728/2723) utne.gob.ve DEAD
+[-] (729/2723) mppbf.gob.ve DEAD
+[-] (730/2723) sicsum.gob.ve DEAD
+[-] (731/2723) mpppa.gob.ve DEAD
+[-] (732/2723) zuliaagropecuaria.gob.ve DEAD
+[+] (733/2723) alcaldiadesanfernando.gob.ve ALIVE 200 397ms -- "Error"
+[+] (734/2723) hospitalcentralsc.gob.ve ALIVE 200 168ms -- "Modo de Mantenimiento"
+[-] (735/2723) minhv.gob.ve DEAD
+[-] (736/2723) iasdebne.gob.ve DEAD
+[-] (737/2723) destacamento212gnb.mil.ve DEAD
+[-] (738/2723) alcaldiabolivardelestadotrujillo.gob.ve DEAD
+[!] (739/2723) laradiodelsur.gob.ve DNS-ONLY -- IPs: 190.9.130.71
+[-] (740/2723) laboratoriosmiranda.gob.ve DEAD
+[-] (741/2723) mpphv.gob.ve DEAD
+[-] (742/2723) sias.gob.ve DEAD
+[-] (743/2723) spda.gob.ve DEAD
+[!] (744/2723) mppdme.gob.ve DNS-ONLY -- IPs: 190.6.28.126,190.205.109.230
+[-] (745/2723) contraloriadeambrosioplaza.gob.ve DEAD
+[-] (746/2723) imacultpc.gob.ve DEAD
+[-] (747/2723) abastecimiento.gob.ve DEAD
+[!] (748/2723) todochavez.gob.ve DNS-ONLY -- IPs: 190.9.132.126
+[-] (749/2723) saludya.gob.ve DEAD
+[-] (750/2723) pdmercal.gob.ve DEAD
+[-] (751/2723) sinco.gob.ve DEAD
+[-] (752/2723) concejosucre.gob.ve DEAD
+[-] (753/2723) alcaldiaindependenciamiranda.gob.ve DEAD
+[-] (754/2723) concejomunicipalsimonbolivar.gob.ve DEAD
+[-] (755/2723) corposaludaragua.gob.ve DEAD
+[!] (756/2723) todochavezenlaweb.gob.ve DNS-ONLY -- IPs: 190.9.132.126
+[!] (757/2723) polimara.gob.ve DNS-ONLY -- IPs: 138.128.182.50
+[-] (758/2723) afectadosvenezolana.gob.ve DEAD
+[!] (759/2723) ivpa.gob.ve DNS-ONLY -- IPs: 190.205.34.82
+[-] (760/2723) senades.gob.ve DEAD
+[-] (761/2723) minppau.gob.ve DEAD
+[-] (762/2723) dgssaludlara.gob.ve DEAD
+[-] (763/2723) alcaldiasimonrodriguez.gob.ve DEAD
+[-] (764/2723) dgsslara.gob.ve DEAD
+[-] (765/2723) laradgss.gob.ve DEAD
+[-] (766/2723) luchaalcontrabando.gob.ve DEAD
+[-] (767/2723) antolindelcampo.gob.ve DEAD
+[-] (768/2723) fronteradepaz.gob.ve DEAD
+[-] (769/2723) alcaldiamunicipiosanfrancisco-zul.gob.ve DEAD
+[+] (770/2723) hcudamp.gob.ve ALIVE 200 653ms -- "HCUDAMP &#8211; Hospital Central Universitario &quot...
+[-] (771/2723) clbecarabobo.gob.ve DEAD
+[!] (772/2723) ucs.gob.ve DNS-ONLY -- IPs: 200.44.12.241
+[-] (773/2723) cafevenedom.gob.ve DEAD
+[+] (774/2723) samath.gob.ve ALIVE 200 525ms -- "Servicio Autónomo Municipal de Administración Tribut...
+[-] (775/2723) ambientechacao.gob.ve DEAD
+[-] (776/2723) imuchacao.gob.ve DEAD
+[-] (777/2723) ddhhinfo.gob.ve DEAD
+[-] (778/2723) alcaldiadeguaraquemerida.gob.ve DEAD
+[-] (779/2723) autoridadunicadetramites.gob.ve DEAD
+[-] (780/2723) alcaldiaezequielzamoracojedes.gob.ve DEAD
+[-] (781/2723) fasganz.gob.ve DEAD
+[-] (782/2723) alcaldiadeplaza.gob.ve DEAD
+[-] (783/2723) alcaldiadeelorza.gob.ve DEAD
+[+] (784/2723) turmero.gob.ve ALIVE 200 212ms -- "ALCALDIA SANTIAGO MARIÑO"
+[-] (785/2723) ces.gob.ve DEAD
+[-] (786/2723) conadecafro.gob.ve DEAD
+[-] (787/2723) ingetyp.gob.ve DEAD
+[-] (788/2723) radioacuatica.gob.ve DEAD
+[-] (789/2723) cnd.gob.ve DEAD
+[-] (790/2723) alcaldiapaezyaracuy.gob.ve DEAD
+[-] (791/2723) misionnuevafronterap.gob.ve DEAD
+[!] (792/2723) softwarepublico.gob.ve DNS-ONLY -- IPs: 150.185.8.164
+[-] (793/2723) alcaldialibertad.gob.ve DEAD
+[-] (794/2723) tues.gob.ve DEAD
+[-] (795/2723) alcaldiadelmunicipiogarciadehevia.gob.ve DEAD
+[!] (796/2723) patrullajeinteligente.gob.ve DNS-ONLY -- IPs: 190.202.36.14
+[-] (797/2723) satea.gob.ve DEAD
+[-] (798/2723) consalud.gob.ve DEAD
+[-] (799/2723) gmbt.gob.ve DEAD
+[-] (800/2723) alcaldiazea.gob.ve DEAD
+[-] (801/2723) misionarbol.gob.ve DEAD
+[-] (802/2723) clebguarico.gob.ve DEAD
+[-] (803/2723) alcaldiamunicipioescuque.gob.ve DEAD
+[-] (804/2723) concejomunicipaldegirardot.gob.ve DEAD
+[-] (805/2723) alcaldiadealtagraciadeorituco.gob.ve DEAD
+[!] (806/2723) sarep.gob.ve DNS-ONLY -- IPs: 138.128.182.50
+[-] (807/2723) ipe.gob.ve DEAD
+[!] (808/2723) mrd.gob.ve DNS-ONLY -- IPs: 150.188.232.135
+[-] (809/2723) siappmerida.gob.ve DEAD
+[-] (810/2723) ciudaddesanfrancisco.gob.ve DEAD
+[-] (811/2723) alcaldiasucrefalcon.gob.ve DEAD
+[-] (812/2723) alcaldiacaripe.gob.ve DEAD
+[-] (813/2723) concejodelmunicipiocarrizal.gob.ve DEAD
+[+] (814/2723) ven911.gob.ve ALIVE 200 515ms -- "Ven 911"
+[+] (815/2723) safonapp.gob.ve ALIVE 200 623ms -- "Servicio Fondo Nacional del Poder Popular"
+[-] (816/2723) alcaldiadesinfontes.gob.ve DEAD
+[!] (817/2723) canaima.gob.ve DNS-ONLY -- IPs: 190.9.132.165
+[-] (818/2723) redicentral.mil.ve DEAD
+[!] (819/2723) salusmilitiae.mil.ve DNS-ONLY -- IPs: 138.99.126.55
+[-] (820/2723) museovirtual.gob.ve DEAD
+[-] (821/2723) mppehv.gob.ve DEAD
+[-] (822/2723) vpagroalimentaria.gob.ve DEAD
+[-] (823/2723) alcaldiadesifontes.gob.ve DEAD
+[-] (824/2723) minehv.gob.ve DEAD
+[-] (825/2723) concejomunicipaldecasacoima.gob.ve DEAD
+[-] (826/2723) corpocapital.gob.ve DEAD
+[!] (827/2723) vuce.gob.ve DNS-ONLY -- IPs: 190.205.49.196
+[-] (828/2723) gmsaberytrabajo.gob.ve DEAD
+[+] (829/2723) senamecf.gob.ve ALIVE 200 1052ms -- "Carbonio Authentication"
+[-] (830/2723) alcaldiamiranda-carabobo.gob.ve DEAD
+[-] (831/2723) cultivandopatria.gob.ve DEAD
+[+] (832/2723) fundavene.gob.ve ALIVE 200 654ms -- "FUNDAVENE"
+[-] (833/2723) fnz.gob.ve DEAD
+[-] (834/2723) corporacionbolivar.gob.ve DEAD
+[-] (835/2723) alcaldiademacanao.gob.ve DEAD
+[!] (836/2723) algodonesdelorinoco.gob.ve DNS-ONLY -- IPs: 201.208.102.101
+[+] (837/2723) alcaldiadeindependencia.gob.ve ALIVE 200 713ms -- "Alcaldía Municipio Independencia -"
+[-] (838/2723) terminallabandera.gob.ve DEAD
+[-] (839/2723) barriotricolor.gob.ve DEAD
+[-] (840/2723) cmegmiranda.gob.ve DEAD
+[-] (841/2723) cementosdeportuguesa.gob.ve DEAD
+[-] (842/2723) alfareriabolivar.gob.ve DEAD
+[-] (843/2723) aseonaguanagua.gob.ve DEAD
+[-] (844/2723) alcaldiadiegoibarra.gob.ve DEAD
+[!] (845/2723) huc.gob.ve DNS-ONLY -- IPs: 192.202.43.230
+[+] (846/2723) consejoderechoshumanos.gob.ve ALIVE 200 569ms -- "Consejo Nacional de Derechos Humanos"
+[!] (847/2723) alcaldiadepunceres-monagas.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[+] (848/2723) espromedbio.gob.ve ALIVE 200 1422ms -- "Espromed Bio &#8211; Empresa Socialista Para la Prod...
+[-] (849/2723) concejogeneraldepolicia.gob.ve DEAD
+[-] (850/2723) alcaldiabolivarianadesucrezulia.gob.ve DEAD
+[-] (851/2723) alcaldiadecamatagua.gob.ve DEAD
+[-] (852/2723) alcaldiabolivarianadelmunicipiotovar.gob.ve DEAD
+[-] (853/2723) iaspi.gob.ve DEAD
+[-] (854/2723) samatsu.gob.ve DEAD
+[-] (855/2723) procurebne.gob.ve DEAD
+[-] (856/2723) misionsonrisa.gob.ve DEAD
+[!] (857/2723) vpse.gob.ve DNS-ONLY -- IPs: 190.9.130.241
+[-] (858/2723) ceam.gob.ve DEAD
+[-] (859/2723) cmez.gob.ve DEAD
+[-] (860/2723) sibciguarico.gob.ve DEAD
+[-] (861/2723) alcaldiasanrafaeldecarvajal.gob.ve DEAD
+[-] (862/2723) alcaldiaandresbelloedotachira.gob.ve DEAD
+[+] (863/2723) concejomunicipalelhatillo.gob.ve ALIVE 200 1743ms -- "Concejo Municipal El Hatillo &#8211; El Concejo Muni...
+[-] (864/2723) conati.gob.ve DEAD
+[!] (865/2723) bustaguanes.gob.ve DNS-ONLY -- IPs: 104.21.93.140,172.67.210.221
+[-] (866/2723) alcaldiamunicipiobolivar.gob.ve DEAD
+[-] (867/2723) granmisionhogaresdelapatria.gob.ve DEAD
+[-] (868/2723) alcaldiadelmunicipiotorres.gob.ve DEAD
+[!] (869/2723) satet.gob.ve DNS-ONLY -- IPs: 190.9.132.169
+[-] (870/2723) alcaldiadepuertolacruz.gob.ve DEAD
+[+] (871/2723) cleb.gob.ve ALIVE 200 140ms -- "Pagina de inicio - test"
+[+] (872/2723) sacs.gob.ve ALIVE 200 689ms -- "Sacs &#8211; Servicio Autonómo Contraloria Sanitaria"
+[-] (873/2723) contraloriasucreportuguesa.gob.ve DEAD
+[-] (874/2723) alcaldiadearistidesbastidas.gob.ve DEAD
+[!] (875/2723) vicesocial.gob.ve DNS-ONLY -- IPs: 150.188.232.148
+[-] (876/2723) invepal.gob.ve DEAD
+[-] (877/2723) alcaldiamunicipiosancasimiro.gob.ve DEAD
+[-] (878/2723) alcaldiamanuelmonge.gob.ve DEAD
+[-] (879/2723) alcaldiasucredelmunicipiobolivar.gob.ve DEAD
+[-] (880/2723) alcaldiadebolivaryaracuy.gob.ve DEAD
+[-] (881/2723) alcaldiadepedraza.gob.ve DEAD
+[-] (882/2723) alcaldiadetorres-lara.gob.ve DEAD
+[-] (883/2723) alcaldiadeinfante.gob.ve DEAD
+[-] (884/2723) iasbtiene.gob.ve DEAD
+[-] (885/2723) poliiribarren.gob.ve DEAD
+[-] (886/2723) aramica.gob.ve DEAD
+[-] (887/2723) fonactivo.gob.ve DEAD
+[-] (888/2723) cletrujillo.gob.ve DEAD
+[-] (889/2723) contraloriaautonomadeguacara.gob.ve DEAD
+[!] (890/2723) hidroandes.gob.ve DNS-ONLY -- IPs: 148.72.152.174
+[+] (891/2723) hogaresdelapatria.gob.ve ALIVE 200 1004ms -- "HOGARES DE LA PATRIA"
+[!] (892/2723) concejomunicipalplaza.gob.ve DNS-ONLY -- IPs: 204.209.56.9,204.209.56.10,204.209.56.12,204.209.56.14,204.209.56.13,204.209.56.8,204.209.56.15,204.209.56.11
+[-] (893/2723) monumentoalapaz.gob.ve DEAD
+[-] (894/2723) cmbolivar-tachira.gob.ve DEAD
+[-] (895/2723) insulibro.gob.ve DEAD
+[-] (896/2723) alcaldiadelostaques.gob.ve DEAD
+[-] (897/2723) cmcapachonuevo.gob.ve DEAD
+[-] (898/2723) alcaldiariochico.gob.ve DEAD
+[-] (899/2723) antidrogas.mil.ve DEAD
+[-] (900/2723) alcaldiafernandezfeo.gob.ve DEAD
+[-] (901/2723) emcofanb.mil.ve DEAD
+[-] (902/2723) alcaldiamirandacalabozo.gob.ve DEAD
+[-] (903/2723) aeropostal.gob.ve DEAD
+[-] (904/2723) alcaldiamunicipiopaez.gob.ve DEAD
+[-] (905/2723) prevenciondelatortura.gob.ve DEAD
+[-] (906/2723) parquehugochavez.gob.ve DEAD
+[-] (907/2723) emcofanb.gob.ve DEAD
+[-] (908/2723) cnae.gob.ve DEAD
+[-] (909/2723) elpatriota.mil.ve DEAD
+[-] (910/2723) contraloriadebruzual.gob.ve DEAD
+[-] (911/2723) alcaldiadecarlosarvelo.gob.ve DEAD
+[-] (912/2723) frensanz.gob.ve DEAD
+[-] (913/2723) alcaldiasanfelipe.gob.ve DEAD
+[-] (914/2723) coranztur.gob.ve DEAD
+[!] (915/2723) concejomunicipalacevedo.gob.ve DNS-ONLY -- IPs: 204.209.56.14,204.209.56.8,204.209.56.10,204.209.56.13,204.209.56.9,204.209.56.12,204.209.56.15,204.209.56.11
+[-] (916/2723) bustrujillo.gob.ve DEAD
+[+] (917/2723) trujillotierramagica.gob.ve ALIVE 200 675ms
+[-] (918/2723) alcaldiaromulogallegoscojedes.gob.ve DEAD
+[-] (919/2723) redilosandes.gob.ve DEAD
+[!] (920/2723) muronto.gob.ve DNS-ONLY -- IPs: 190.9.130.203
+[-] (921/2723) construaragua.gob.ve DEAD
+[-] (922/2723) foro-tda.gob.ve DEAD
+[-] (923/2723) clebne.gob.ve DEAD
+[-] (924/2723) concejomunicipalsc.gob.ve DEAD
+[-] (925/2723) foro-tvd.gob.ve DEAD
+[-] (926/2723) corpoelecindustrial.gob.ve DEAD
+[!] (927/2723) viviendovenezolano.gob.ve DNS-ONLY -- IPs: 169.47.130.72
+[-] (928/2723) foro-internacional-tda.gob.ve DEAD
+[!] (929/2723) viviendovenezolanos.gob.ve DNS-ONLY -- IPs: 69.197.18.190
+[-] (930/2723) concejomunicipaljjmora.gob.ve DEAD
+[!] (931/2723) almccs.gob.ve DNS-ONLY -- IPs: 204.13.239.162
+[-] (932/2723) forotvd.gob.ve DEAD
+[-] (933/2723) tvd-venezuela.gob.ve DEAD
+[+] (934/2723) alcaldialinaresalcantara.gob.ve ALIVE 200 2076ms -- "Inicio - Alcaldía de Francisco Linares Alcantara"
+[-] (935/2723) tvdvenezuela.gob.ve DEAD
+[-] (936/2723) iacfanb.gob.ve DEAD
+[-] (937/2723) foro-internacional-tvd.gob.ve DEAD
+[+] (938/2723) alcaldiadenirgua.gob.ve ALIVE 503 1477ms -- "alcaldía de nirgua"
+[-] (939/2723) forotda.gob.ve DEAD
+[-] (940/2723) cnce.gob.ve DEAD
+[+] (941/2723) mijp.gob.ve ALIVE 403 316ms -- "403 Forbidden"
+[-] (942/2723) redvenezuela.gob.ve DEAD
+[-] (943/2723) cvce.gob.ve DEAD
+[-] (944/2723) venecom.gob.ve DEAD
+[!] (945/2723) emdutruca.gob.ve DNS-ONLY -- IPs: 186.94.134.142
+[-] (946/2723) corpovex.gob.ve DEAD
+[-] (947/2723) alcaldiaocumaredeltuy.gob.ve DEAD
+[-] (948/2723) sogatur.gob.ve DEAD
+[-] (949/2723) tda.gob.ve DEAD
+[-] (950/2723) forointernacionaltda.gob.ve DEAD
+[-] (951/2723) misionnevadooficial.gob.ve DEAD
+[-] (952/2723) concejolibertadormerida.gob.ve DEAD
+[-] (953/2723) bpvbc.gob.ve DEAD
+[-] (954/2723) invez.gob.ve DEAD
+[-] (955/2723) ihavey.gob.ve DEAD
+[-] (956/2723) fabricadeinsumos27f.gob.ve DEAD
+[-] (957/2723) satdelta.gob.ve DEAD
+[-] (958/2723) tda-venezuela.gob.ve DEAD
+[-] (959/2723) tvd.gob.ve DEAD
+[-] (960/2723) alcaldiajuanjosemora.gob.ve DEAD
+[-] (961/2723) forointernacionaltvd.gob.ve DEAD
+[-] (962/2723) iapmsm.gob.ve DEAD
+[+] (963/2723) edosucre.gob.ve ALIVE 200 491ms
+[+] (964/2723) contraloriademoran.gob.ve ALIVE 200 141ms -- "DCH"
+[-] (965/2723) redila.gob.ve DEAD
+[-] (966/2723) alcaldiacedeno.gob.ve DEAD
+[-] (967/2723) cesppa.gob.ve DEAD
+[-] (968/2723) semanarioatodavida.gob.ve DEAD
+[-] (969/2723) fundesvargas.gob.ve DEAD
+[-] (970/2723) contraloriamunicipaltucupita.gob.ve DEAD
+[-] (971/2723) satdc.gob.ve DEAD
+[-] (972/2723) contraloriamunicipalsimonbolivar.gob.ve DEAD
+[-] (973/2723) contraloriacaripe.gob.ve DEAD
+[-] (974/2723) cmsmarino.gob.ve DEAD
+[-] (975/2723) bomberosdevenezuela.gob.ve DEAD
+[!] (976/2723) digesaludfanb.mil.ve DNS-ONLY -- IPs: 45.55.35.203
+[-] (977/2723) contraloriajosetadeomonagas.gob.ve DEAD
+[+] (978/2723) resquimc.gob.ve ALIVE 200 854ms -- "INICIO -"
+[-] (979/2723) zebarinas.gob.ve DEAD
+[!] (980/2723) contraloriadelmunicipioacevedo.gob.ve DNS-ONLY -- IPs: 204.209.56.8,204.209.56.12,204.209.56.15,204.209.56.11,204.209.56.10,204.209.56.13,204.209.56.9,204.209.56.14
+[-] (981/2723) vzlaproductiva.gob.ve DEAD
+[-] (982/2723) pget.gob.ve DEAD
+[-] (983/2723) reguladorpostal.gob.ve DEAD
+[-] (984/2723) alcaldiadeheresb.gob.ve DEAD
+[!] (985/2723) sp3.gob.ve DNS-ONLY -- IPs: 190.205.115.107
+[-] (986/2723) politachira.gob.ve DEAD
+[-] (987/2723) loteriadelzulia.gob.ve DEAD
+[-] (988/2723) cmeclibertador.gob.ve DEAD
+[!] (989/2723) ceanz.gob.ve DNS-ONLY -- IPs: 201.243.82.132
+[!] (990/2723) ssas.gob.ve DNS-ONLY -- IPs: 190.9.132.67
+[!] (991/2723) csv.gob.ve DNS-ONLY -- IPs: 201.249.190.220
+[!] (992/2723) ftf.gob.ve DNS-ONLY -- IPs: 190.9.132.75
+[-] (993/2723) fundacomunidad.gob.ve DEAD
+[-] (994/2723) sindicaturadechacao.gob.ve DEAD
+[+] (995/2723) cebm.gob.ve ALIVE 200 2801ms -- "CEBM_MIRANDA"
+[-] (996/2723) idaz.gob.ve DEAD
+[-] (997/2723) indaz.gob.ve DEAD
+[-] (998/2723) sindicaturaccs.gob.ve DEAD
+[!] (999/2723) cealco.gob.ve DNS-ONLY -- IPs: 190.202.30.126
+[-] (1000/2723) turismomargarita.gob.ve DEAD
+[-] (1001/2723) mefbp.gob.ve DEAD
+[-] (1002/2723) cpbez.gob.ve DEAD
+[-] (1003/2723) alcaldiamunicipiopiar.gob.ve DEAD
+[!] (1004/2723) misionnevado.gob.ve DNS-ONLY -- IPs: 190.202.123.55
+[-] (1005/2723) fondesez.gob.ve DEAD
+[-] (1006/2723) concienciatv.gob.ve DEAD
+[-] (1007/2723) sectorproductivo.gob.ve DEAD
+[!] (1008/2723) procuraduriaportuguesa.gob.ve DNS-ONLY -- IPs: 31.220.19.67
+[-] (1009/2723) educacionlara.gob.ve DEAD
+[-] (1010/2723) siss.gob.ve DEAD
+[!] (1011/2723) mpetromin.gob.ve DNS-ONLY -- IPs: 190.202.80.101
+[-] (1012/2723) bvs.gob.ve DEAD
+[-] (1013/2723) idanz.gob.ve DEAD
+[!] (1014/2723) contraloriarosariodeperija.gob.ve DNS-ONLY -- IPs: 184.95.43.18
+[-] (1015/2723) rpc-venezuela.gob.ve DEAD
+[-] (1016/2723) suateg.gob.ve DEAD
+[-] (1017/2723) redcendit.gob.ve DEAD
+[-] (1018/2723) cgev.gob.ve DEAD
+[!] (1019/2723) alcaldiademoran-lara.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1020/2723) tvfanb.mil.ve DEAD
+[-] (1021/2723) alcaldiadelmunicipioescuque.gob.ve DEAD
+[+] (1022/2723) mippci.gob.ve ALIVE 200 831ms -- "Noticias ►"
+[-] (1023/2723) copredig.gob.ve DEAD
+[-] (1024/2723) gebolivar.gob.ve DEAD
+[-] (1025/2723) redcac.gob.ve DEAD
+[-] (1026/2723) fonder.gob.ve DEAD
+[!] (1027/2723) shn.mil.ve DNS-ONLY -- IPs: 201.248.68.140
+[-] (1028/2723) circulomilitar.gob.ve DEAD
+[-] (1029/2723) maderasdelorinoco.gob.ve DEAD
+[!] (1030/2723) consejogeneraldepolicia.gob.ve DNS-ONLY -- IPs: 200.109.65.26
+[+] (1031/2723) csn.gob.ve ALIVE 200 449ms -- "Redireccionando..."
+[-] (1032/2723) fatvv.gob.ve DEAD
+[-] (1033/2723) contraloriavalmorerodriguez.gob.ve DEAD
+[-] (1034/2723) enpa.gob.ve DEAD
+[-] (1035/2723) encafe.gob.ve DEAD
+[-] (1036/2723) cmemcarrizal.gob.ve DEAD
+[+] (1037/2723) tifm.gob.ve ALIVE 200 928ms -- "Sigamos construyendo juntos un futuro brillante"
+[-] (1038/2723) alcaldiabenitez.gob.ve DEAD
+[-] (1039/2723) contraloriaderibas.gob.ve DEAD
+[-] (1040/2723) muralesccs.gob.ve DEAD
+[-] (1041/2723) economia.gob.ve DEAD
+[-] (1042/2723) fondobicentenario.gob.ve DEAD
+[-] (1043/2723) cscv.gob.ve DEAD
+[-] (1044/2723) aeropuertosantodomingo.mil.ve DEAD
+[-] (1045/2723) juguetemagico.gob.ve DEAD
+[+] (1046/2723) seta.gob.ve ALIVE 200 153ms -- "SETA"
+[-] (1047/2723) tupymco.gob.ve DEAD
+[-] (1048/2723) rediocc.gob.ve DEAD
+[-] (1049/2723) 0800comercio.gob.ve DEAD
+[-] (1050/2723) comercio.gob.ve DEAD
+[-] (1051/2723) contraloriamsimonrodriguez.gob.ve DEAD
+[-] (1052/2723) rupymec.gob.ve DEAD
+[-] (1053/2723) redi.gob.ve DEAD
+[-] (1054/2723) sdszulia.gob.ve DEAD
+[-] (1055/2723) tiendas.gob.ve DEAD
+[-] (1056/2723) alcaldiadecarvajal.gob.ve DEAD
+[-] (1057/2723) osdpe.gob.ve DEAD
+[-] (1058/2723) cpnb.gob.ve DEAD
+[-] (1059/2723) conavia.gob.ve DEAD
+[-] (1060/2723) pedrocamejo.gob.ve DEAD
+[-] (1061/2723) dicofanb.mil.ve DEAD
+[+] (1062/2723) alcaldiaguanare.gob.ve ALIVE 200 1158ms -- "ALCALDIA DIGITAL"
+[!] (1063/2723) alcaldiadeatures.gob.ve DNS-ONLY -- IPs: 51.79.37.71
+[+] (1064/2723) cmebmurdaneta.gob.ve ALIVE 200 131ms -- "Pagina de inicio - test"
+[-] (1065/2723) cmlz.gob.ve DEAD
+[-] (1066/2723) contraloriadesanfrancisco.gob.ve DEAD
+[-] (1067/2723) consejomunicipalaraure.gob.ve DEAD
+[-] (1068/2723) simonbolivar.gob.ve DEAD
+[-] (1069/2723) spcnu.gob.ve DEAD
+[-] (1070/2723) iaveb.gob.ve DEAD
+[-] (1071/2723) rediguayana.mil.ve DEAD
+[-] (1072/2723) gobiernodecalle.gob.ve DEAD
+[-] (1073/2723) corpoandes.gob.ve DEAD
+[-] (1074/2723) contraloriadeguanare.gob.ve DEAD
+[-] (1075/2723) dirsaludbarinas.gob.ve DEAD
+[-] (1076/2723) gan.gob.ve DEAD
+[-] (1077/2723) granmisionatodavidavenezuela.gob.ve DEAD
+[-] (1078/2723) pgmerida.gob.ve DEAD
+[-] (1079/2723) concejomaracaibo.gob.ve DEAD
+[-] (1080/2723) cmegmonagas.gob.ve DEAD
+[!] (1081/2723) consocar.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1082/2723) cmevvargas.gob.ve DEAD
+[-] (1083/2723) hospitalaguablanca.gob.ve DEAD
+[+] (1084/2723) sedemat.gob.ve ALIVE 200 497ms -- "SEDEMAT | Servicio Desconcentrado Municipal de Admin...
+[-] (1085/2723) mppcti.gob.ve DEAD
+[-] (1086/2723) fundacardin.mil.ve DEAD
+[-] (1087/2723) alcaldiaplaza.gob.ve DEAD
+[-] (1088/2723) comisiondelaverdad.gob.ve DEAD
+[-] (1089/2723) ideven.gob.ve DEAD
+[-] (1090/2723) ipas-estadal-mda.gob.ve DEAD
+[+] (1091/2723) ovs.gob.ve ALIVE 200 335ms -- "SISTEMA DE REGISTRO ÚNICO DE DENUNCIAS"
+[-] (1092/2723) hospitalperezdeleon2.gob.ve DEAD
+[!] (1093/2723) visipol.gob.ve DNS-ONLY -- IPs: 190.9.132.35
+[-] (1094/2723) canaimamovil.gob.ve DEAD
+[-] (1095/2723) cmmcoro.gob.ve DEAD
+[-] (1096/2723) contraloriacarlosarvelo.gob.ve DEAD
+[-] (1097/2723) misionni�ojesus.gob.ve DEAD
+[-] (1098/2723) comsocaroni.gob.ve DEAD
+[+] (1099/2723) gacetaoficial.gob.ve ALIVE 200 236ms -- "Calendario de Gacetas"
+[-] (1100/2723) hidrollanos.gob.ve DEAD
+[!] (1101/2723) concejomunicipalzamora.gob.ve DNS-ONLY -- IPs: 204.209.56.11,204.209.56.12,204.209.56.9,204.209.56.8,204.209.56.10,204.209.56.13,204.209.56.15,204.209.56.14
+[+] (1102/2723) contraloriadecojedes.gob.ve ALIVE 200 413ms -- "Contraloria del Estado Bolivariano de Cojedes"
+[-] (1103/2723) cesna.gob.ve DEAD
+[-] (1104/2723) esguarnacpuntademata.mil.ve DEAD
+[-] (1105/2723) alcaldiadepunceres.gob.ve DEAD
+[-] (1106/2723) venbelcom.gob.ve DEAD
+[-] (1107/2723) concejomunicipalvalera.gob.ve DEAD
+[-] (1108/2723) hospitalrazettibarinas.gob.ve DEAD
+[!] (1109/2723) transbarcalara.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1110/2723) lot.gob.ve DEAD
+[!] (1111/2723) superintendenciadepreciosjustos.gob.ve DNS-ONLY -- IPs: 190.9.130.85
+[-] (1112/2723) aiam.gob.ve DEAD
+[-] (1113/2723) tsjdem.gob.ve DEAD
+[+] (1114/2723) industrias.gob.ve ALIVE 403 244ms -- "403 Forbidden"
+[-] (1115/2723) corsotursucre.gob.ve DEAD
+[-] (1116/2723) construpatria.gob.ve DEAD
+[-] (1117/2723) granmisionenamormayor.gob.ve DEAD
+[!] (1118/2723) hmcarlosarvelo.mil.ve DNS-ONLY -- IPs: 138.99.126.55
+[-] (1119/2723) mppi.gob.ve DEAD
+[-] (1120/2723) granmisionhijosdevenezuela.gob.ve DEAD
+[-] (1121/2723) registronacionaldeldeporte.gob.ve DEAD
+[-] (1122/2723) contraloriatomaslander.gob.ve DEAD
+[-] (1123/2723) organosuperiorosc.gob.ve DEAD
+[-] (1124/2723) fanb.gob.ve DEAD
+[-] (1125/2723) fondonacionaldeldeporte.gob.ve DEAD
+[-] (1126/2723) alcaldialibertador-aragua.gob.ve DEAD
+[-] (1127/2723) fp2000.gob.ve DEAD
+[-] (1128/2723) minjuventud.gob.ve DEAD
+[-] (1129/2723) policia.gob.ve DEAD
+[-] (1130/2723) jdj.gob.ve DEAD
+[-] (1131/2723) consejomunicipalvalera.gob.ve DEAD
+[-] (1132/2723) 171emergencias.gob.ve DEAD
+[+] (1133/2723) e-bolivar.gob.ve ALIVE 200 519ms -- "Gobernacion del estado Bolivar"
+[-] (1134/2723) alcaldiaarzobispochacon.gob.ve DEAD
+[-] (1135/2723) mppj.gob.ve DEAD
+[-] (1136/2723) direcciondesaludguarico.gob.ve DEAD
+[-] (1137/2723) minjuv.gob.ve DEAD
+[-] (1138/2723) meridacmdnna.gob.ve DEAD
+[-] (1139/2723) granmisionsaberytrabajo.gob.ve DEAD
+[-] (1140/2723) polianzoategui.gob.ve DEAD
+[-] (1141/2723) mpptaa.gob.ve DEAD
+[-] (1142/2723) cnb.gob.ve DEAD
+[-] (1143/2723) paezapure.gob.ve DEAD
+[-] (1144/2723) sunacyp.gob.ve DEAD
+[-] (1145/2723) campoeliasmerida.gob.ve DEAD
+[-] (1146/2723) contraloriadecaroni.gob.ve DEAD
+[-] (1147/2723) atmb.mil.ve DEAD
+[-] (1148/2723) mtt.gob.ve DEAD
+[+] (1149/2723) fonbe.gob.ve ALIVE 200 750ms -- "INICIO - FONBE"
+[!] (1150/2723) alcaldiabolivarianadeanaco.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1151/2723) vysucre.gob.ve DEAD
+[-] (1152/2723) alcaldiasucre-portuguesa.gob.ve DEAD
+[-] (1153/2723) comisionpresidencialdesarme.gob.ve DEAD
+[-] (1154/2723) dpd.gob.ve DEAD
+[-] (1155/2723) contraloriahatillo.gob.ve DEAD
+[-] (1156/2723) alcaldiaindependencia.gob.ve DEAD
+[-] (1157/2723) ivivar.gob.ve DEAD
+[-] (1158/2723) procumonagas.gob.ve DEAD
+[-] (1159/2723) independencia200.gob.ve DEAD
+[-] (1160/2723) contraloriaguaicaipuro.gob.ve DEAD
+[-] (1161/2723) atecmilej.mil.ve DEAD
+[-] (1162/2723) contraloriamunicipalpadrepedrochien.gob.ve DEAD
+[+] (1163/2723) ipne.gob.ve ALIVE 200 243ms -- "404 Error"
+[-] (1164/2723) alcaldiasimonplanas.gob.ve DEAD
+[-] (1165/2723) puertosdefalcon.gob.ve DEAD
+[-] (1166/2723) puertosdelalba.gob.ve DEAD
+[-] (1167/2723) increa.gob.ve DEAD
+[-] (1168/2723) rosariodeperija.gob.ve DEAD
+[-] (1169/2723) fccm.gob.ve DEAD
+[-] (1170/2723) cenif.gob.ve DEAD
+[-] (1171/2723) almacenadoracaracas.gob.ve DEAD
+[+] (1172/2723) idenna.gob.ve ALIVE 200 1126ms -- "INICIO - IDENNA"
+[-] (1173/2723) iamdr.gob.ve DEAD
+[-] (1174/2723) comersso.gob.ve DEAD
+[-] (1175/2723) suenaavenezuela.gob.ve DEAD
+[+] (1176/2723) archivodellibertador.gob.ve ALIVE 200 734ms
+[+] (1177/2723) sicm.gob.ve ALIVE 200 144ms -- "SICM - Inicio"
+[-] (1178/2723) policiamunicipalpuertocabello.gob.ve DEAD
+[-] (1179/2723) sncp.gob.ve DEAD
+[-] (1180/2723) patrimonio.gob.ve DEAD
+[-] (1181/2723) procuraduriabolivar.gob.ve DEAD
+[-] (1182/2723) contraloriadebolivar.gob.ve DEAD
+[-] (1183/2723) eppa.mil.ve DEAD
+[!] (1184/2723) iamib.gob.ve DNS-ONLY -- IPs: 148.72.152.131
+[-] (1185/2723) pgef.gob.ve DEAD
+[+] (1186/2723) aguasdeyaracuy.gob.ve ALIVE 200 516ms -- "Aguas de Yaracuy &#8211;  ¡Cuidar el Agua es Cosa de...
+[-] (1187/2723) imjc.gob.ve DEAD
+[+] (1188/2723) alcaldiadearaure.gob.ve ALIVE 200 178ms -- "Alcaldia de Araure"
+[-] (1189/2723) alcaldiasocialistadezamora.gob.ve DEAD
+[-] (1190/2723) catalogofunves.gob.ve DEAD
+[-] (1191/2723) alcaldiadediaz-nuevaesparta.gob.ve DEAD
+[-] (1192/2723) vicepresidenciasocial.gob.ve DEAD
+[+] (1193/2723) fondoefa.gob.ve ALIVE 200 2266ms -- "FONDOEFA"
+[!] (1194/2723) sateb.gob.ve DNS-ONLY -- IPs: 66.45.226.178
+[-] (1195/2723) cenamec.gob.ve DEAD
+[-] (1196/2723) alcaldialaazulita.gob.ve DEAD
+[-] (1197/2723) alcaldiadeguanta.gob.ve DEAD
+[-] (1198/2723) inzuvi.gob.ve DEAD
+[-] (1199/2723) contraloriamunicipaldepuertocabello.gob.ve DEAD
+[-] (1200/2723) lottt.gob.ve DEAD
+[-] (1201/2723) guardiadelpueblo.mil.ve DEAD
+[+] (1202/2723) vit.gob.ve ALIVE 200 682ms -- "VIT | Venezolana de Industrias Tecnólogicas"
+[-] (1203/2723) corporacionyaracuyanadeturismo.gob.ve DEAD
+[-] (1204/2723) direcciondeeducaciontachira.gob.ve DEAD
+[!] (1205/2723) sudebip.gob.ve DNS-ONLY -- IPs: 190.205.49.196
+[-] (1206/2723) refugios.gob.ve DEAD
+[-] (1207/2723) institutodeldeportetachirense.gob.ve DEAD
+[+] (1208/2723) fondoin.gob.ve ALIVE 200 1513ms -- "Inicio - Fundación Fondo Venezolano de Reconversión ...
+[!] (1209/2723) tss.gob.ve DNS-ONLY -- IPs: 190.9.130.168
+[+] (1210/2723) agnve.gob.ve ALIVE 200 9048ms -- "Archivo General de la Nación"
+[-] (1211/2723) cmv.gob.ve DEAD
+[-] (1212/2723) alcaldianaguanagua-carabobo.gob.ve DEAD
+[-] (1213/2723) alcaldiaezequielzamoramonagas.gob.ve DEAD
+[!] (1214/2723) 171portuguesa.gob.ve DNS-ONLY -- IPs: 190.9.128.190
+[!] (1215/2723) contraloriamunicipalgransabana.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[!] (1216/2723) alcaldiamirandazulia.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1217/2723) aratur.gob.ve DEAD
+[-] (1218/2723) imau.gob.ve DEAD
+[-] (1219/2723) bav.gob.ve DEAD
+[!] (1220/2723) alcaldiaveroes.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1221/2723) snv.gob.ve DEAD
+[-] (1222/2723) alcaldiadebaralt-zulia.gob.ve DEAD
+[-] (1223/2723) contraloriamunicipiobarinas.gob.ve DEAD
+[-] (1224/2723) empipcsa.gob.ve DEAD
+[-] (1225/2723) sucreturismo.gob.ve DEAD
+[-] (1226/2723) tromerca.gob.ve DEAD
+[!] (1227/2723) alcaldia-de-sanjoaquin.gob.ve DNS-ONLY -- IPs: 190.202.165.44
+[-] (1228/2723) contraloriamunicipaldeanaco.gob.ve DEAD
+[+] (1229/2723) contraloriaestadomerida.gob.ve ALIVE 200 352ms -- "contraloriaestadomerida.gob.ve"
+[-] (1230/2723) contraloriasantabarbara-monagas.gob.ve DEAD
+[!] (1231/2723) corpolara.gob.ve DNS-ONLY -- IPs: 200.109.64.225
+[-] (1232/2723) sundecop.gob.ve DEAD
+[-] (1233/2723) venezuelaennoticias.gob.ve DEAD
+[-] (1234/2723) e-tributosbolivar.gob.ve DEAD
+[-] (1235/2723) tdavenezuela.gob.ve DEAD
+[-] (1236/2723) alcaldiademiranda-falcon.gob.ve DEAD
+[-] (1237/2723) paravivirviendo.gob.ve DEAD
+[+] (1238/2723) bpvb.gob.ve ALIVE 503 452ms -- "503 Service Unavailable"
+[-] (1239/2723) esguarnaccordero.mil.ve DEAD
+[-] (1240/2723) frninosimonsucre.gob.ve DEAD
+[-] (1241/2723) indulafina.gob.ve DEAD
+[+] (1242/2723) chacao.gob.ve ALIVE 200 375ms -- "Chacao"
+[-] (1243/2723) imauca.gob.ve DEAD
+[!] (1244/2723) concejomunicipaldeiribarren.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1245/2723) contraloriasangenaro-portuguesa.gob.ve DEAD
+[-] (1246/2723) alcaldiapuertocabello-carabobo.gob.ve DEAD
+[-] (1247/2723) fci.gob.ve DEAD
+[-] (1248/2723) secretariadeeducacion-zulia.gob.ve DEAD
+[+] (1249/2723) baer.gob.ve ALIVE 200 7576ms -- "Bolivariana de Aeropuertos | Construyendo el Sociali...
+[!] (1250/2723) consuladobarcelona.gob.ve DNS-ONLY -- IPs: 134.0.11.25
+[-] (1251/2723) fmnj.gob.ve DEAD
+[!] (1252/2723) alcaldiadecrespo-lara.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1253/2723) contraloriacardenas-tachira.gob.ve DEAD
+[-] (1254/2723) alcaldiapintosalinas.gob.ve DEAD
+[-] (1255/2723) csp.gob.ve DEAD
+[-] (1256/2723) alcaldiaindigenabolivariana-guajira.gob.ve DEAD
+[-] (1257/2723) gobiernosocialistadetrujillo.gob.ve DEAD
+[+] (1258/2723) contraloriagirardot-aragua.gob.ve ALIVE 200 506ms -- "Contraloría Municipal de Girardot del Estado Aragua"
+[!] (1259/2723) ucocar.gob.ve DNS-ONLY -- IPs: 201.249.74.42
+[-] (1260/2723) contraloriaplaza-guarenas.gob.ve DEAD
+[-] (1261/2723) gset.gob.ve DEAD
+[-] (1262/2723) opppe.gob.ve DEAD
+[-] (1263/2723) aeropuerto-maiquetia.gob.ve DEAD
+[-] (1264/2723) granmisionviviendavenezuela.gob.ve DEAD
+[-] (1265/2723) cacaooderi.gob.ve DEAD
+[-] (1266/2723) alcaldiafernandezfeo-tachira.gob.ve DEAD
+[-] (1267/2723) fmba.gob.ve DEAD
+[-] (1268/2723) vivirviviendo.gob.ve DEAD
+[-] (1269/2723) clesucre.gob.ve DEAD
+[-] (1270/2723) misionvivienda.gob.ve DEAD
+[-] (1271/2723) inepol.gob.ve DEAD
+[-] (1272/2723) etm.mil.ve DEAD
+[!] (1273/2723) bomberosdeamazonas.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (1274/2723) venalcasa.gob.ve DEAD
+[-] (1275/2723) refugiosdignos.gob.ve DEAD
+[!] (1276/2723) alcaldiaderibas.gob.ve DNS-ONLY -- IPs: 104.250.141.195
+[-] (1277/2723) secocep.gob.ve DEAD
+[-] (1278/2723) vivienda.gob.ve DEAD
+[-] (1279/2723) dirafanb.gob.ve DEAD
+[-] (1280/2723) paravivirviviendo.gob.ve DEAD
+[-] (1281/2723) redcomunalsocialistaestadosucre.gob.ve DEAD
+[-] (1282/2723) institutodelamujer-maturin.gob.ve DEAD
+[-] (1283/2723) lacteoslosandes.gob.ve DEAD
+[-] (1284/2723) misionviviendavenezuela.gob.ve DEAD
+[+] (1285/2723) ima.gob.ve ALIVE 200 276ms -- "Instituto Municipal del Ambiente"
+[-] (1286/2723) pgeyaracuy.gob.ve DEAD
+[-] (1287/2723) sabse.mil.ve DEAD
+[-] (1288/2723) mcti-nuevaesparta.gob.ve DEAD
+[!] (1289/2723) cmb.gob.ve DNS-ONLY -- IPs: 204.13.239.162
+[+] (1290/2723) abastosbicentenario.gob.ve ALIVE 200 7624ms -- "Zimbra Web Client Log In"
+[-] (1291/2723) mineu.gob.ve DEAD
+[-] (1292/2723) industriasdiana.gob.ve DEAD
+[-] (1293/2723) canaimaeducativo.gob.ve DEAD
+[-] (1294/2723) alcaldialibertador-merida.gob.ve DEAD
+[!] (1295/2723) celac.gob.ve DNS-ONLY -- IPs: 190.9.130.81
+[-] (1296/2723) inppj.gob.ve DEAD
+[-] (1297/2723) cripto.gob.ve DEAD
+[-] (1298/2723) frnstrujillo.gob.ve DEAD
+[-] (1299/2723) casajosemarti.gob.ve DEAD
+[+] (1300/2723) pdval.gob.ve ALIVE 200 1109ms -- "PDVAL .- Productora y Distribuidora Venezolana de Al...
+[-] (1301/2723) cabildo.gob.ve DEAD
+[+] (1302/2723) feriainternacionaldevalencia.gob.ve ALIVE 200 3913ms -- "Alcaldía de Valencia - Inicio"
+[-] (1303/2723) alcaldiabolivarianadeunda.gob.ve DEAD
+[-] (1304/2723) esguarnacmichelena.mil.ve DEAD
+[-] (1305/2723) mtc.gob.ve DEAD
+[-] (1306/2723) snb.gob.ve DEAD
+[-] (1307/2723) alentuy.gob.ve DEAD
+[-] (1308/2723) consejolegislativotachira.gob.ve DEAD
+[+] (1309/2723) aquariumdevalencia.gob.ve ALIVE 200 3842ms -- "Alcaldía de Valencia - Inicio"
+[-] (1310/2723) sociedadbolivariana.gob.ve DEAD
+[-] (1311/2723) fundasol.gob.ve DEAD
+[-] (1312/2723) venezuelaturismo.gob.ve DEAD
+[-] (1313/2723) alcaldiadebermudez.gob.ve DEAD
+[-] (1314/2723) transporteterrestre.gob.ve DEAD
+[-] (1315/2723) contraloriademaneiro.gob.ve DEAD
+[-] (1316/2723) alcaldiadecardenas.gob.ve DEAD
+[-] (1317/2723) dcim.mil.ve DEAD
+[-] (1318/2723) consejocomunalasomangos.gob.ve DEAD
+[+] (1319/2723) contraloriaestadofalcon.gob.ve ALIVE 401 133ms -- "401 - Unauthorized: Access is denied due to invalid ...
+[-] (1320/2723) geoportalsb.gob.ve DEAD
+[-] (1321/2723) concejodepalavecino.gob.ve DEAD
+[-] (1322/2723) satap.gob.ve DEAD
+[-] (1323/2723) expo2010.gob.ve DEAD
+[-] (1324/2723) siataragua.gob.ve DEAD
+[-] (1325/2723) inces.mil.ve DEAD
+[+] (1326/2723) contraloriaestadotachira.gob.ve ALIVE 200 132ms -- "Pagina de inicio - test"
+[-] (1327/2723) alucasa.gob.ve DEAD
+[-] (1328/2723) gerenciasocial.gob.ve DEAD
+[-] (1329/2723) invilara.gob.ve DEAD
+[-] (1330/2723) fundacitemiranda.gob.ve DEAD
+[+] (1331/2723) alcaldialossalias.gob.ve ALIVE 200 273ms -- "SAAP - San Antonio de los Altos Posible"
+[-] (1332/2723) taquillaunica.gob.ve DEAD
+[!] (1333/2723) epuvenezuela.gob.ve DNS-ONLY -- IPs: 190.202.88.140,64.212.76.2
+[-] (1334/2723) contraloriaestadolara.gob.ve DEAD
+[-] (1335/2723) ipsopol.gob.ve DEAD
+[-] (1336/2723) cmbolivar.gob.ve DEAD
+[-] (1337/2723) deltamacuro.gob.ve DEAD
+[-] (1338/2723) polibaruta.gob.ve DEAD
+[!] (1339/2723) contraloriamunicipaldepiar.gob.ve DNS-ONLY -- IPs: 172.96.191.207
+[-] (1340/2723) cvc.gob.ve DEAD
+[-] (1341/2723) aeropuertolachinita.gob.ve DEAD
+[-] (1342/2723) polimaturin.gob.ve DEAD
+[-] (1343/2723) carabobo-desarrollosocial.gob.ve DEAD
+[-] (1344/2723) corasa.gob.ve DEAD
+[-] (1345/2723) proteccioncivilportuguesa.gob.ve DEAD
+[-] (1346/2723) indhur.gob.ve DEAD
+[-] (1347/2723) fundasucre.gob.ve DEAD
+[-] (1348/2723) sngr.gob.ve DEAD
+[!] (1349/2723) fasmij.gob.ve DNS-ONLY -- IPs: 200.11.218.204
+[-] (1350/2723) contradeltamacuro.gob.ve DEAD
+[+] (1351/2723) quimbiotec.gob.ve ALIVE 200 1079ms -- "Quimbiotec"
+[-] (1352/2723) eepa.mil.ve DEAD
+[-] (1353/2723) eepaer.mil.ve DEAD
+[-] (1354/2723) epaer.mil.ve DEAD
+[-] (1355/2723) zemonagas.gob.ve DEAD
+[-] (1356/2723) pppal.gob.ve DEAD
+[-] (1357/2723) clbec.gob.ve DEAD
+[+] (1358/2723) contraloriamunicipiosancristobal.gob.ve ALIVE 200 5844ms -- "Contraloria del Municipio San Cristobal"
+[-] (1359/2723) alcaldiadeaguasay.gob.ve DEAD
+[-] (1360/2723) procuraduriasucre.gob.ve DEAD
+[!] (1361/2723) alcaldiasantarosalia.gob.ve DNS-ONLY -- IPs: 204.209.56.10,204.209.56.14,204.209.56.12,204.209.56.8,204.209.56.15,204.209.56.9,204.209.56.13,204.209.56.11
+[-] (1362/2723) supraragua.gob.ve DEAD
+[-] (1363/2723) prosalud.gob.ve DEAD
+[!] (1364/2723) fundasaludtrujillo.gob.ve DNS-ONLY -- IPs: 190.9.132.153
+[-] (1365/2723) fundacite-nuevaesparta.gob.ve DEAD
+[-] (1366/2723) fonaprole.gob.ve DEAD
+[-] (1367/2723) mpf.gob.ve DEAD
+[-] (1368/2723) gabinetepopulararagua.gob.ve DEAD
+[!] (1369/2723) iaim.gob.ve DNS-ONLY -- IPs: 186.24.13.197
+[+] (1370/2723) alcaldiasimonbolivar.gob.ve ALIVE 200 524ms -- "Alcalda del Municipio Simon Bolivar en Linea en Mant...
+[-] (1371/2723) geoportal.gob.ve DEAD
+[+] (1372/2723) polichacao.gob.ve ALIVE 404 131ms -- "Not Found"
+[+] (1373/2723) fundesta.gob.ve ALIVE 200 608ms -- "Fundesta"
+[-] (1374/2723) inapcet.gob.ve DEAD
+[!] (1375/2723) exponaval.mil.ve DNS-ONLY -- IPs: 200.62.15.110
+[+] (1376/2723) daex.mil.ve ALIVE 200 678ms -- "DAEX"
+[-] (1377/2723) proforca.gob.ve DEAD
+[+] (1378/2723) mppeu.gob.ve ALIVE 403 115ms -- "403 Forbidden"
+[-] (1379/2723) teleinformatica.gob.ve DEAD
+[-] (1380/2723) fejp.gob.ve DEAD
+[!] (1381/2723) contraloria-apure.gob.ve DNS-ONLY -- IPs: 148.72.152.131
+[-] (1382/2723) alcaldiadesandiego.gob.ve DEAD
+[-] (1383/2723) xivcenso.gob.ve DEAD
+[+] (1384/2723) contraloriaestadotrujillo.gob.ve ALIVE 500 1263ms -- "Error de la base de datos"
+[-] (1385/2723) hospitaloncologicotachira.gob.ve DEAD
+[-] (1386/2723) concejomunicipalsotillo.gob.ve DEAD
+[+] (1387/2723) tecmin.gob.ve ALIVE 200 285ms -- "CVG Tecmin"
+[!] (1388/2723) decd-merida.gob.ve DNS-ONLY -- IPs: 192.168.1.112
+[-] (1389/2723) alcaldiavargas.gob.ve DEAD
+[-] (1390/2723) alcaldiaandreseloyblanco.gob.ve DEAD
+[+] (1391/2723) polimer.gob.ve ALIVE 200 2708ms -- "I.A.P.E.B.M &#8211; Servir con Honor"
+[!] (1392/2723) alcaldialibertador-carabobo.gob.ve DNS-ONLY -- IPs: 157.250.197.234
+[-] (1393/2723) cedocabar.gob.ve DEAD
+[-] (1394/2723) albertoadriani.gob.ve DEAD
+[-] (1395/2723) alcaldiaandresbello.gob.ve DEAD
+[-] (1396/2723) carbonesdelaguajira.gob.ve DEAD
+[-] (1397/2723) cmjjm.gob.ve DEAD
+[-] (1398/2723) iampdrtuc.gob.ve DEAD
+[-] (1399/2723) cleportuguesa.gob.ve DEAD
+[-] (1400/2723) aeropuerto-valencia.gob.ve DEAD
+[+] (1401/2723) fona.gob.ve ALIVE 200 2992ms -- "Fondo Nacional Antidrogas (FONA)"
+[-] (1402/2723) concejomunicipalsandiego.gob.ve DEAD
+[-] (1403/2723) avn.gob.ve DEAD
+[-] (1404/2723) contraloriabolivar-tachira.gob.ve DEAD
+[-] (1405/2723) cortubar.gob.ve DEAD
+[-] (1406/2723) cmt.gob.ve DEAD
+[-] (1407/2723) alcaldiademarinoirapa.gob.ve DEAD
+[-] (1408/2723) cortudelta.gob.ve DEAD
+[-] (1409/2723) oncop.gob.ve DEAD
+[-] (1410/2723) fundafauna.gob.ve DEAD
+[-] (1411/2723) fundacioncami.gob.ve DEAD
+[-] (1412/2723) fitven.gob.ve DEAD
+[-] (1413/2723) fcnd.gob.ve DEAD
+[-] (1414/2723) registrocivilsc.gob.ve DEAD
+[!] (1415/2723) cval.gob.ve DNS-ONLY -- IPs: 200.109.236.178
+[-] (1416/2723) cbp.gob.ve DEAD
+[-] (1417/2723) semat-pc.gob.ve DEAD
+[-] (1418/2723) viceterritorial.gob.ve DEAD
+[!] (1419/2723) zecarabobo.gob.ve DNS-ONLY -- IPs: 157.250.197.234
+[-] (1420/2723) iattcchacao.gob.ve DEAD
+[-] (1421/2723) ianet.gob.ve DEAD
+[-] (1422/2723) filven.gob.ve DEAD
+[-] (1423/2723) consejopolicia.gob.ve DEAD
+[+] (1424/2723) alcaldiagirardot.gob.ve ALIVE 200 2340ms -- "Alcaldía del Municipio Girardot - Maracay Estado Ara...
+[-] (1425/2723) enelco.gob.ve DEAD
+[-] (1426/2723) sinapsis.gob.ve DEAD
+[-] (1427/2723) policaracas.gob.ve DEAD
+[-] (1428/2723) artilleriadelpensamiento.gob.ve DEAD
+[!] (1429/2723) contraloriaestadoamazonas.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (1430/2723) ventel.gob.ve DEAD
+[-] (1431/2723) sisme.gob.ve DEAD
+[!] (1432/2723) alcaldiadeguaicaipuro.gob.ve DNS-ONLY -- IPs: 161.129.68.42
+[-] (1433/2723) alcaldiatomaslander.gob.ve DEAD
+[-] (1434/2723) enelven.gob.ve DEAD
+[-] (1435/2723) dicofan.mil.ve DEAD
+[!] (1436/2723) contraloriaestadobarinas.gob.ve DNS-ONLY -- IPs: 162.244.94.11
+[-] (1437/2723) zonfipca.gob.ve DEAD
+[-] (1438/2723) fiscaliageneralmilitar.mil.ve DEAD
+[-] (1439/2723) redsocialistaagroecologica.gob.ve DEAD
+[-] (1440/2723) fsaludparatodossandiego.gob.ve DEAD
+[-] (1441/2723) bomberossandiego.gob.ve DEAD
+[-] (1442/2723) mpppf.gob.ve DEAD
+[-] (1443/2723) fcnm.gob.ve DEAD
+[-] (1444/2723) concejochacao.gob.ve DEAD
+[-] (1445/2723) alegriaparalosninos.gob.ve DEAD
+[-] (1446/2723) capitaniaplc.gob.ve DEAD
+[-] (1447/2723) pcambrosioplaza.gob.ve DEAD
+[!] (1448/2723) bpsenlinea.gob.ve DNS-ONLY -- IPs: 200.41.57.200
+[-] (1449/2723) cbsmb.gob.ve DEAD
+[!] (1450/2723) contraloriaestadozulia.gob.ve DNS-ONLY -- IPs: 155.254.28.156
+[-] (1451/2723) bsr.gob.ve DEAD
+[-] (1452/2723) cmdnnasandiego.gob.ve DEAD
+[!] (1453/2723) pescalba.gob.ve DNS-ONLY -- IPs: 200.11.136.163
+[-] (1454/2723) fumcosandi.gob.ve DEAD
+[-] (1455/2723) pcsantiagomarino.gob.ve DEAD
+[-] (1456/2723) idegeoven.gob.ve DEAD
+[-] (1457/2723) policiadecaracas.gob.ve DEAD
+[-] (1458/2723) iamdesandi.gob.ve DEAD
+[-] (1459/2723) alcaldiadepampanito.gob.ve DEAD
+[-] (1460/2723) 171yaracuy.gob.ve DEAD
+[-] (1461/2723) alopresidente.gob.ve DEAD
+[-] (1462/2723) policiadesandiego.gob.ve DEAD
+[-] (1463/2723) sandiegoparalosninos.gob.ve DEAD
+[-] (1464/2723) alcaldiadecolina.gob.ve DEAD
+[-] (1465/2723) vialidadsandiego.gob.ve DEAD
+[-] (1466/2723) alcaldiasantiagomarino.gob.ve DEAD
+[-] (1467/2723) ssccarabobo.gob.ve DEAD
+[-] (1468/2723) aeropuerto-margarita.gob.ve DEAD
+[-] (1469/2723) cleyaracuy.gob.ve DEAD
+[-] (1470/2723) fundavanza.gob.ve DEAD
+[+] (1471/2723) policiadearagua.gob.ve ALIVE 200 2382ms -- "Inicio - Policía del Estado Bolivariano de Aragua"
+[-] (1472/2723) alcaldiaalbertoadriani.gob.ve DEAD
+[-] (1473/2723) aigjsm.gob.ve DEAD
+[-] (1474/2723) cotatur.gob.ve DEAD
+[-] (1475/2723) carbonorca.gob.ve DEAD
+[!] (1476/2723) sistine.gob.ve DNS-ONLY -- IPs: 200.44.50.150
+[+] (1477/2723) contraloriaestadoyaracuy.gob.ve ALIVE 200 136ms -- "Pagina de inicio - test"
+[-] (1478/2723) alcaldiadeguanipa.gob.ve DEAD
+[!] (1479/2723) cida.gob.ve DNS-ONLY -- IPs: 74.81.95.179
+[-] (1480/2723) polimonagas.gob.ve DEAD
+[-] (1481/2723) corporacionbancapublica.gob.ve DEAD
+[-] (1482/2723) pcivildeltaamacuro.gob.ve DEAD
+[-] (1483/2723) policiacojedes.gob.ve DEAD
+[-] (1484/2723) alcaldiadezamora-aragua.gob.ve DEAD
+[-] (1485/2723) cleg.gob.ve DEAD
+[-] (1486/2723) parlamentoandino.gob.ve DEAD
+[-] (1487/2723) polivialmerida.gob.ve DEAD
+[-] (1488/2723) desurca.gob.ve DEAD
+[-] (1489/2723) seguroshorizonte.gob.ve DEAD
+[-] (1490/2723) edelca.gob.ve DEAD
+[-] (1491/2723) alcaldiasocialistacpo.gob.ve DEAD
+[+] (1492/2723) alcaldiadeheres.gob.ve ALIVE 200 1461ms -- "Alcaldía Angostura del Orinoco - Capital que renace"
+[+] (1493/2723) mpcomunas.gob.ve ALIVE 200 637ms -- "Login – Fundacomunal"
+[!] (1494/2723) cabelum.gob.ve DNS-ONLY -- IPs: 3.137.76.75
+[-] (1495/2723) alcaldiadesancristobal.gob.ve DEAD
+[-] (1496/2723) gbst.gob.ve DEAD
+[-] (1497/2723) planrevolucionariodelectura.gob.ve DEAD
+[!] (1498/2723) eleval.gob.ve DNS-ONLY -- IPs: 200.74.199.26
+[+] (1499/2723) alcaldiadeguacara.gob.ve ALIVE 200 429ms
+[-] (1500/2723) festivalesamazonia.gob.ve DEAD
+[-] (1501/2723) fundeeh.gob.ve DEAD
+[-] (1502/2723) alcaldiadelecheria.gob.ve DEAD
+[-] (1503/2723) irtab.gob.ve DEAD
+[-] (1504/2723) bicentenarionuestraamerica.gob.ve DEAD
+[+] (1505/2723) alcaldiadezamora.gob.ve ALIVE 200 3677ms -- "Alcaldia de Zamora - ¡Guatire un estilo de vida!"
+[-] (1506/2723) mopvi.gob.ve DEAD
+[-] (1507/2723) alcaldiametropolitana.gob.ve DEAD
+[-] (1508/2723) fudet.gob.ve DEAD
+[-] (1509/2723) alcaldiabrion.gob.ve DEAD
+[-] (1510/2723) fondepmi.gob.ve DEAD
+[!] (1511/2723) alcaldiademara.gob.ve DNS-ONLY -- IPs: 162.245.189.194
+[-] (1512/2723) procuraduriageneraldelestadovargas.gob.ve DEAD
+[-] (1513/2723) warairarepano.gob.ve DEAD
+[-] (1514/2723) clemerida.gob.ve DEAD
+[-] (1515/2723) efosig.gob.ve DEAD
+[-] (1516/2723) vtelca.gob.ve DEAD
+[-] (1517/2723) policiamunicipalvargas.gob.ve DEAD
+[-] (1518/2723) rutalibertador.gob.ve DEAD
+[-] (1519/2723) bicentenarionuestramerica.gob.ve DEAD
+[-] (1520/2723) municipioacevedo.gob.ve DEAD
+[-] (1521/2723) fundalegria.gob.ve DEAD
+[-] (1522/2723) laslineasdechavez.gob.ve DEAD
+[-] (1523/2723) alsobocaroni.gob.ve DEAD
+[+] (1524/2723) alcaldiamunicipiosucre.gob.ve ALIVE 200 156ms -- "Potential Threat Detected"
+[-] (1525/2723) satar.gob.ve DEAD
+[-] (1526/2723) santosluzardo.gob.ve DEAD
+[-] (1527/2723) alcaldiabolivarianadecabimas.gob.ve DEAD
+[-] (1528/2723) clinicapopularelparaiso.gob.ve DEAD
+[-] (1529/2723) pgeb.gob.ve DEAD
+[-] (1530/2723) contraloriamarino.gob.ve DEAD
+[-] (1531/2723) fundatachira.gob.ve DEAD
+[-] (1532/2723) bicentenariovenezuela.gob.ve DEAD
+[-] (1533/2723) darfa.mil.ve DEAD
+[+] (1534/2723) corposaludtachira.gob.ve ALIVE 200 8598ms -- "Corporacion de salud Estado Tachira"
+[-] (1535/2723) comsipol.gob.ve DEAD
+[-] (1536/2723) abc.gob.ve DEAD
+[-] (1537/2723) concejomunicipaldesucre.gob.ve DEAD
+[-] (1538/2723) banfoandes.gob.ve DEAD
+[-] (1539/2723) infobit.gob.ve DEAD
+[-] (1540/2723) ctvtt.gob.ve DEAD
+[-] (1541/2723) sebatmirandazulia.gob.ve DEAD
+[-] (1542/2723) fepr.gob.ve DEAD
+[-] (1543/2723) arrozdelalba.gob.ve DEAD
+[-] (1544/2723) bomberosmonagas.gob.ve DEAD
+[+] (1545/2723) alcaldiaelhatillo.gob.ve ALIVE 200 91ms -- "Potential Threat Detected"
+[-] (1546/2723) cbit.gob.ve DEAD
+[-] (1547/2723) fundacionelninosimon.gob.ve DEAD
+[-] (1548/2723) 34brigmonagas.mil.ve DEAD
+[!] (1549/2723) digecafa.mil.ve DNS-ONLY -- IPs: 64.68.202.11
+[-] (1550/2723) bicentenarioindependencia.gob.ve DEAD
+[-] (1551/2723) 311bibolivar.mil.ve DEAD
+[!] (1552/2723) pni.gob.ve DNS-ONLY -- IPs: 200.109.238.61
+[-] (1553/2723) cmsp.gob.ve DEAD
+[-] (1554/2723) convialba.gob.ve DEAD
+[-] (1555/2723) bicentenarioamerica.gob.ve DEAD
+[-] (1556/2723) bicentenarioemancipacion.gob.ve DEAD
+[-] (1557/2723) clsemonagas.gob.ve DEAD
+[-] (1558/2723) cnm.gob.ve DEAD
+[-] (1559/2723) enmohca.gob.ve DEAD
+[-] (1560/2723) venezueladeverdad.gob.ve DEAD
+[-] (1561/2723) cmbl.gob.ve DEAD
+[-] (1562/2723) sedes.gob.ve DEAD
+[!] (1563/2723) cnh.gob.ve DNS-ONLY -- IPs: 190.202.109.243
+[-] (1564/2723) hidraulicoscojedes.gob.ve DEAD
+[!] (1565/2723) gobarinas.gob.ve DNS-ONLY -- IPs: 201.249.75.157
+[-] (1566/2723) cvgminerven.gob.ve DEAD
+[-] (1567/2723) cenaf.gob.ve DEAD
+[-] (1568/2723) vedesat.gob.ve DEAD
+[-] (1569/2723) contraloriadelmunicipiopaez.gob.ve DEAD
+[-] (1570/2723) patrimoniometropolitano.gob.ve DEAD
+[-] (1571/2723) cmlmerida.gob.ve DEAD
+[-] (1572/2723) maderasdelalba.gob.ve DEAD
+[-] (1573/2723) guardacostas.mil.ve DEAD
+[+] (1574/2723) inameh.gob.ve ALIVE 200 1034ms -- "INAMEH-Web"
+[-] (1575/2723) corporacioncasa.gob.ve DEAD
+[-] (1576/2723) contralorialibertador-aragua.gob.ve DEAD
+[-] (1577/2723) defpu.mil.ve DEAD
+[-] (1578/2723) albacultural.gob.ve DEAD
+[-] (1579/2723) concejodegirardot.gob.ve DEAD
+[-] (1580/2723) asambleaspopulares.gob.ve DEAD
+[-] (1581/2723) clev.gob.ve DEAD
+[!] (1582/2723) lacteosdelalba.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1583/2723) sec.gob.ve DEAD
+[-] (1584/2723) misionesenlinea.gob.ve DEAD
+[!] (1585/2723) samh.gob.ve DNS-ONLY -- IPs: 190.216.242.195
+[-] (1586/2723) clebarinas.gob.ve DEAD
+[-] (1587/2723) educate.gob.ve DEAD
+[-] (1588/2723) suvinca.gob.ve DEAD
+[-] (1589/2723) idena.gob.ve DEAD
+[-] (1590/2723) estudiosydesastres.gob.ve DEAD
+[+] (1591/2723) tsj-dem.gob.ve ALIVE 200 5050ms -- "Direcci&oacute;n Ejecutiva de la Magistratura"
+[-] (1592/2723) cnnpg.gob.ve DEAD
+[-] (1593/2723) mincomercio.gob.ve DEAD
+[-] (1594/2723) inder.gob.ve DEAD
+[-] (1595/2723) bomberosyaracuy.gob.ve DEAD
+[-] (1596/2723) regimientoguardiahonor.mil.ve DEAD
+[+] (1597/2723) ibime.gob.ve ALIVE 200 196ms -- "IBIME-MERIDA"
+[-] (1598/2723) cmdnairibarren.gob.ve DEAD
+[-] (1599/2723) clppvalencia.gob.ve DEAD
+[-] (1600/2723) hospitalmilitardemaracay.gob.ve DEAD
+[-] (1601/2723) milicianacional.mil.ve DEAD
+[+] (1602/2723) incret.gob.ve ALIVE 200 744ms -- "Incret"
+[!] (1603/2723) alcaldiapaez.gob.ve DNS-ONLY -- IPs: 204.13.239.162
+[-] (1604/2723) elgransucre-miranda.gob.ve DEAD
+[-] (1605/2723) madresdelbarrio.gob.ve DEAD
+[-] (1606/2723) c-nuevaetapa.gob.ve DEAD
+[-] (1607/2723) alcaldiadevalera.gob.ve DEAD
+[-] (1608/2723) contraloriadepalavicino.gob.ve DEAD
+[-] (1609/2723) hospitalmilitardemaracay.mil.ve DEAD
+[!] (1610/2723) alcaldiadebaruta.gob.ve DNS-ONLY -- IPs: 200.74.194.154
+[-] (1611/2723) cenacadeguarico.gob.ve DEAD
+[-] (1612/2723) parlamentoamazonico.gob.ve DEAD
+[!] (1613/2723) cafevenezuela.gob.ve DNS-ONLY -- IPs: 144.217.72.101
+[-] (1614/2723) espaciodigitalgnb.mil.ve DEAD
+[-] (1615/2723) policiadenuevaesparta.gob.ve DEAD
+[-] (1616/2723) contraloriamunicipaldesucre.gob.ve DEAD
+[!] (1617/2723) alcaldiadecolon.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (1618/2723) fondodeturismomiranda.gob.ve DEAD
+[-] (1619/2723) orinoquia.gob.ve DEAD
+[-] (1620/2723) inpremilya.mil.ve DEAD
+[-] (1621/2723) consulado.gob.ve DEAD
+[!] (1622/2723) gdc.gob.ve DNS-ONLY -- IPs: 190.202.23.123
+[-] (1623/2723) concejomunicipaldeguacara.gob.ve DEAD
+[-] (1624/2723) embajada.gob.ve DEAD
+[!] (1625/2723) fundacaracas.gob.ve DNS-ONLY -- IPs: 200.11.217.122
+[-] (1626/2723) ate.gob.ve DEAD
+[-] (1627/2723) desarrolloendogeno-palavecino.gob.ve DEAD
+[-] (1628/2723) arsenal.mil.ve DEAD
+[-] (1629/2723) siex.gob.ve DEAD
+[-] (1630/2723) iacndnna.gob.ve DEAD
+[-] (1631/2723) lnh.gob.ve DEAD
+[-] (1632/2723) misionalmamater.gob.ve DEAD
+[-] (1633/2723) embajadaenbolivia.gob.ve DEAD
+[-] (1634/2723) clusofa.mil.ve DEAD
+[-] (1635/2723) cert.gob.ve DEAD
+[-] (1636/2723) salasituacional.gob.ve DEAD
+[-] (1637/2723) batallondeaviones.mil.ve DEAD
+[-] (1638/2723) artilleriaestadistica.gob.ve DEAD
+[-] (1639/2723) ccnpg.gob.ve DEAD
+[-] (1640/2723) fesnojiv.gob.ve DEAD
+[-] (1641/2723) bomberosvargas.gob.ve DEAD
+[-] (1642/2723) escueladeidiomas.mil.ve DEAD
+[!] (1643/2723) contraloriadevalera.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (1644/2723) contraloriadeiturriza.gob.ve DEAD
+[-] (1645/2723) cancilleria.gob.ve DEAD
+[-] (1646/2723) cadafe.gob.ve DEAD
+[-] (1647/2723) colombeia.gob.ve DEAD
+[-] (1648/2723) mppdp.gob.ve DEAD
+[+] (1649/2723) alcaldiadepalavecino.gob.ve ALIVE 526 233ms -- "alcaldiadepalavecino.gob.ve | 526: Invalid SSL certi...
+[-] (1650/2723) polinatiro.mil.ve DEAD
+[-] (1651/2723) hidropaez.gob.ve DEAD
+[-] (1652/2723) colombeiatv.gob.ve DEAD
+[-] (1653/2723) fundacioncolombeia.gob.ve DEAD
+[-] (1654/2723) evp.gob.ve DEAD
+[+] (1655/2723) insopesca.gob.ve ALIVE 200 808ms -- "INSOPESCA &#8211; Instituto Socialista de Pesca y Ac...
+[-] (1656/2723) inpremilfa.mil.ve DEAD
+[-] (1657/2723) mcti.gob.ve DEAD
+[-] (1658/2723) inpremilla.mil.ve DEAD
+[-] (1659/2723) cemalara.gob.ve DEAD
+[-] (1660/2723) fundacite-guarico.gob.ve DEAD
+[-] (1661/2723) orecsucre.gob.ve DEAD
+[+] (1662/2723) fundalanavial.gob.ve ALIVE 200 1193ms -- "Fundalanavial - Fundacion de Laboratorios Nacional d...
+[-] (1663/2723) fundacionteatrojuares.gob.ve DEAD
+[-] (1664/2723) safdec-lara.gob.ve DEAD
+[-] (1665/2723) secepcppmerida.gob.ve DEAD
+[+] (1666/2723) fundacite-trujillo.gob.ve ALIVE 200 1802ms -- "INDET &#8211; Instituto de Deportes del Estado Truji...
+[-] (1667/2723) tgc.gob.ve DEAD
+[-] (1668/2723) mppf.gob.ve DEAD
+[-] (1669/2723) fundacite-cojedes.gob.ve DEAD
+[-] (1670/2723) jupe.mil.ve DEAD
+[-] (1671/2723) ven-cert.gob.ve DEAD
+[-] (1672/2723) core3.mil.ve DEAD
+[-] (1673/2723) maquinarias.gob.ve DEAD
+[-] (1674/2723) mintel.gob.ve DEAD
+[-] (1675/2723) oafanb.mil.ve DEAD
+[-] (1676/2723) proyectolacarlota.gob.ve DEAD
+[!] (1677/2723) corpozulia.gob.ve DNS-ONLY -- IPs: 190.9.130.245
+[-] (1678/2723) contraloriadetorres-lara.gob.ve DEAD
+[-] (1679/2723) scej.mil.ve DEAD
+[-] (1680/2723) paraisodechabasquen.gob.ve DEAD
+[!] (1681/2723) cvgin.gob.ve DNS-ONLY -- IPs: 190.202.5.91
+[-] (1682/2723) mppti.gob.ve DEAD
+[-] (1683/2723) contraloria-municipalfernandezfeo.gob.ve DEAD
+[-] (1684/2723) safonacc.gob.ve DEAD
+[-] (1685/2723) museodeltachira.gob.ve DEAD
+[-] (1686/2723) ctaisc.gob.ve DEAD
+[!] (1687/2723) alcaldiadematurin.gob.ve DNS-ONLY -- IPs: 190.202.129.59
+[-] (1688/2723) iimp.gob.ve DEAD
+[-] (1689/2723) embavenezhungria.gob.ve DEAD
+[-] (1690/2723) delta171.gob.ve DEAD
+[!] (1691/2723) veximca.gob.ve DNS-ONLY -- IPs: 201.243.89.123
+[-] (1692/2723) trinidadytobago.gob.ve DEAD
+[-] (1693/2723) consejobolivar-barinas.gob.ve DEAD
+[+] (1694/2723) fundaturvalencia.gob.ve ALIVE 200 3728ms -- "Alcaldía de Valencia - Inicio"
+[+] (1695/2723) vencert.gob.ve ALIVE 200 911ms -- "ZeroShell"
+[-] (1696/2723) ghp.mil.ve DEAD
+[-] (1697/2723) contralorialossalias.gob.ve DEAD
+[-] (1698/2723) casabello.gob.ve DEAD
+[-] (1699/2723) minpptrass.gob.ve DEAD
+[!] (1700/2723) fnns.gob.ve DNS-ONLY -- IPs: 190.202.40.10
+[-] (1701/2723) imprecultura.gob.ve DEAD
+[-] (1702/2723) etpej.mil.ve DEAD
+[-] (1703/2723) esgc.mil.ve DEAD
+[-] (1704/2723) caaez.gob.ve DEAD
+[-] (1705/2723) samatbarinas.gob.ve DEAD
+[-] (1706/2723) ona-miranda.gob.ve DEAD
+[+] (1707/2723) agn.gob.ve ALIVE 200 676ms -- "Archivo General de la Nación"
+[!] (1708/2723) avicoladelalba.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1709/2723) e-modernizacion.gob.ve DEAD
+[!] (1710/2723) alcaldiadejimenez.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1711/2723) fundacite-lara.gob.ve DEAD
+[-] (1712/2723) contraloriacarabobo.gob.ve DEAD
+[+] (1713/2723) iampoval.gob.ve ALIVE 200 173ms -- "IAMPOVAL - Instituto Aut&oacute;nomo Municipal Polic...
+[-] (1714/2723) embassy.gob.ve DEAD
+[-] (1715/2723) consulados.gob.ve DEAD
+[-] (1716/2723) mintra.gob.ve DEAD
+[-] (1717/2723) medicinaintegralcomunitaria-portuguesa.gob.ve DEAD
+[-] (1718/2723) ministryofforeingaffairs.gob.ve DEAD
+[-] (1719/2723) contraloriaguayos.gob.ve DEAD
+[-] (1720/2723) council.gob.ve DEAD
+[-] (1721/2723) grancaribe.gob.ve DEAD
+[+] (1722/2723) fundeval.gob.ve ALIVE 403 121ms -- "403 Forbidden"
+[-] (1723/2723) musarp.gob.ve DEAD
+[-] (1724/2723) dianca.gob.ve DEAD
+[-] (1725/2723) diplomacia.gob.ve DEAD
+[-] (1726/2723) musarquitectura.gob.ve DEAD
+[-] (1727/2723) conmumat.gob.ve DEAD
+[-] (1728/2723) muscine.gob.ve DEAD
+[-] (1729/2723) iuesapar.gob.ve DEAD
+[-] (1730/2723) cenhisto.gob.ve DEAD
+[-] (1731/2723) fundacite-deltaamacuro.gob.ve DEAD
+[-] (1732/2723) fundesanz.gob.ve DEAD
+[-] (1733/2723) musfotografia.gob.ve DEAD
+[-] (1734/2723) redmuseosdevenezuela.gob.ve DEAD
+[-] (1735/2723) 35policiamilitar.mil.ve DEAD
+[-] (1736/2723) mucultura.gob.ve DEAD
+[-] (1737/2723) oaia.gob.ve DEAD
+[-] (1738/2723) cgcarabobo.gob.ve DEAD
+[-] (1739/2723) contraloriadepaezportuguesa.gob.ve DEAD
+[-] (1740/2723) mushistoria.gob.ve DEAD
+[-] (1741/2723) muspalabra.gob.ve DEAD
+[-] (1742/2723) musdc.gob.ve DEAD
+[-] (1743/2723) fondael.gob.ve DEAD
+[-] (1744/2723) embajadas.gob.ve DEAD
+[+] (1745/2723) cendis.gob.ve ALIVE 200 1352ms -- "Centro Nacional del Disco &#8211; Registro, producci...
+[-] (1746/2723) polizamora.gob.ve DEAD
+[-] (1747/2723) eltigre.gob.ve DEAD
+[-] (1748/2723) coplaguarico.gob.ve DEAD
+[-] (1749/2723) comunidades-ti.gob.ve DEAD
+[-] (1750/2723) fundaescolar.gob.ve DEAD
+[-] (1751/2723) pnud-banmujer.gob.ve DEAD
+[-] (1752/2723) policiasancristobal.gob.ve DEAD
+[!] (1753/2723) cvaazucar.gob.ve DNS-ONLY -- IPs: 201.249.57.131
+[-] (1754/2723) all.gob.ve DEAD
+[-] (1755/2723) iremujerlara.gob.ve DEAD
+[!] (1756/2723) fevp.gob.ve DNS-ONLY -- IPs: 190.205.34.82
+[-] (1757/2723) alcaldiabarinas.gob.ve DEAD
+[-] (1758/2723) contraloria-cordoba-tachira.gob.ve DEAD
+[-] (1759/2723) escupolara.gob.ve DEAD
+[-] (1760/2723) imdermi.gob.ve DEAD
+[-] (1761/2723) mppc.gob.ve DEAD
+[+] (1762/2723) ciara.gob.ve ALIVE 404 384ms -- "404 Not Found"
+[-] (1763/2723) contraloriamunicipaltorbes.gob.ve DEAD
+[-] (1764/2723) contraloriageneralzulia.gob.ve DEAD
+[+] (1765/2723) teatromunicipaldevalencia.gob.ve ALIVE 200 168ms -- "Teatro Municipal de Valencia"
+[-] (1766/2723) fundacomunal.gob.ve DEAD
+[-] (1767/2723) mes.gob.ve DEAD
+[-] (1768/2723) cdeeslara.gob.ve DEAD
+[!] (1769/2723) emsla.gob.ve DNS-ONLY -- IPs: 200.11.218.235
+[-] (1770/2723) forogobiernoenlinea.gob.ve DEAD
+[-] (1771/2723) sitssa.gob.ve DEAD
+[-] (1772/2723) fundacredesa.gob.ve DEAD
+[-] (1773/2723) fundesport.gob.ve DEAD
+[-] (1774/2723) fundacite-anz.gob.ve DEAD
+[-] (1775/2723) intermisiones-sucre.gob.ve DEAD
+[+] (1776/2723) induval.gob.ve ALIVE 200 180ms -- ".:: INDUVAL - Instituto del Desarrollo Urbano del Ce...
+[-] (1777/2723) saludguarico.gob.ve DEAD
+[-] (1778/2723) procubolivar.gob.ve DEAD
+[-] (1779/2723) ceo.mil.ve DEAD
+[-] (1780/2723) invesol.gob.ve DEAD
+[-] (1781/2723) fundacite-yaracuy.gob.ve DEAD
+[-] (1782/2723) 42brigadaparacaidista.mil.ve DEAD
+[-] (1783/2723) policaroni.gob.ve DEAD
+[-] (1784/2723) policianzoategui.gob.ve DEAD
+[-] (1785/2723) cvapedrocamejo.gob.ve DEAD
+[-] (1786/2723) iremujervargas.gob.ve DEAD
+[-] (1787/2723) cmdna-valencia.gob.ve DEAD
+[-] (1788/2723) linea5mdc.gob.ve DEAD
+[-] (1789/2723) fmh.gob.ve DEAD
+[-] (1790/2723) agea.gob.ve DEAD
+[!] (1791/2723) contraloriadepalavecino.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1792/2723) fondomixtosucre.gob.ve DEAD
+[-] (1793/2723) fundapol.gob.ve DEAD
+[-] (1794/2723) fundacite-sucre.gob.ve DEAD
+[+] (1795/2723) cgesucre.gob.ve ALIVE 200 164ms -- "CES - Contralor&iacute;a del estado Sucre - Venezuel...
+[-] (1796/2723) safav.gob.ve DEAD
+[-] (1797/2723) ipc.gob.ve DEAD
+[-] (1798/2723) policiademerida.gob.ve DEAD
+[-] (1799/2723) registroplaza.gob.ve DEAD
+[-] (1800/2723) b-apure-cm.gob.ve DEAD
+[-] (1801/2723) registro1sucre-miranda.gob.ve DEAD
+[-] (1802/2723) cfp.gob.ve DEAD
+[-] (1803/2723) inferca.gob.ve DEAD
+[-] (1804/2723) ceg.gob.ve DEAD
+[+] (1805/2723) culturaval.gob.ve ALIVE 200 3764ms -- "Alcaldía de Valencia - Inicio"
+[-] (1806/2723) consejosanfelipe.gob.ve DEAD
+[-] (1807/2723) estadovargas.gob.ve DEAD
+[-] (1808/2723) chichiriviche-falcon.gob.ve DEAD
+[-] (1809/2723) ghprbv.gob.ve DEAD
+[-] (1810/2723) imjcaracas.gob.ve DEAD
+[-] (1811/2723) innovacion.gob.ve DEAD
+[-] (1812/2723) procuraduriamerida.gob.ve DEAD
+[-] (1813/2723) mps.gob.ve DEAD
+[-] (1814/2723) contraloriametropolitana.gob.ve DEAD
+[!] (1815/2723) rielesyperfiles.gob.ve DNS-ONLY -- IPs: 190.6.23.118
+[-] (1816/2723) alcaldiadelmunicipiovargas.gob.ve DEAD
+[-] (1817/2723) sociedadbolivarianadevenezuela.gob.ve DEAD
+[-] (1818/2723) fundacionmisionhabitat.gob.ve DEAD
+[-] (1819/2723) poliyaracuy.gob.ve DEAD
+[-] (1820/2723) mppdeportes.gob.ve DEAD
+[-] (1821/2723) viceministroparaafrica.gob.ve DEAD
+[-] (1822/2723) alcaldiasanareaeb.gob.ve DEAD
+[-] (1823/2723) fundeca.gob.ve DEAD
+[-] (1824/2723) comecuid.gob.ve DEAD
+[-] (1825/2723) invivar.gob.ve DEAD
+[-] (1826/2723) alcaldiaribero-sucre.gob.ve DEAD
+[-] (1827/2723) gacetalaboralluz.gob.ve DEAD
+[-] (1828/2723) semmz.gob.ve DEAD
+[-] (1829/2723) controlprevio.gob.ve DEAD
+[-] (1830/2723) contraloriaandreseloyblanco.gob.ve DEAD
+[+] (1831/2723) conalot.gob.ve ALIVE 200 813ms -- "Comisión Nacional de Lotería"
+[-] (1832/2723) misioncheguevara.gob.ve DEAD
+[-] (1833/2723) popularizaciondelaciencia.gob.ve DEAD
+[+] (1834/2723) redtv.gob.ve ALIVE 200 616ms -- "RedTV C.A. &#8211; Red de Transmisiones de Venezuela"
+[-] (1835/2723) alcaldiadeyaritagua-yaracuy.gob.ve DEAD
+[-] (1836/2723) fodapemi-sucre.gob.ve DEAD
+[-] (1837/2723) inzit.gob.ve DEAD
+[-] (1838/2723) viceministerioparaafrica.gob.ve DEAD
+[-] (1839/2723) cedna-anzoategui.gob.ve DEAD
+[-] (1840/2723) saludambiental.gob.ve DEAD
+[-] (1841/2723) laradsaycs.gob.ve DEAD
+[-] (1842/2723) camaradevargas.gob.ve DEAD
+[-] (1843/2723) rpzamora.gob.ve DEAD
+[-] (1844/2723) septep.gob.ve DEAD
+[-] (1845/2723) iartes.gob.ve DEAD
+[-] (1846/2723) fundaciteportuguesa.gob.ve DEAD
+[-] (1847/2723) contraloriamunicipalurena.gob.ve DEAD
+[-] (1848/2723) contraloriadecrespo.gob.ve DEAD
+[-] (1849/2723) fundacite-zulia.gob.ve DEAD
+[-] (1850/2723) meteorologia.gob.ve DEAD
+[+] (1851/2723) mpprij.gob.ve ALIVE 403 422ms -- "403 Forbidden"
+[-] (1852/2723) funvidmc.gob.ve DEAD
+[-] (1853/2723) concejomunicipalgirardot.gob.ve DEAD
+[-] (1854/2723) daa7.mil.ve DEAD
+[-] (1855/2723) moralyluces-miranda.gob.ve DEAD
+[-] (1856/2723) conare.gob.ve DEAD
+[-] (1857/2723) hablemosdeambientebolivar.gob.ve DEAD
+[-] (1858/2723) escubafab.mil.ve DEAD
+[-] (1859/2723) oncp.gob.ve DEAD
+[-] (1860/2723) fonmitur.gob.ve DEAD
+[-] (1861/2723) contraloriadeportuguesa.gob.ve DEAD
+[-] (1862/2723) dose.gob.ve DEAD
+[-] (1863/2723) academiadelagaita.gob.ve DEAD
+[-] (1864/2723) fundacite-apure.gob.ve DEAD
+[-] (1865/2723) fundasmin.gob.ve DEAD
+[-] (1866/2723) cepcppe-barinas.gob.ve DEAD
+[-] (1867/2723) inframir.gob.ve DEAD
+[-] (1868/2723) aviacion-ejercito.mil.ve DEAD
+[-] (1869/2723) siace.gob.ve DEAD
+[-] (1870/2723) misionmadresdelbarrio.gob.ve DEAD
+[-] (1871/2723) vigilanciacosteragn.mil.ve DEAD
+[-] (1872/2723) fusel.gob.ve DEAD
+[-] (1873/2723) diversidadcultural.gob.ve DEAD
+[-] (1874/2723) cmppp.gob.ve DEAD
+[-] (1875/2723) mpppi.gob.ve DEAD
+[+] (1876/2723) insalud.gob.ve ALIVE 200 3856ms -- "INSALUD &#8211; Página Oficial de la Fundación Insti...
+[-] (1877/2723) plantic.gob.ve DEAD
+[+] (1878/2723) metrovalencia.gob.ve ALIVE 200 246ms -- "C.A Metro Valencia"
+[-] (1879/2723) invitrane.gob.ve DEAD
+[-] (1880/2723) fdvl.gob.ve DEAD
+[-] (1881/2723) core6.mil.ve DEAD
+[-] (1882/2723) comandoregional16gn.mil.ve DEAD
+[-] (1883/2723) dpcmerida.gob.ve DEAD
+[!] (1884/2723) funves.gob.ve DNS-ONLY -- IPs: 204.209.56.13,204.209.56.14,204.209.56.15,204.209.56.10,204.209.56.12,204.209.56.8,204.209.56.11,204.209.56.9
+[-] (1885/2723) falcon-falcon.gob.ve DEAD
+[-] (1886/2723) pm.gob.ve DEAD
+[-] (1887/2723) argentina.gob.ve DEAD
+[+] (1888/2723) libreriasdelsur.gob.ve ALIVE 200 483ms -- "Fundación Librerías del Sur | promovemos el libro y ...
+[-] (1889/2723) seguridadciudadana.gob.ve DEAD
+[+] (1890/2723) logicasa.gob.ve ALIVE 200 644ms -- "Libros"
+[-] (1891/2723) venezuela-eu.gob.ve DEAD
+[+] (1892/2723) hidrolara.gob.ve ALIVE 200 342ms -- "Hidrolara"
+[-] (1893/2723) proteccioncivil.gob.ve DEAD
+[-] (1894/2723) infraestructura.gob.ve DEAD
+[-] (1895/2723) moralyluces-merida.gob.ve DEAD
+[-] (1896/2723) fabricaadentro.gob.ve DEAD
+[+] (1897/2723) conapdis.gob.ve ALIVE 200 1279ms -- "Conapdis Venezuela &#8211; Información y noticias so...
+[-] (1898/2723) contralorianaguanagua.gob.ve DEAD
+[-] (1899/2723) escuvial.gob.ve DEAD
+[-] (1900/2723) archiven.gob.ve DEAD
+[-] (1901/2723) capimara.gob.ve DEAD
+[-] (1902/2723) cvaleander.gob.ve DEAD
+[-] (1903/2723) sumat.gob.ve DEAD
+[-] (1904/2723) villadelcine.gob.ve DEAD
+[+] (1905/2723) onuginebra.gob.ve ALIVE 200 1813ms -- "Redirigir al navegador a otra URL"
+[+] (1906/2723) cnc.gob.ve ALIVE 200 1116ms -- "Comisión Nacional de Casinos &#8211; CNC"
+[-] (1907/2723) cmmiranda-carabobo.gob.ve DEAD
+[-] (1908/2723) llanos2007.gob.ve DEAD
+[-] (1909/2723) sgrguarico.gob.ve DEAD
+[-] (1910/2723) sgrapure.gob.ve DEAD
+[-] (1911/2723) sgrguayana.gob.ve DEAD
+[-] (1912/2723) sgrbarinas.gob.ve DEAD
+[-] (1913/2723) sgrmerida.gob.ve DEAD
+[-] (1914/2723) sgrportuguesa.gob.ve DEAD
+[-] (1915/2723) ajzl.gob.ve DEAD
+[-] (1916/2723) congefan.mil.ve DEAD
+[+] (1917/2723) ducolsa.gob.ve ALIVE 200 1452ms -- "Inicio"
+[-] (1918/2723) guaicaipuro-miranda.gob.ve DEAD
+[-] (1919/2723) mij.gob.ve DEAD
+[+] (1920/2723) telecom.gob.ve ALIVE 200 465ms -- "Inicio - TELECOM"
+[-] (1921/2723) fundacionmisionpiar.gob.ve DEAD
+[-] (1922/2723) inpremilda.mil.ve DEAD
+[-] (1923/2723) bancoscomunales.gob.ve DEAD
+[-] (1924/2723) inpremilmo.mil.ve DEAD
+[-] (1925/2723) autria.gob.ve DEAD
+[-] (1926/2723) planimara.gob.ve DEAD
+[-] (1927/2723) cmsf.gob.ve DEAD
+[-] (1928/2723) fundacitetachira.gob.ve DEAD
+[-] (1929/2723) pazcastillo.gob.ve DEAD
+[-] (1930/2723) corposaludmiranda.gob.ve DEAD
+[-] (1931/2723) moralyluces.gob.ve DEAD
+[-] (1932/2723) contraloriabarcelona.gob.ve DEAD
+[-] (1933/2723) congefan.gob.ve DEAD
+[-] (1934/2723) saatel.gob.ve DEAD
+[-] (1935/2723) aviacionejercito.mil.ve DEAD
+[+] (1936/2723) austria.gob.ve ALIVE 200 3000ms -- "Embajada de la República Bolivariana de Venezuela en...
+[!] (1937/2723) corpivensa.gob.ve DNS-ONLY -- IPs: 150.185.10.112
+[-] (1938/2723) turismoacosta-monagas.gob.ve DEAD
+[-] (1939/2723) caej.mil.ve DEAD
+[-] (1940/2723) dingemide.mil.ve DEAD
+[-] (1941/2723) culturamayor.gob.ve DEAD
+[-] (1942/2723) misionguaicaipuro.gob.ve DEAD
+[-] (1943/2723) diaef.gob.ve DEAD
+[-] (1944/2723) iumcoelfa.mil.ve DEAD
+[-] (1945/2723) venezuelatelecom.gob.ve DEAD
+[!] (1946/2723) contraloria-paez-portuguesa.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1947/2723) peru.gob.ve DEAD
+[-] (1948/2723) invitrami.gob.ve DEAD
+[-] (1949/2723) contraloriasucre.gob.ve DEAD
+[-] (1950/2723) cles.gob.ve DEAD
+[-] (1951/2723) iudem.gob.ve DEAD
+[+] (1952/2723) fundelec.gob.ve ALIVE 200 593ms -- "Inicio - Fundelec"
+[-] (1953/2723) enlaceindigenas.gob.ve DEAD
+[-] (1954/2723) siamm.gob.ve DEAD
+[-] (1955/2723) comisionnacionaldeloteria.gob.ve DEAD
+[-] (1956/2723) enlaceafro.gob.ve DEAD
+[-] (1957/2723) intranetsocial.gob.ve DEAD
+[+] (1958/2723) imcp.gob.ve ALIVE 200 260ms -- "En construcción"
+[-] (1959/2723) misionsucrelara.gob.ve DEAD
+[-] (1960/2723) cmjalamas.gob.ve DEAD
+[!] (1961/2723) clebmiranda.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (1962/2723) fmecaracas.gob.ve DEAD
+[-] (1963/2723) fundestachira.gob.ve DEAD
+[-] (1964/2723) saludportuguesa.gob.ve DEAD
+[-] (1965/2723) fonendogeno.gob.ve DEAD
+[-] (1966/2723) florentino.gob.ve DEAD
+[-] (1967/2723) sada.gob.ve DEAD
+[-] (1968/2723) codetaragua.gob.ve DEAD
+[-] (1969/2723) casadebello.gob.ve DEAD
+[-] (1970/2723) tesisindustrial.gob.ve DEAD
+[+] (1971/2723) vycsucre.gob.ve ALIVE 200 1655ms -- "VYCSUCRE"
+[-] (1972/2723) misionalimentacion.gob.ve DEAD
+[-] (1973/2723) vozdeloscreadores.gob.ve DEAD
+[-] (1974/2723) concejopuertocabellocarabobo.gob.ve DEAD
+[-] (1975/2723) carirubana-falcon.gob.ve DEAD
+[-] (1976/2723) proyectoindustrial.gob.ve DEAD
+[-] (1977/2723) proyectosindustriales.gob.ve DEAD
+[-] (1978/2723) aeropuertodelara.gob.ve DEAD
+[-] (1979/2723) cev.gob.ve DEAD
+[+] (1980/2723) hidrosuroeste.gob.ve ALIVE 200 530ms -- "HIDROSUROESTE – Hidrológica de la Región Suroeste"
+[-] (1981/2723) funtramir.gob.ve DEAD
+[-] (1982/2723) consejoscomunales.gob.ve DEAD
+[-] (1983/2723) csml.gob.ve DEAD
+[-] (1984/2723) ofn.gob.ve DEAD
+[-] (1985/2723) inemp.gob.ve DEAD
+[-] (1986/2723) concejoplazamiranda.gob.ve DEAD
+[-] (1987/2723) inavi.gob.ve DEAD
+[-] (1988/2723) discmetropolitano.gob.ve DEAD
+[-] (1989/2723) imj.gob.ve DEAD
+[-] (1990/2723) ucersasucre.gob.ve DEAD
+[-] (1991/2723) redplatino.gob.ve DEAD
+[-] (1992/2723) reservanacional.mil.ve DEAD
+[-] (1993/2723) imjalcaldiamayor.gob.ve DEAD
+[-] (1994/2723) jpsblibertador-dc.gob.ve DEAD
+[-] (1995/2723) pbmir.gob.ve DEAD
+[-] (1996/2723) cortulara.gob.ve DEAD
+[-] (1997/2723) monteavila.gob.ve DEAD
+[-] (1998/2723) inem.gob.ve DEAD
+[-] (1999/2723) cvalacteos.gob.ve DEAD
+[-] (2000/2723) sogarsa.gob.ve DEAD
+[-] (2001/2723) poacarabobo.gob.ve DEAD
+[-] (2002/2723) mercabar.gob.ve DEAD
+[-] (2003/2723) procuraduriacarabobo.gob.ve DEAD
+[-] (2004/2723) escuing.mil.ve DEAD
+[-] (2005/2723) fundacite-barinas.gob.ve DEAD
+[-] (2006/2723) imirc.gob.ve DEAD
+[-] (2007/2723) conac.gob.ve DEAD
+[-] (2008/2723) clene.gob.ve DEAD
+[-] (2009/2723) onidex.gob.ve DEAD
+[+] (2010/2723) inti.gob.ve ALIVE 200 510ms -- "INICIO - INTI"
+[-] (2011/2723) sotarncarabobo.gob.ve DEAD
+[-] (2012/2723) contraloriacordoba-tachira.gob.ve DEAD
+[-] (2013/2723) zonalibremerida.gob.ve DEAD
+[-] (2014/2723) penat.gob.ve DEAD
+[+] (2015/2723) satmir.gob.ve ALIVE 200 648ms -- "Servicios Miranda"
+[!] (2016/2723) cvacereales.gob.ve DNS-ONLY -- IPs: 200.11.203.14
+[-] (2017/2723) iudanza.gob.ve DEAD
+[!] (2018/2723) ucgmerida.gob.ve DNS-ONLY -- IPs: 190.78.36.177
+[+] (2019/2723) cntq.gob.ve ALIVE 200 3166ms -- "Inicio -"
+[-] (2020/2723) cevanzanzoategui.gob.ve DEAD
+[-] (2021/2723) policiadelara.gob.ve DEAD
+[-] (2022/2723) fondapemifalcon.gob.ve DEAD
+[-] (2023/2723) produzca.gob.ve DEAD
+[-] (2024/2723) metrobuslara.gob.ve DEAD
+[-] (2025/2723) pnat.gob.ve DEAD
+[!] (2026/2723) fundacite-monagas.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[-] (2027/2723) biofuturovenezuela.gob.ve DEAD
+[-] (2028/2723) cevanz-anzoategui.gob.ve DEAD
+[-] (2029/2723) renaem.gob.ve DEAD
+[-] (2030/2723) mideso.gob.ve DEAD
+[-] (2031/2723) contraloriasanitaria.gob.ve DEAD
+[-] (2032/2723) concejomarino-aragua.gob.ve DEAD
+[-] (2033/2723) concejodezamora-miranda.gob.ve DEAD
+[-] (2034/2723) rencid.gob.ve DEAD
+[-] (2035/2723) concejoiribarren-lara.gob.ve DEAD
+[-] (2036/2723) distribuidoradellibro.gob.ve DEAD
+[+] (2037/2723) contraloriamonagas.gob.ve ALIVE 503 500ms -- "Tu acceso a este sitio ha sido limitado por el propi...
+[-] (2038/2723) concejodecarirubana-falcon.gob.ve DEAD
+[-] (2039/2723) inviobras-bolivar.gob.ve DEAD
+[-] (2040/2723) enm.gob.ve DEAD
+[-] (2041/2723) camaradezamora-miranda.gob.ve DEAD
+[-] (2042/2723) clef.gob.ve DEAD
+[+] (2043/2723) contraloriadearagua.gob.ve ALIVE 200 150ms -- "Pagina de inicio - test"
+[-] (2044/2723) sacosal.gob.ve DEAD
+[-] (2045/2723) centrointernacionalmiranda.gob.ve DEAD
+[-] (2046/2723) amazoniafilms.gob.ve DEAD
+[-] (2047/2723) intermisiones-aragua.gob.ve DEAD
+[-] (2048/2723) trolmerida.gob.ve DEAD
+[-] (2049/2723) ceydschacao-miranda.gob.ve DEAD
+[-] (2050/2723) invihami.gob.ve DEAD
+[-] (2051/2723) contraloria-ayacucho.gob.ve DEAD
+[-] (2052/2723) registroinmobiliario4libertador.gob.ve DEAD
+[-] (2053/2723) sycpresidencia.gob.ve DEAD
+[-] (2054/2723) cpudemaracaibo.gob.ve DEAD
+[-] (2055/2723) delitosinformaticos.gob.ve DEAD
+[-] (2056/2723) savir-lara.gob.ve DEAD
+[-] (2057/2723) iutfsopcej.mil.ve DEAD
+[-] (2058/2723) bibliotecayacucho.gob.ve DEAD
+[+] (2059/2723) cmc.gob.ve ALIVE 200 132ms -- "Pagina de inicio - test"
+[-] (2060/2723) dipreplan.gob.ve DEAD
+[-] (2061/2723) procuraduriadeportuguesa.gob.ve DEAD
+[-] (2062/2723) minep.gob.ve DEAD
+[-] (2063/2723) redeconocimientolegislativo.gob.ve DEAD
+[-] (2064/2723) clemir.gob.ve DEAD
+[-] (2065/2723) rinde.gob.ve DEAD
+[-] (2066/2723) comitedeestadistica-carabobo.gob.ve DEAD
+[-] (2067/2723) funbap.gob.ve DEAD
+[-] (2068/2723) policiadenaguanagua.gob.ve DEAD
+[-] (2069/2723) transitoterrestre.gob.ve DEAD
+[+] (2070/2723) cardiologicoinfantil.gob.ve ALIVE 200 215ms -- "::Hospital Cardiol�gico Infantil::"
+[-] (2071/2723) fundacionpueblosoberano.gob.ve DEAD
+[-] (2072/2723) ipsocicpc.gob.ve DEAD
+[!] (2073/2723) sogamic.gob.ve DNS-ONLY -- IPs: 173.225.106.242
+[-] (2074/2723) inde.gob.ve DEAD
+[-] (2075/2723) proyectoleander.gob.ve DEAD
+[-] (2076/2723) inpremilca.mil.ve DEAD
+[-] (2077/2723) uead.gob.ve DEAD
+[-] (2078/2723) turismobolivar.gob.ve DEAD
+[-] (2079/2723) mnve.mil.ve DEAD
+[-] (2080/2723) foncrea.gob.ve DEAD
+[!] (2081/2723) elperroylarana.gob.ve DNS-ONLY -- IPs: 190.202.110.222
+[-] (2082/2723) polimiranda.gob.ve DEAD
+[-] (2083/2723) 171vargas.gob.ve DEAD
+[-] (2084/2723) fundacioncaracasparalosninos.gob.ve DEAD
+[-] (2085/2723) fonep.gob.ve DEAD
+[-] (2086/2723) inass.gob.ve DEAD
+[-] (2087/2723) clelara.gob.ve DEAD
+[-] (2088/2723) cgemerida.gob.ve DEAD
+[-] (2089/2723) idebol.gob.ve DEAD
+[-] (2090/2723) iatur.gob.ve DEAD
+[-] (2091/2723) inj.gob.ve DEAD
+[-] (2092/2723) saludalcaldiamayor.gob.ve DEAD
+[-] (2093/2723) alcasa.gob.ve DEAD
+[-] (2094/2723) prensaelectronica.gob.ve DEAD
+[-] (2095/2723) coma.gob.ve DEAD
+[-] (2096/2723) fomdes.gob.ve DEAD
+[-] (2097/2723) finde.gob.ve DEAD
+[-] (2098/2723) fondocumentalclel.gob.ve DEAD
+[-] (2099/2723) minamb.gob.ve DEAD
+[-] (2100/2723) idermi.gob.ve DEAD
+[-] (2101/2723) imsbolivar-anz.gob.ve DEAD
+[-] (2102/2723) fundasolidaridad.gob.ve DEAD
+[-] (2103/2723) coniba.gob.ve DEAD
+[-] (2104/2723) iaaec.gob.ve DEAD
+[-] (2105/2723) policiadeltachira.gob.ve DEAD
+[-] (2106/2723) iaem.gob.ve DEAD
+[-] (2107/2723) cenit.gob.ve DEAD
+[-] (2108/2723) fundela.gob.ve DEAD
+[-] (2109/2723) plcsa.gob.ve DEAD
+[-] (2110/2723) poliedrodecaracas.gob.ve DEAD
+[-] (2111/2723) corpointa.gob.ve DEAD
+[-] (2112/2723) escupol-carabobo.gob.ve DEAD
+[-] (2113/2723) alcaldiamayor.gob.ve DEAD
+[-] (2114/2723) imaubar.gob.ve DEAD
+[-] (2115/2723) marnamazonas.gob.ve DEAD
+[-] (2116/2723) iaime.gob.ve DEAD
+[-] (2117/2723) seguridadmetropolitana.gob.ve DEAD
+[-] (2118/2723) dispac.gob.ve DEAD
+[-] (2119/2723) iaturpa.gob.ve DEAD
+[-] (2120/2723) buchivacoa-falcon.gob.ve DEAD
+[-] (2121/2723) sersacon.gob.ve DEAD
+[-] (2122/2723) iamct-barinas.gob.ve DEAD
+[-] (2123/2723) reddebibliotecas-apure.gob.ve DEAD
+[-] (2124/2723) setep.gob.ve DEAD
+[-] (2125/2723) misionmilagro.gob.ve DEAD
+[-] (2126/2723) onre.gob.ve DEAD
+[!] (2127/2723) contraloriaanzoategui.gob.ve DNS-ONLY -- IPs: 169.47.130.72
+[-] (2128/2723) sgrtrujillo.gob.ve DEAD
+[-] (2129/2723) policiadefalcon.gob.ve DEAD
+[-] (2130/2723) sgrlara.gob.ve DEAD
+[-] (2131/2723) sgrmonagas.gob.ve DEAD
+[-] (2132/2723) codena.gob.ve DEAD
+[-] (2133/2723) sgrsucre.gob.ve DEAD
+[-] (2134/2723) sgrnuevaesparta.gob.ve DEAD
+[-] (2135/2723) sunahip.gob.ve DEAD
+[-] (2136/2723) saprociad.gob.ve DEAD
+[-] (2137/2723) sgranzoategui.gob.ve DEAD
+[-] (2138/2723) misionnegrahipolita.gob.ve DEAD
+[-] (2139/2723) sgrcarabobo.gob.ve DEAD
+[-] (2140/2723) eav-rmonasterios.gob.ve DEAD
+[+] (2141/2723) banmujer.gob.ve ALIVE 200 1489ms -- "Banmujer - Inicio"
+[-] (2142/2723) direcciondeculturatachira.gob.ve DEAD
+[-] (2143/2723) disip.gob.ve DEAD
+[-] (2144/2723) fundagraez.gob.ve DEAD
+[-] (2145/2723) holanda.gob.ve DEAD
+[-] (2146/2723) aeropuertosdelzulia.gob.ve DEAD
+[!] (2147/2723) ceditel.gob.ve DNS-ONLY -- IPs: 190.202.100.156
+[-] (2148/2723) imp.gob.ve DEAD
+[-] (2149/2723) cexteriorcarabobo.gob.ve DEAD
+[-] (2150/2723) miproyecto.gob.ve DEAD
+[-] (2151/2723) ona.gob.ve DEAD
+[+] (2152/2723) contraloriadebarquisimeto.gob.ve ALIVE 200 1203ms -- "Inicio"
+[-] (2153/2723) registrocivil-plaza.gob.ve DEAD
+[-] (2154/2723) seguridadciudadanametropolitana.gob.ve DEAD
+[-] (2155/2723) libertador-dc.gob.ve DEAD
+[!] (2156/2723) reddearte.gob.ve DNS-ONLY -- IPs: 57.128.96.9
+[-] (2157/2723) invitrap.gob.ve DEAD
+[-] (2158/2723) fundacite-carabobo.gob.ve DEAD
+[-] (2159/2723) consulado-barcelona.gob.ve DEAD
+[+] (2160/2723) fonpyme.gob.ve ALIVE 200 785ms -- "Coming Soon"
+[-] (2161/2723) contraloriaguanta.gob.ve DEAD
+[-] (2162/2723) misionciencia.gob.ve DEAD
+[+] (2163/2723) contraloriademara.gob.ve ALIVE 200 113ms -- "Hosting Services Suspended!"
+[-] (2164/2723) bomberoscaracas.gob.ve DEAD
+[-] (2165/2723) cmsucre-aragua.gob.ve DEAD
+[-] (2166/2723) bomberosdemiranda.gob.ve DEAD
+[-] (2167/2723) csb.gob.ve DEAD
+[+] (2168/2723) bomberosvalencia.gob.ve ALIVE 200 193ms -- ".:: INSTITUTO AUT&Oacute;NOMO MUNICIPAL CUERPO DE BO...
+[-] (2169/2723) inapesca.gob.ve DEAD
+[-] (2170/2723) fonhvim.gob.ve DEAD
+[-] (2171/2723) consejomoralrepublicano.gob.ve DEAD
+[-] (2172/2723) seplan.gob.ve DEAD
+[-] (2173/2723) riesgos.gob.ve DEAD
+[-] (2174/2723) altoapure.gob.ve DEAD
+[-] (2175/2723) marti.gob.ve DEAD
+[-] (2176/2723) fundacite-amazonas.gob.ve DEAD
+[-] (2177/2723) cnt.gob.ve DEAD
+[-] (2178/2723) sgraragua.gob.ve DEAD
+[-] (2179/2723) saiey-yaracuy.gob.ve DEAD
+[!] (2180/2723) sogampi.gob.ve DNS-ONLY -- IPs: 82.86.65.156
+[-] (2181/2723) consulado-bilbao.gob.ve DEAD
+[-] (2182/2723) consulado-madrid.gob.ve DEAD
+[-] (2183/2723) aeropuertoscarabobo.gob.ve DEAD
+[-] (2184/2723) espana.gob.ve DEAD
+[-] (2185/2723) concejomunicipallostaques.gob.ve DEAD
+[-] (2186/2723) sgrzulia.gob.ve DEAD
+[-] (2187/2723) sgrcojedes.gob.ve DEAD
+[-] (2188/2723) sgrtachira.gob.ve DEAD
+[!] (2189/2723) metrolosteques.gob.ve DNS-ONLY -- IPs: 190.202.15.156
+[-] (2190/2723) satem-miranda.gob.ve DEAD
+[-] (2191/2723) consulado-vigo.gob.ve DEAD
+[-] (2192/2723) consulado-tenerife.gob.ve DEAD
+[-] (2193/2723) rmtercero-tachira.gob.ve DEAD
+[-] (2194/2723) sgrfalcon.gob.ve DEAD
+[-] (2195/2723) secretariaseguridadciudadana.gob.ve DEAD
+[-] (2196/2723) misionesbolivarianas.gob.ve DEAD
+[+] (2197/2723) hidrocaribe.gob.ve ALIVE 200 419ms -- "Hidrocaribe &#8211; La Revolución del Agua"
+[-] (2198/2723) sucre-portuguesa.gob.ve DEAD
+[-] (2199/2723) immfa.gob.ve DEAD
+[-] (2200/2723) minvih.gob.ve DEAD
+[-] (2201/2723) registromercantilprimerozulia.gob.ve DEAD
+[-] (2202/2723) fundaribas.gob.ve DEAD
+[+] (2203/2723) bomberosmerida.gob.ve ALIVE 200 446ms -- "Cuerpo de Bomberos Mérida"
+[-] (2204/2723) dgim.mil.ve DEAD
+[-] (2205/2723) scr.gob.ve DEAD
+[-] (2206/2723) contraloriadebaruta.gob.ve DEAD
+[-] (2207/2723) escueladeaviacion.mil.ve DEAD
+[-] (2208/2723) irdeb.gob.ve DEAD
+[-] (2209/2723) pedromariaurena-tachira.gob.ve DEAD
+[-] (2210/2723) cadela.gob.ve DEAD
+[+] (2211/2723) cmchacao.gob.ve ALIVE 200 1472ms -- "Contraloría Municipal de Chacao &#8211; Contraloría ...
+[!] (2212/2723) avilatv.gob.ve DNS-ONLY -- IPs: 200.11.241.86
+[-] (2213/2723) copiaf.gob.ve DEAD
+[-] (2214/2723) prefecturadecaracas.gob.ve DEAD
+[-] (2215/2723) sepyaracuy.gob.ve DEAD
+[-] (2216/2723) mice.gob.ve DEAD
+[+] (2217/2723) sel171.gob.ve ALIVE 403 89ms -- "IIS 7.5 Detailed Error - 403.14 - Forbidden"
+[-] (2218/2723) almacaroni.gob.ve DEAD
+[-] (2219/2723) clecojedes.gob.ve DEAD
+[-] (2220/2723) ayuda.gob.ve DEAD
+[-] (2221/2723) fdnvargas.gob.ve DEAD
+[-] (2222/2723) museosnacionales.gob.ve DEAD
+[-] (2223/2723) ince.gob.ve DEAD
+[-] (2224/2723) bibliotecaspublicasguarico.gob.ve DEAD
+[+] (2225/2723) sabat.gob.ve ALIVE 200 1625ms -- "SABAT en Mantenimiento"
+[-] (2226/2723) funval.gob.ve DEAD
+[-] (2227/2723) see-barinas.gob.ve DEAD
+[-] (2228/2723) registromercantilv.gob.ve DEAD
+[-] (2229/2723) minpades.gob.ve DEAD
+[-] (2230/2723) tecnoparque.gob.ve DEAD
+[-] (2231/2723) gerenciapublicaysocial.gob.ve DEAD
+[-] (2232/2723) mcba.gob.ve DEAD
+[-] (2233/2723) conapi.gob.ve DEAD
+[-] (2234/2723) veninsa.gob.ve DEAD
+[-] (2235/2723) nudetel.gob.ve DEAD
+[+] (2236/2723) controlsocialmayor.gob.ve ALIVE 200 275ms -- "casteele.net"
+[-] (2237/2723) invial.gob.ve DEAD
+[-] (2238/2723) mem.gob.ve DEAD
+[-] (2239/2723) fundef.gob.ve DEAD
+[!] (2240/2723) fundapatrimonio.gob.ve DNS-ONLY -- IPs: 75.102.22.168
+[-] (2241/2723) catropaej.mil.ve DEAD
+[-] (2242/2723) cmlt.gob.ve DEAD
+[-] (2243/2723) cvaagrotiendas.gob.ve DEAD
+[-] (2244/2723) emveniran.gob.ve DEAD
+[-] (2245/2723) bibliotecapiotamayo.gob.ve DEAD
+[-] (2246/2723) puertodeguanta.gob.ve DEAD
+[-] (2247/2723) intravial.gob.ve DEAD
+[-] (2248/2723) funrevi.gob.ve DEAD
+[-] (2249/2723) casadelartista.gob.ve DEAD
+[+] (2250/2723) sahum.gob.ve ALIVE 200 4828ms -- "Hospital Universitario de Maracaibo"
+[-] (2251/2723) saludanz.gob.ve DEAD
+[-] (2252/2723) irdez.gob.ve DEAD
+[-] (2253/2723) concejoinfante-guarico.gob.ve DEAD
+[-] (2254/2723) fiscalia.gob.ve DEAD
+[-] (2255/2723) sealej.mil.ve DEAD
+[!] (2256/2723) fundacite-falcon.gob.ve DNS-ONLY -- IPs: 190.72.109.194
+[-] (2257/2723) contraloriatrujillo.gob.ve DEAD
+[-] (2258/2723) contraloriadesancristobal.gob.ve DEAD
+[-] (2259/2723) anfico.gob.ve DEAD
+[-] (2260/2723) saludzulia.gob.ve DEAD
+[-] (2261/2723) museodeciencias.gob.ve DEAD
+[-] (2262/2723) lareddelarte.gob.ve DEAD
+[!] (2263/2723) contraloriademaracaibo.gob.ve DNS-ONLY -- IPs: 190.114.12.98
+[-] (2264/2723) comunidades.gob.ve DEAD
+[-] (2265/2723) cvgtelecom.gob.ve DEAD
+[-] (2266/2723) mct.gob.ve DEAD
+[-] (2267/2723) invihabplaza.gob.ve DEAD
+[-] (2268/2723) insaludapure.gob.ve DEAD
+[-] (2269/2723) policiadevargas.gob.ve DEAD
+[-] (2270/2723) fundemip.gob.ve DEAD
+[-] (2271/2723) sociedad-divulgadora.mil.ve DEAD
+[-] (2272/2723) contraloriadenaguanagua.gob.ve DEAD
+[-] (2273/2723) inpremilme.mil.ve DEAD
+[+] (2274/2723) mvh.gob.ve ALIVE 200 1460ms -- "Ministerio del Poder Popular para el Hábitat y La Vi...
+[-] (2275/2723) sefar.gob.ve DEAD
+[-] (2276/2723) e-fdnbolivar.gob.ve DEAD
+[-] (2277/2723) suriname.gob.ve DEAD
+[-] (2278/2723) fundesoy.gob.ve DEAD
+[-] (2279/2723) ms.gob.ve DEAD
+[-] (2280/2723) ortiz-guarico.gob.ve DEAD
+[-] (2281/2723) fomproa.gob.ve DEAD
+[-] (2282/2723) cccgastrointestinal.gob.ve DEAD
+[-] (2283/2723) cnac.gob.ve DEAD
+[-] (2284/2723) bnv.gob.ve DEAD
+[-] (2285/2723) rutamirandina.gob.ve DEAD
+[-] (2286/2723) araure-portuguesa.gob.ve DEAD
+[-] (2287/2723) aristidesbastidas-yaracuy.gob.ve DEAD
+[-] (2288/2723) iran.gob.ve DEAD
+[-] (2289/2723) pc-adcarabobo.gob.ve DEAD
+[-] (2290/2723) cednabarinas.gob.ve DEAD
+[-] (2291/2723) esteller-portuguesa.gob.ve DEAD
+[-] (2292/2723) guanare-portuguesa.gob.ve DEAD
+[!] (2293/2723) fudeco.gob.ve DNS-ONLY -- IPs: 200.109.64.225
+[-] (2294/2723) ospino-portuguesa.gob.ve DEAD
+[-] (2295/2723) josedeguaribe-guarico.gob.ve DEAD
+[-] (2296/2723) cocorote-yaracuy.gob.ve DEAD
+[-] (2297/2723) guanarito-portuguesa.gob.ve DEAD
+[-] (2298/2723) elsocorro-guarico.gob.ve DEAD
+[-] (2299/2723) camaguan-guarico.gob.ve DEAD
+[-] (2300/2723) monagas-guarico.gob.ve DEAD
+[-] (2301/2723) aguablanca-portuguesa.gob.ve DEAD
+[-] (2302/2723) latrinidad-yaracuy.gob.ve DEAD
+[-] (2303/2723) manuelmonge-yaracuy.gob.ve DEAD
+[-] (2304/2723) ingeomin.gob.ve DEAD
+[-] (2305/2723) bolivar-yaracuy.gob.ve DEAD
+[-] (2306/2723) desarrollosocial-carabobo.gob.ve DEAD
+[-] (2307/2723) germanroscio-guarico.gob.ve DEAD
+[-] (2308/2723) mellado-guarico.gob.ve DEAD
+[-] (2309/2723) bruzual-yaracuy.gob.ve DEAD
+[-] (2310/2723) miranda-guarico.gob.ve DEAD
+[-] (2311/2723) papelon-portuguesa.gob.ve DEAD
+[-] (2312/2723) sanfelipe-yaracuy.gob.ve DEAD
+[-] (2313/2723) pena-yaracuy.gob.ve DEAD
+[-] (2314/2723) ribas-guarico.gob.ve DEAD
+[!] (2315/2723) menpet.gob.ve DNS-ONLY -- IPs: 190.202.80.101
+[-] (2316/2723) joseantoniopaez-yaracuy.gob.ve DEAD
+[-] (2317/2723) fundaproal.gob.ve DEAD
+[+] (2318/2723) miranda-carabobo.gob.ve ALIVE 404 225ms -- "404 Not Found"
+[!] (2319/2723) hidrobolivar.gob.ve DNS-ONLY -- IPs: 216.72.94.4
+[-] (2320/2723) andresmata-sucre.gob.ve DEAD
+[-] (2321/2723) sucre-yaracuy.gob.ve DEAD
+[-] (2322/2723) aragua-anzoategui.gob.ve DEAD
+[-] (2323/2723) bejuma-carabobo.gob.ve DEAD
+[-] (2324/2723) anaco-anzoategui.gob.ve DEAD
+[-] (2325/2723) vicentedeunda-portuguesa.gob.ve DEAD
+[-] (2326/2723) guanta-anzoategui.gob.ve DEAD
+[-] (2327/2723) fernando-anzoategui.gob.ve DEAD
+[-] (2328/2723) pgem.gob.ve DEAD
+[-] (2329/2723) eleoccidente.gob.ve DEAD
+[-] (2330/2723) pcmerida.gob.ve DEAD
+[-] (2331/2723) andreseloyblanco-sucre.gob.ve DEAD
+[-] (2332/2723) bermudez-sucre.gob.ve DEAD
+[-] (2333/2723) bolivar-sucre.gob.ve DEAD
+[-] (2334/2723) corpovargas.gob.ve DEAD
+[-] (2335/2723) juansotillo-anzoategui.gob.ve DEAD
+[-] (2336/2723) juanjosemora-carabobo.gob.ve DEAD
+[-] (2337/2723) casacoima-deltaamacuro.gob.ve DEAD
+[-] (2338/2723) franciscodemiranda-anzoategui.gob.ve DEAD
+[-] (2339/2723) franciscocarvagal-anzoategui.gob.ve DEAD
+[-] (2340/2723) independencia-anzoategui.gob.ve DEAD
+[-] (2341/2723) benitez-sucre.gob.ve DEAD
+[-] (2342/2723) michelena-tachira.gob.ve DEAD
+[-] (2343/2723) diegoibarra-carabobo.gob.ve DEAD
+[-] (2344/2723) piritu-anzoategui.gob.ve DEAD
+[-] (2345/2723) guanipa-anzoategui.gob.ve DEAD
+[-] (2346/2723) mejias-sucre.gob.ve DEAD
+[-] (2347/2723) fundapyme.gob.ve DEAD
+[-] (2348/2723) seboruco-tachira.gob.ve DEAD
+[-] (2349/2723) montalban-carabobo.gob.ve DEAD
+[-] (2350/2723) ribero-sucre.gob.ve DEAD
+[-] (2351/2723) rafaelurdaneta-tachira.gob.ve DEAD
+[-] (2352/2723) sandiego-carabobo.gob.ve DEAD
+[-] (2353/2723) sasa.gob.ve DEAD
+[-] (2354/2723) simonrodriguez-tachira.gob.ve DEAD
+[-] (2355/2723) pedrofreites-anzoategui.gob.ve DEAD
+[-] (2356/2723) manuelbruzual-anzoategui.gob.ve DEAD
+[-] (2357/2723) juancapistrano-anzoategui.gob.ve DEAD
+[-] (2358/2723) siad.gob.ve DEAD
+[-] (2359/2723) josegregoriomonagas-anzoategui.gob.ve DEAD
+[-] (2360/2723) montes-sucre.gob.ve DEAD
+[-] (2361/2723) juancajigal-anzoategui.gob.ve DEAD
+[-] (2362/2723) libertad-anzoategui.gob.ve DEAD
+[-] (2363/2723) elecentro.gob.ve DEAD
+[-] (2364/2723) ivt.gob.ve DEAD
+[-] (2365/2723) sucre-tachira.gob.ve DEAD
+[-] (2366/2723) seplam.gob.ve DEAD
+[-] (2367/2723) cef.gob.ve DEAD
+[-] (2368/2723) foncrepcojedes.gob.ve DEAD
+[-] (2369/2723) mre.gob.ve DEAD
+[+] (2370/2723) inh.gob.ve ALIVE 403 452ms -- "Just a moment..."
+[-] (2371/2723) sudeseg.gob.ve DEAD
+[-] (2372/2723) sineauca.gob.ve DEAD
+[-] (2373/2723) inatur.gob.ve DEAD
+[-] (2374/2723) tucupita-deltaamacuro.gob.ve DEAD
+[-] (2375/2723) andresbello-tachira.gob.ve DEAD
+[-] (2376/2723) core1.mil.ve DEAD
+[-] (2377/2723) iabim.gob.ve DEAD
+[-] (2378/2723) sanjudastadeo-tachira.gob.ve DEAD
+[-] (2379/2723) sirgregory-anzoategui.gob.ve DEAD
+[-] (2380/2723) santaana-anzoategui.gob.ve DEAD
+[-] (2381/2723) sucre-sucre.gob.ve DEAD
+[-] (2382/2723) e-fundapiar.gob.ve DEAD
+[!] (2383/2723) e-fondobolivar.gob.ve DNS-ONLY -- IPs: 216.72.94.4
+[-] (2384/2723) franciscodemiranda-tachira.gob.ve DEAD
+[-] (2385/2723) contraloriasandiego.gob.ve DEAD
+[-] (2386/2723) uribante-tachira.gob.ve DEAD
+[+] (2387/2723) cenal.gob.ve ALIVE 200 2461ms -- "Inicio"
+[!] (2388/2723) iactp.gob.ve DNS-ONLY -- IPs: 190.114.9.155
+[-] (2389/2723) poderpopulargn.mil.ve DEAD
+[-] (2390/2723) valencia-carabobo.gob.ve DEAD
+[-] (2391/2723) cncu.gob.ve DEAD
+[-] (2392/2723) antonioacosta-tachira.gob.ve DEAD
+[-] (2393/2723) ayacucho-tachira.gob.ve DEAD
+[-] (2394/2723) sucre-miranda.gob.ve DEAD
+[-] (2395/2723) panamericano-tachira.gob.ve DEAD
+[-] (2396/2723) clet.gob.ve DEAD
+[-] (2397/2723) carrizal-miranda.gob.ve DEAD
+[-] (2398/2723) cardenas-tachira.gob.ve DEAD
+[-] (2399/2723) dem.gob.ve DEAD
+[-] (2400/2723) spamujer.gob.ve DEAD
+[-] (2401/2723) acuerdomarco.gob.ve DEAD
+[-] (2402/2723) iaanem.gob.ve DEAD
+[-] (2403/2723) fondomixtodeturismolara.gob.ve DEAD
+[-] (2404/2723) guasimos-tachira.gob.ve DEAD
+[-] (2405/2723) lobatera-tachira.gob.ve DEAD
+[-] (2406/2723) fundacite-merida.gob.ve DEAD
+[-] (2407/2723) fernandezfeo-tachira.gob.ve DEAD
+[-] (2408/2723) josemariavargas-tachira.gob.ve DEAD
+[-] (2409/2723) junin-tachira.gob.ve DEAD
+[-] (2410/2723) libertador-tachira.gob.ve DEAD
+[-] (2411/2723) garciadehevia-tachira.gob.ve DEAD
+[-] (2412/2723) hospitalmilitar.mil.ve DEAD
+[-] (2413/2723) inam.gob.ve DEAD
+[-] (2414/2723) bpo.gob.ve DEAD
+[-] (2415/2723) cordoba-tachira.gob.ve DEAD
+[!] (2416/2723) cinemateca.gob.ve DNS-ONLY -- IPs: 190.9.132.14
+[-] (2417/2723) independencia-tachira.gob.ve DEAD
+[-] (2418/2723) libertad-tachira.gob.ve DEAD
+[-] (2419/2723) ocimerida.gob.ve DEAD
+[!] (2420/2723) camaramunicipalpc.gob.ve DNS-ONLY -- IPs: 200.58.112.24
+[-] (2421/2723) covinea.gob.ve DEAD
+[-] (2422/2723) elhatillo-miranda.gob.ve DEAD
+[!] (2423/2723) misioncultura.gob.ve DNS-ONLY -- IPs: 190.94.198.16
+[-] (2424/2723) clem.gob.ve DEAD
+[-] (2425/2723) baruta-miranda.gob.ve DEAD
+[-] (2426/2723) cadivi.gob.ve DEAD
+[-] (2427/2723) sata.gob.ve DEAD
+[-] (2428/2723) iclam.gob.ve DEAD
+[-] (2429/2723) 171tachira.gob.ve DEAD
+[-] (2430/2723) gobiernocaraboboserpic.gob.ve DEAD
+[-] (2431/2723) imdere.gob.ve DEAD
+[+] (2432/2723) inamujer.gob.ve ALIVE 200 1134ms -- "Instituto Nacional de la Mujer &#8211; Otro sitio re...
+[-] (2433/2723) brion-miranda.gob.ve DEAD
+[-] (2434/2723) bolivar-tachira.gob.ve DEAD
+[-] (2435/2723) sermat.gob.ve DEAD
+[-] (2436/2723) bruzual-anzoategui.gob.ve DEAD
+[-] (2437/2723) acevedo-miranda.gob.ve DEAD
+[-] (2438/2723) pcaragua.gob.ve DEAD
+[-] (2439/2723) cenaph.gob.ve DEAD
+[-] (2440/2723) inpremilpo.mil.ve DEAD
+[-] (2441/2723) andresbello-miranda.gob.ve DEAD
+[+] (2442/2723) cmldc.gob.ve ALIVE 200 3056ms -- "Contraloria Municipal del Libertador"
+[-] (2443/2723) lander-miranda.gob.ve DEAD
+[-] (2444/2723) independencia-miranda.gob.ve DEAD
+[!] (2445/2723) snc.gob.ve DNS-ONLY -- IPs: 190.202.9.68
+[-] (2446/2723) simonbolivar-miranda.gob.ve DEAD
+[-] (2447/2723) pedrogual-miranda.gob.ve DEAD
+[-] (2448/2723) cep.gob.ve DEAD
+[-] (2449/2723) naguanagua-carabobo.gob.ve DEAD
+[-] (2450/2723) chacao-miranda.gob.ve DEAD
+[-] (2451/2723) maturin-monagas.gob.ve DEAD
+[-] (2452/2723) pazcastillo-miranda.gob.ve DEAD
+[-] (2453/2723) inager.gob.ve DEAD
+[+] (2454/2723) inapymi.gob.ve ALIVE 200 4258ms -- "Instituto Nacional de Desarrollo de la Pequeña y Med...
+[-] (2455/2723) cnv.gob.ve DEAD
+[-] (2456/2723) fvpi.gob.ve DEAD
+[-] (2457/2723) e-saarbolivar.gob.ve DEAD
+[-] (2458/2723) increa-apure.gob.ve DEAD
+[-] (2459/2723) anzoategui-cojedes.gob.ve DEAD
+[-] (2460/2723) pgmir.gob.ve DEAD
+[-] (2461/2723) santabarbara-monagas.gob.ve DEAD
+[-] (2462/2723) libertador-monagas.gob.ve DEAD
+[-] (2463/2723) kuaimare.gob.ve DEAD
+[-] (2464/2723) sotillo-monagas.gob.ve DEAD
+[-] (2465/2723) proteccioncivilmetropolitana.gob.ve DEAD
+[-] (2466/2723) aguasay-monagas.gob.ve DEAD
+[-] (2467/2723) comandoantidrogas.mil.ve DEAD
+[-] (2468/2723) bolivar-monagas.gob.ve DEAD
+[-] (2469/2723) punceres-monagas.gob.ve DEAD
+[-] (2470/2723) piar-monagas.gob.ve DEAD
+[-] (2471/2723) rafaelrangel-trujillo.gob.ve DEAD
+[-] (2472/2723) carabobocultura.gob.ve DEAD
+[-] (2473/2723) carlosarvelo-carabobo.gob.ve DEAD
+[-] (2474/2723) lossalias-miranda.gob.ve DEAD
+[-] (2475/2723) conacuid.gob.ve DEAD
+[-] (2476/2723) fundacomun.gob.ve DEAD
+[-] (2477/2723) marn.gob.ve DEAD
+[-] (2478/2723) tinaco-cojedes.gob.ve DEAD
+[-] (2479/2723) caripe-monagas.gob.ve DEAD
+[-] (2480/2723) fus.gob.ve DEAD
+[-] (2481/2723) atabapo-amazonas.gob.ve DEAD
+[+] (2482/2723) fundayacucho.gob.ve ALIVE 200 283ms -- "Fundayacucho"
+[-] (2483/2723) rafaelcarvajal-trujillo.gob.ve DEAD
+[-] (2484/2723) samat.gob.ve DEAD
+[-] (2485/2723) girardot-cojedes.gob.ve DEAD
+[-] (2486/2723) sucre-trujillo.gob.ve DEAD
+[-] (2487/2723) uracoa-monagas.gob.ve DEAD
+[-] (2488/2723) pao-cojedes.gob.ve DEAD
+[-] (2489/2723) bolivar-trujillo.gob.ve DEAD
+[-] (2490/2723) andresbello-trujillo.gob.ve DEAD
+[-] (2491/2723) zea.gob.ve DEAD
+[-] (2492/2723) atures-amazonas.gob.ve DEAD
+[-] (2493/2723) sedec.gob.ve DEAD
+[-] (2494/2723) clec.gob.ve DEAD
+[-] (2495/2723) infram.gob.ve DEAD
+[-] (2496/2723) candelaria-trujillo.gob.ve DEAD
+[-] (2497/2723) cleanz.gob.ve DEAD
+[-] (2498/2723) laceiba-trujillo.gob.ve DEAD
+[-] (2499/2723) escuque-trujillo.gob.ve DEAD
+[-] (2500/2723) milco.gob.ve DEAD
+[-] (2501/2723) montecarmelo-trujillo.gob.ve DEAD
+[-] (2502/2723) josefelipemarquez-trujillo.gob.ve DEAD
+[-] (2503/2723) fames.gob.ve DEAD
+[-] (2504/2723) miranda-trujillo.gob.ve DEAD
+[-] (2505/2723) softwarelibre.gob.ve DEAD
+[-] (2506/2723) fondafa.gob.ve DEAD
+[-] (2507/2723) carache-trujillo.gob.ve DEAD
+[-] (2508/2723) manapiare-amazonas.gob.ve DEAD
+[-] (2509/2723) aeropuertoanbtrujillo.gob.ve DEAD
+[-] (2510/2723) satem.gob.ve DEAD
+[-] (2511/2723) pampanito-trujillo.gob.ve DEAD
+[-] (2512/2723) fundaciondelninotrujillo.gob.ve DEAD
+[-] (2513/2723) motatan-trujillo.gob.ve DEAD
+[-] (2514/2723) foncrei.gob.ve DEAD
+[-] (2515/2723) misionmiranda.gob.ve DEAD
+[-] (2516/2723) platino.gob.ve DEAD
+[-] (2517/2723) cabildometropolitano.gob.ve DEAD
+[-] (2518/2723) indeport.gob.ve DEAD
+[-] (2519/2723) procuraduriadeapure.gob.ve DEAD
+[-] (2520/2723) cem.gob.ve DEAD
+[-] (2521/2723) fundacite-aragua.gob.ve DEAD
+[-] (2522/2723) rionegro-amazonas.gob.ve DEAD
+[-] (2523/2723) altoapure-apure.gob.ve DEAD
+[-] (2524/2723) iafe.gob.ve DEAD
+[!] (2525/2723) fundadeporte.gob.ve DNS-ONLY -- IPs: 161.129.68.42
+[+] (2526/2723) ipasme.gob.ve ALIVE 200 783ms -- "Principal"
+[-] (2527/2723) franciscolinaresalcantara-aragua.gob.ve DEAD
+[!] (2528/2723) hidrocentro.gob.ve DNS-ONLY -- IPs: 206.1.88.233
+[-] (2529/2723) pan.gob.ve DEAD
+[-] (2530/2723) girardot-aragua.gob.ve DEAD
+[-] (2531/2723) camatagua-aragua.gob.ve DEAD
+[-] (2532/2723) sucre-aragua.gob.ve DEAD
+[-] (2533/2723) contraloriadeguarico.gob.ve DEAD
+[-] (2534/2723) dgicarabobo.gob.ve DEAD
+[-] (2535/2723) urdaneta-aragua.gob.ve DEAD
+[-] (2536/2723) bolivar-aragua.gob.ve DEAD
+[-] (2537/2723) sancasimiro-aragua.gob.ve DEAD
+[-] (2538/2723) libertador-aragua.gob.ve DEAD
+[-] (2539/2723) ocumare-aragua.gob.ve DEAD
+[-] (2540/2723) sis.gob.ve DEAD
+[-] (2541/2723) venezuelaonu.gob.ve DEAD
+[-] (2542/2723) e-carabobo.gob.ve DEAD
+[-] (2543/2723) caraboboenlinea.gob.ve DEAD
+[+] (2544/2723) fondemi.gob.ve ALIVE 200 551ms -- "Fondemi"
+[-] (2545/2723) tepui.gob.ve DEAD
+[-] (2546/2723) achaguas-apure.gob.ve DEAD
+[-] (2547/2723) procuraduriadeanzoategui.gob.ve DEAD
+[-] (2548/2723) andreseloyblanco-lara.gob.ve DEAD
+[-] (2549/2723) biruaca-apure.gob.ve DEAD
+[-] (2550/2723) diaz-nuevaesparta.gob.ve DEAD
+[-] (2551/2723) islamargarita.gob.ve DEAD
+[-] (2552/2723) garcia-nuevaesparta.gob.ve DEAD
+[-] (2553/2723) gomez-nuevaesparta.gob.ve DEAD
+[-] (2554/2723) paez-portuguesa.gob.ve DEAD
+[-] (2555/2723) torres-lara.gob.ve DEAD
+[-] (2556/2723) coordinaciontrujillanadecultura.gob.ve DEAD
+[-] (2557/2723) sunacoop.gob.ve DEAD
+[-] (2558/2723) arismendi-nuevaesparta.gob.ve DEAD
+[-] (2559/2723) safiv.gob.ve DEAD
+[-] (2560/2723) conavi.gob.ve DEAD
+[-] (2561/2723) iribarren-lara.gob.ve DEAD
+[-] (2562/2723) jimenez-lara.gob.ve DEAD
+[-] (2563/2723) paez-apure.gob.ve DEAD
+[-] (2564/2723) macanao-nuevaesparta.gob.ve DEAD
+[-] (2565/2723) palavecino-lara.gob.ve DEAD
+[+] (2566/2723) corpotulipa.gob.ve ALIVE 200 361ms -- "CORPOTULIPA"
+[-] (2567/2723) moran-lara.gob.ve DEAD
+[-] (2568/2723) contraloriageneral-apure.gob.ve DEAD
+[-] (2569/2723) tubores-nuevaesparta.gob.ve DEAD
+[-] (2570/2723) villalba-nuevaesparta.gob.ve DEAD
+[-] (2571/2723) fundapael.gob.ve DEAD
+[-] (2572/2723) urdaneta-lara.gob.ve DEAD
+[-] (2573/2723) imdeprec.gob.ve DEAD
+[-] (2574/2723) marcano-nuevaesparta.gob.ve DEAD
+[!] (2575/2723) fondobolivar.gob.ve DNS-ONLY -- IPs: 200.8.172.10
+[-] (2576/2723) romulogallegos-apure.gob.ve DEAD
+[-] (2577/2723) joseangellamas-aragua.gob.ve DEAD
+[-] (2578/2723) visitemaracaibo.gob.ve DEAD
+[-] (2579/2723) pedrocamejo-apure.gob.ve DEAD
+[-] (2580/2723) casa.gob.ve DEAD
+[-] (2581/2723) imdecaroni.gob.ve DEAD
+[-] (2582/2723) munoz-apure.gob.ve DEAD
+[-] (2583/2723) judenamil.mil.ve DEAD
+[-] (2584/2723) minal.gob.ve DEAD
+[-] (2585/2723) icec.gob.ve DEAD
+[-] (2586/2723) antolindelcampo-nuevaesparta.gob.ve DEAD
+[-] (2587/2723) mci.gob.ve DEAD
+[-] (2588/2723) siratachira.gob.ve DEAD
+[-] (2589/2723) cmaa.gob.ve DEAD
+[-] (2590/2723) corpoturmargarita.gob.ve DEAD
+[-] (2591/2723) cmr.gob.ve DEAD
+[!] (2592/2723) cene.gob.ve DNS-ONLY -- IPs: 190.9.128.72
+[-] (2593/2723) abn.gob.ve DEAD
+[!] (2594/2723) ind.gob.ve DNS-ONLY -- IPs: 51.83.190.212
+[-] (2595/2723) serpic.gob.ve DEAD
+[-] (2596/2723) fede.gob.ve DEAD
+[-] (2597/2723) senifa.gob.ve DEAD
+[-] (2598/2723) maneiro-nuevaesparta.gob.ve DEAD
+[-] (2599/2723) savir.gob.ve DEAD
+[-] (2600/2723) inzitcicasi.gob.ve DEAD
+[-] (2601/2723) islademargarita.gob.ve DEAD
+[-] (2602/2723) mat.gob.ve DEAD
+[-] (2603/2723) fundacite-bolivar.gob.ve DEAD
+[-] (2604/2723) msds.gob.ve DEAD
+[-] (2605/2723) saipe.gob.ve DEAD
+[-] (2606/2723) antoniojosedesucre-barinas.gob.ve DEAD
+[-] (2607/2723) valmorerodriguez-zulia.gob.ve DEAD
+[-] (2608/2723) sucre-zulia.gob.ve DEAD
+[-] (2609/2723) sanfrancisco-zulia.gob.ve DEAD
+[-] (2610/2723) padrepedrochien-bolivar.gob.ve DEAD
+[-] (2611/2723) rmiccs.gob.ve DEAD
+[-] (2612/2723) contraloriageneraltachira.gob.ve DEAD
+[-] (2613/2723) almirantepadilla-zulia.gob.ve DEAD
+[-] (2614/2723) cabimas-zulia.gob.ve DEAD
+[-] (2615/2723) caroni-bolivar.gob.ve DEAD
+[-] (2616/2723) arismendi-barinas.gob.ve DEAD
+[-] (2617/2723) canadadeurdaneta-zulia.gob.ve DEAD
+[-] (2618/2723) simonbolivar-zulia.gob.ve DEAD
+[-] (2619/2723) bancodelpueblo.gob.ve DEAD
+[-] (2620/2723) bolivar-barinas.gob.ve DEAD
+[-] (2621/2723) catatumbo-zulia.gob.ve DEAD
+[-] (2622/2723) mibam.gob.ve DEAD
+[-] (2623/2723) lagunillas-zulia.gob.ve DEAD
+[-] (2624/2723) colon-zulia.gob.ve DEAD
+[-] (2625/2723) cruzparedes-barinas.gob.ve DEAD
+[-] (2626/2723) me.gob.ve DEAD
+[-] (2627/2723) ivimiranda.gob.ve DEAD
+[-] (2628/2723) cedeno-bolivar.gob.ve DEAD
+[-] (2629/2723) darfa.gob.ve DEAD
+[-] (2630/2723) fundacenafv.gob.ve DEAD
+[-] (2631/2723) cjpm.mil.ve DEAD
+[-] (2632/2723) franciscojavierpulgar-zulia.gob.ve DEAD
+[-] (2633/2723) elcallao-bolivar.gob.ve DEAD
+[-] (2634/2723) basemiranda.mil.ve DEAD
+[-] (2635/2723) core8.mil.ve DEAD
+[-] (2636/2723) rosariodeperija-zulia.gob.ve DEAD
+[-] (2637/2723) ezequielzamora-barinas.gob.ve DEAD
+[-] (2638/2723) gransabana-bolivar.gob.ve DEAD
+[-] (2639/2723) machiquesdeperija-zulia.gob.ve DEAD
+[-] (2640/2723) dirfinanzas.mil.ve DEAD
+[-] (2641/2723) bagfm.mil.ve DEAD
+[!] (2642/2723) cmcarirubana.gob.ve DNS-ONLY -- IPs: 190.37.128.210
+[-] (2643/2723) turismo.gob.ve DEAD
+[+] (2644/2723) leyresorte.gob.ve ALIVE 504 174ms -- "ERROR: The requested URL could not be retrieved"
+[-] (2645/2723) mep.gob.ve DEAD
+[-] (2646/2723) mara-zulia.gob.ve DEAD
+[-] (2647/2723) paez-zulia.gob.ve DEAD
+[-] (2648/2723) svfm.mil.ve DEAD
+[-] (2649/2723) aeropuertolacarlota.mil.ve DEAD
+[-] (2650/2723) lamiranda.mil.ve DEAD
+[-] (2651/2723) corte-marcial.mil.ve DEAD
+[-] (2652/2723) lacarlota.mil.ve DEAD
+[-] (2653/2723) jesusenriquelossada-zulia.gob.ve DEAD
+[-] (2654/2723) raulleoni-bolivar.gob.ve DEAD
+[-] (2655/2723) mhv.gob.ve DEAD
+[-] (2656/2723) piar-bolivar.gob.ve DEAD
+[-] (2657/2723) sifontes-bolivar.gob.ve DEAD
+[-] (2658/2723) roscio-bolivar.gob.ve DEAD
+[-] (2659/2723) sigecof-md.mil.ve DEAD
+[-] (2660/2723) sancristobal-tachira.gob.ve DEAD
+[-] (2661/2723) nuevaetapa.gob.ve DEAD
+[-] (2662/2723) poder21.gob.ve DEAD
+[-] (2663/2723) contraloriadeguaicaipuro.gob.ve DEAD
+[-] (2664/2723) cologgnv.mil.ve DEAD
+[-] (2665/2723) sosa-barinas.gob.ve DEAD
+[-] (2666/2723) paez-miranda.gob.ve DEAD
+[-] (2667/2723) circulo-carora.mil.ve DEAD
+[-] (2668/2723) focapmiar.gob.ve DEAD
+[-] (2669/2723) alcaldias.gob.ve DEAD
+[-] (2670/2723) saltoadelante.gob.ve DEAD
+[-] (2671/2723) circulobqto.mil.ve DEAD
+[-] (2672/2723) fides.gob.ve DEAD
+[-] (2673/2723) venezuelainnovadora.gob.ve DEAD
+[-] (2674/2723) iacfacarora.mil.ve DEAD
+[-] (2675/2723) circulo-bto.mil.ve DEAD
+[-] (2676/2723) homelpavi.mil.ve DEAD
+[-] (2677/2723) venezuelaproductiva.gob.ve DEAD
+[-] (2678/2723) sabafav.mil.ve DEAD
+[-] (2679/2723) escubafan.mil.ve DEAD
+[-] (2680/2723) staines.mil.ve DEAD
+[-] (2681/2723) florentino.mil.ve DEAD
+[-] (2682/2723) maisanta.mil.ve DEAD
+[-] (2683/2723) santaines.mil.ve DEAD
+[-] (2684/2723) gea.mil.ve DEAD
+[-] (2685/2723) dirsercol.mil.ve DEAD
+[-] (2686/2723) santarita-zulia.gob.ve DEAD
+[-] (2687/2723) inpremil.mil.ve DEAD
+[-] (2688/2723) circulomilitar.mil.ve DEAD
+[-] (2689/2723) mindefensa.mil.ve DEAD
+[-] (2690/2723) fav.mil.ve DEAD
+[-] (2691/2723) impremil.mil.ve DEAD
+[-] (2692/2723) e-171.gob.ve DEAD
+[-] (2693/2723) cidae.mil.ve DEAD
+[-] (2694/2723) cufan.mil.ve DEAD
+[-] (2695/2723) fundapropatria2000.gob.ve DEAD
+[!] (2696/2723) ochina.gob.ve DNS-ONLY -- IPs: 190.202.19.171
+[-] (2697/2723) gn.mil.ve DEAD
+[-] (2698/2723) escuteavia.mil.ve DEAD
+[!] (2699/2723) corpocentro.gob.ve DNS-ONLY -- IPs: 190.205.34.82
+[!] (2700/2723) venezuela.gob.ve DNS-ONLY -- IPs: 190.202.23.171
+[-] (2701/2723) mf.gob.ve DEAD
+[-] (2702/2723) dimo.gob.ve DEAD
+[-] (2703/2723) fundaceta.gob.ve DEAD
+[-] (2704/2723) pctachira.gob.ve DEAD
+[-] (2705/2723) contraloriageneral-tachira.gob.ve DEAD
+[-] (2706/2723) indecu.gob.ve DEAD
+[-] (2707/2723) core7.mil.ve DEAD
+[-] (2708/2723) caraboboendogeno.gob.ve DEAD
+[-] (2709/2723) edugn.mil.ve DEAD
+[!] (2710/2723) contraloriadejimenez.gob.ve DNS-ONLY -- IPs: 190.9.128.90
+[!] (2711/2723) cass.gob.ve DNS-ONLY -- IPs: 204.13.239.170
+[-] (2712/2723) licmiljau.mil.ve DEAD
+[!] (2713/2723) meteorologia.mil.ve DNS-ONLY -- IPs: 200.75.137.10
+[-] (2714/2723) zedes.gob.ve DEAD
+[-] (2715/2723) segundadivision.mil.ve DEAD
+[-] (2716/2723) inpremilta.mil.ve DEAD
+[-] (2717/2723) ingefan.mil.ve DEAD
+[-] (2718/2723) fuerzarmada.mil.ve DEAD
+[-] (2719/2723) fuerzaarmada.mil.ve DEAD
+[-] (2720/2723) core5.mil.ve DEAD
+[-] (2721/2723) esga.mil.ve DEAD
+[-] (2722/2723) dim.mil.ve DEAD
+[-] (2723/2723) ese.mil.ve DEAD
+
+[*] ── RETRY PASS: 2058 failed domains (3x timeout) ──
+[!] RETRY 1: minhv.gob.ve RECOVERED -- DNS-ONLY
+[!] RETRY 2: mincultura.gob.ve RECOVERED -- DNS-ONLY
+[!] RETRY 3: araguena.gob.ve RECOVERED -- DNS-ONLY

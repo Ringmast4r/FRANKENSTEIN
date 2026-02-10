@@ -1,0 +1,38 @@
+name: Update GIF Banner
+
+on:
+  push:
+    paths:
+      - 'assets/**'
+
+jobs:
+  update-gifs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GIF section
+        run: |
+          # Build image tags from all GIFs in assets/
+          GIFS='<p align="center">'
+          for f in assets/*.gif assets/*.GIF; do
+            [ -f "$f" ] || continue
+            encoded=$(echo "$f" | sed 's/ /%20/g')
+            GIFS="$GIFS"$'\n'"<img src=\"$encoded\" width=\"400\">"
+          done
+          GIFS="$GIFS"$'\n'"</p>"
+
+          # Replace between markers
+          awk -v gifs="$GIFS" '
+            /<!-- GIF-START -->/{print; print gifs; skip=1; next}
+            /<!-- GIF-END -->/{skip=0}
+            !skip{print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update GIF banner"
+          git push

@@ -1,0 +1,28 @@
+[*] Loaded 560 targets from sia-country-websites.txt
+[*] Starting dual-phenomenology scan...
+
+[*] (1/560) aop.gov.af
+[+]   ALIVE 200 1840ms -- "AOP"
+[*] (2/560) president.gov.af
+[-]   DEAD
+[*] (3/560) mfa.gov.af
+[+]   ALIVE 200 2115ms -- "Ministry of Foreign Affairs of Afghanistan"
+[*] (4/560) moi.gov.af
+[+]   ALIVE 200 922ms -- "صفحه اصلی | وزارت امور داخله"
+[*] (5/560) mod.gov.af
+[+]   ALIVE 200 3230ms -- "د ملي دفاع وزارت - MOD"
+[*] (6/560) moic.gov.af
+[+]   ALIVE 200 885ms -- "کور | Ministry of Information and Culture"
+[*] (7/560) moph.gov.af
+[!]   DNS-ONLY -- IPs: 103.132.98.226
+
+[!] Scan cancelled by user
+
+[*] ═══════════════════════════════════
+[*]  >> FRANKENSTEIN SCAN COMPLETE <<
+[*] ═══════════════════════════════════
+[*]  Scanned:  560 sites
+[+]  Alive:    5 sites
+[!]  DNS-Only: 1 sites
+[-]  Dead:     1 sites
+[*]  Alive %:  0.9%

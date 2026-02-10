@@ -1,0 +1,54 @@
+[*] Loaded 560 targets from sia-country-websites.txt
+[*] Starting dual-phenomenology scan...
+
+[*] (1/560) aop.gov.af
+[+]   ALIVE 200 1916ms -- "AOP"
+[*] (2/560) president.gov.af
+[-]   DEAD
+[*] (3/560) mfa.gov.af
+[+]   ALIVE 200 2780ms -- "Ministry of Foreign Affairs of Afghanistan"
+[*] (4/560) moi.gov.af
+[+]   ALIVE 200 895ms -- "صفحه اصلی | وزارت امور داخله"
+[*] (5/560) mod.gov.af
+[+]   ALIVE 200 3204ms -- "د ملي دفاع وزارت - MOD"
+[*] (6/560) moic.gov.af
+[+]   ALIVE 200 908ms -- "کور | Ministry of Information and Culture"
+[*] (7/560) moph.gov.af
+[+]   ALIVE 200 895ms -- "صفحه اصلی | وزارت صحت عامه"
+[*] (8/560) moe.gov.af
+[+]   ALIVE 200 873ms -- "Home | د پوهني وزارت"
+[*] (9/560) mohe.gov.af
+[+]   ALIVE 200 5413ms -- "د لوړو زده کړو وزارت - MOHE"
+[*] (10/560) mof.gov.af
+[+]   ALIVE 200 1145ms -- "کور | د مالیي وزارت"
+[*] (11/560) molsa.gov.af
+[+]   ALIVE 200 946ms -- "Home | د کار او تولنیزو چارو وزارت"
+[*] (12/560) rta.af
+[+]   ALIVE 200 224ms -- "کورپاڼه - RTA - Radio Television of Afghanistan"
+[*] (13/560) bakhtarnews.af
+[+]   ALIVE 403 102ms -- "Just a moment..."
+[*] (14/560) ariananews.af
+[+]   ALIVE 200 164ms
+[*] (15/560) dab.gov.af
+[+]   ALIVE 200 913ms -- "Da Afghanistan Bank | Da Afghanistan Bank"
+[*] (16/560) ku.edu.af
+[+]   ALIVE 200 1889ms -- "کور | Kabul University"
+[*] (17/560) auaf.edu.af
+[+]   ALIVE 200 746ms
+[*] (18/560) hu.edu.af
+[+]   ALIVE 200 1432ms -- "Home | Herat University"
+[*] (19/560) kpu.edu.af
+[+]   ALIVE 200 2445ms -- "صفحه اصلی | KPU"
+[*] (20/560) uofa.edu.af
+[!]   DNS-ONLY -- IPs: 192.250.235.18
+
+[!] Scan cancelled by user
+
+[*] ═══════════════════════════════════
+[*]  >> FRANKENSTEIN SCAN COMPLETE <<
+[*] ═══════════════════════════════════
+[*]  Scanned:  560 sites
+[+]  Alive:    18 sites
+[!]  DNS-Only: 1 sites
+[-]  Dead:     1 sites
+[*]  Alive %:  3.2%

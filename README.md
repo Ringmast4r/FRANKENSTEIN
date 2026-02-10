@@ -7,6 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ringmast4r-FRANKENSTEIN&label=Visitors&color=00dc50&style=flat" alt="visitors">
 </p>
 <p align="center"><strong>Dual-Phenomenology Site Checker</strong></p>
+<p align="center"><em>For _m0usem0use_ & ziggy</em></p>
 <p align="center">
 <em>DNS + HTTP/S probing, 50 concurrent workers, TLS cert analysis, retry pass, response time percentiles</em>
 </p>
@@ -293,3 +294,7 @@ FRANKENSTEIN/
 ├── frankenstein.db          # SQLite database (auto-created)
 └── README.md
 ```
+
+---
+
+<p align="center"><em>This one's for <strong>_m0usem0use_</strong> and <strong>ziggy</strong></em></p>

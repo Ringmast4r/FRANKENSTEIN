@@ -677,9 +677,10 @@ type TUI struct {
 
 	cancelScan context.CancelFunc
 
-	showSplash  bool
-	splashStart time.Time
-	running     bool
+	showSplash   bool
+	splashPhase  int // 0 = main logo, 1 = dedication
+	splashStart  time.Time
+	running      bool
 
 	viewLines []string
 	viewTitle string
@@ -826,39 +827,74 @@ var splashLogo = []string{
 
 func (tui *TUI) renderSplash() {
 	elapsed := time.Since(tui.splashStart).Seconds()
-	if elapsed > 2.5 {
-		tui.showSplash = false
-		return
-	}
 
-	tui.fillRect(0, 0, tui.width, tui.height, tcell.StyleDefault.Background(ColorBackground))
-
-	logoStyle := tcell.StyleDefault.Foreground(ColorLogo).Background(ColorBackground).Bold(true)
-	boltStyle := tcell.StyleDefault.Foreground(ColorBolt).Background(ColorBackground).Bold(true)
-
-	startY := tui.height/2 - 5
-	for i, line := range splashLogo {
-		charCount := int(elapsed * 60)
-		visible := line
-		if charCount < len(line) {
-			visible = line[:charCount]
+	if tui.splashPhase == 0 {
+		// Phase 0: Main logo
+		if elapsed > 2.5 {
+			tui.splashPhase = 1
+			tui.splashStart = time.Now()
+			return
 		}
-		x := (tui.width - len(line)) / 2
-		if x < 0 {
-			x = 0
-		}
-		tui.drawString(x, startY+i, visible, logoStyle)
-	}
 
-	if elapsed > 1.0 {
-		bolt := ">> IT'S ALIVE! <<"
-		x := (tui.width - displayWidth(bolt)) / 2
-		tui.drawString(x, startY+7, bolt, boltStyle)
-	}
-	if elapsed > 1.5 {
-		sub := fmt.Sprintf("v%s -- Dual Phenomenology Site Checker", version)
-		x := (tui.width - displayWidth(sub)) / 2
-		tui.drawString(x, startY+9, sub, tcell.StyleDefault.Foreground(ColorDim).Background(ColorBackground))
+		tui.fillRect(0, 0, tui.width, tui.height, tcell.StyleDefault.Background(ColorBackground))
+
+		logoStyle := tcell.StyleDefault.Foreground(ColorLogo).Background(ColorBackground).Bold(true)
+		boltStyle := tcell.StyleDefault.Foreground(ColorBolt).Background(ColorBackground).Bold(true)
+
+		startY := tui.height/2 - 5
+		for i, line := range splashLogo {
+			charCount := int(elapsed * 60)
+			visible := line
+			if charCount < len(line) {
+				visible = line[:charCount]
+			}
+			x := (tui.width - len(line)) / 2
+			if x < 0 {
+				x = 0
+			}
+			tui.drawString(x, startY+i, visible, logoStyle)
+		}
+
+		if elapsed > 1.0 {
+			bolt := ">> IT'S ALIVE! <<"
+			x := (tui.width - displayWidth(bolt)) / 2
+			tui.drawString(x, startY+7, bolt, boltStyle)
+		}
+		if elapsed > 1.5 {
+			sub := fmt.Sprintf("v%s -- Dual Phenomenology Site Checker", version)
+			x := (tui.width - displayWidth(sub)) / 2
+			tui.drawString(x, startY+9, sub, tcell.StyleDefault.Foreground(ColorDim).Background(ColorBackground))
+		}
+	} else {
+		// Phase 1: Dedication easter egg
+		if elapsed > 2.5 {
+			tui.showSplash = false
+			return
+		}
+
+		tui.fillRect(0, 0, tui.width, tui.height, tcell.StyleDefault.Background(ColorBackground))
+
+		dimStyle := tcell.StyleDefault.Foreground(ColorDim).Background(ColorBackground)
+		nameStyle := tcell.StyleDefault.Foreground(ColorBolt).Background(ColorBackground).Bold(true)
+		heartStyle := tcell.StyleDefault.Foreground(ColorDanger).Background(ColorBackground).Bold(true)
+
+		centerY := tui.height / 2
+
+		if elapsed > 0.3 {
+			line1 := "this is for"
+			x := (tui.width - displayWidth(line1)) / 2
+			tui.drawString(x, centerY-1, line1, dimStyle)
+		}
+		if elapsed > 0.8 {
+			line2 := "_m0usem0use_  &  ziggy"
+			x := (tui.width - displayWidth(line2)) / 2
+			tui.drawString(x, centerY+1, line2, nameStyle)
+		}
+		if elapsed > 1.5 {
+			heart := "<3"
+			x := (tui.width - displayWidth(heart)) / 2
+			tui.drawString(x, centerY+3, heart, heartStyle)
+		}
 	}
 }
 

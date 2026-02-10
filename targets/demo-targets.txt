@@ -1,0 +1,16 @@
+# Demo target list — try a bulk scan with these
+google.com
+github.com
+wikipedia.org
+reddit.com
+stackoverflow.com
+cloudflare.com
+mozilla.org
+apache.org
+linux.org
+python.org
+nodejs.org
+go.dev
+rust-lang.org
+docker.com
+kubernetes.io

@@ -1,2 +1,4 @@
 INTERNAL DEV SOP/
 desktop.ini
+targets/*.txt
+!targets/demo-targets.txt

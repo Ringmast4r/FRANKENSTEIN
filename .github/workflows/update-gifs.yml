@@ -1,30 +1,46 @@
-name: Update GIF Banner
+name: Rotate GIF Banner
 
 on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
   push:
     paths:
       - 'assets/**'
+  workflow_dispatch:  # Manual trigger
 
 jobs:
-  update-gifs:
+  rotate-gif:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GIF section
+      - name: Pick random GIF
         run: |
-          # Build image tags from all GIFs in assets/
-          GIFS='<p align="center">'
-          for f in assets/*.gif assets/*.GIF; do
-            [ -f "$f" ] || continue
-            encoded=$(echo "$f" | sed 's/ /%20/g')
-            GIFS="$GIFS"$'\n'"<img src=\"$encoded\" width=\"400\">"
-          done
-          GIFS="$GIFS"$'\n'"</p>"
+          # Collect all GIFs in assets/
+          mapfile -t GIFS < <(find assets -maxdepth 1 -iname '*.gif' -type f | sort)
+
+          if [ ${#GIFS[@]} -eq 0 ]; then
+            echo "No GIFs found in assets/"
+            exit 0
+          fi
+
+          # Pick one at random
+          RANDOM_IDX=$((RANDOM % ${#GIFS[@]}))
+          CHOSEN="${GIFS[$RANDOM_IDX]}"
+          ENCODED=$(echo "$CHOSEN" | sed 's/ /%20/g')
+
+          echo "Picked: $CHOSEN"
 
           # Replace between markers
-          awk -v gifs="$GIFS" '
-            /<!-- GIF-START -->/{print; print gifs; skip=1; next}
+          awk -v gif="$ENCODED" '
+            /<!-- GIF-START -->/{
+              print
+              print "<p align=\"center\">"
+              print "<img src=\"" gif "\" width=\"500\">"
+              print "</p>"
+              skip=1
+              next
+            }
             /<!-- GIF-END -->/{skip=0}
             !skip{print}
           ' README.md > README.tmp && mv README.tmp README.md
@@ -34,5 +50,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "Update GIF banner"
+          git diff --cached --quiet || git commit -m "Rotate banner GIF"
           git push

@@ -1,9 +1,6 @@
 <!-- GIF-START -->
 <p align="center">
-<img src="assets/gene%20wilder%20frankenstein%20GIF%20by%20foxhorror.gif" width="400">
-<img src="assets/Mad%20Scientist%20Horror%20GIF.gif" width="400">
-<img src="assets/Mad%20Scientist.gif" width="400">
-<img src="assets/week%20computer%20GIF.gif" width="400">
+<img src="assets/Mad%20Scientist.gif" width="500">
 </p>
 <!-- GIF-END -->
 

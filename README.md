@@ -1,3 +1,25 @@
+<div align="center">
+
+<img width="100%" alt="FRANKENSTEIN" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:25702C&height=220&section=header&text=FRANKENSTEIN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cross-platform%20%7C%20Go%20%7C%20CLI%20%7C%20Reconnaissance&descSize=16&descAlignY=58"/>
+
+`Cross-platform` [`Go`](https://go.dev/) `CLI` `Reconnaissance` - Dual-phenomenology site checker — DNS + HTTP/S probing, 50 workers, TLS cert analysis, retry pass
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=25702C&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Dual-phenomenology+site+checker+%E2%80%94+DNS+%2B+HTTP%2FS+probing%2C+50+workers%2C+TLS...%3BCross-platform+%2F+Go+%2F+CLI+%2F+Reconnaissance)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-FRANKENSTEIN-25702C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/FRANKENSTEIN)
+[![Format](https://img.shields.io/badge/Format-Go-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/FRANKENSTEIN/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/FRANKENSTEIN?style=flat-square&color=25702C)](https://github.com/Ringmast4r/FRANKENSTEIN/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/FRANKENSTEIN?style=flat-square&color=25702C)](https://github.com/Ringmast4r/FRANKENSTEIN/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/FRANKENSTEIN?style=flat-square&color=25702C)](https://github.com/Ringmast4r/FRANKENSTEIN)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/FRANKENSTEIN?style=flat-square&color=25702C)](https://github.com/Ringmast4r/FRANKENSTEIN/commits/main)
+
+</div>
+
+---
+
 <p align="center">
 <img src="assets/week%20computer%20GIF.gif" width="500">
 </p>
@@ -18,7 +40,8 @@
 <a href="https://buymeacoffee.com/ringmast4r"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
 
-## What It Does
+<a id="what-it-does"></a>
+## `> what_it_does`
 
 Frankenstein checks if websites are alive using two independent phenomena:
 
@@ -38,7 +61,8 @@ A site is classified as:
 - **DNS-ONLY** — DNS resolves but no HTTP response
 - **DEAD** — Neither DNS nor HTTP responds
 
-## Features
+<a id="features"></a>
+## `> features`
 
 - **50 concurrent workers** — bulk scan thousands of domains fast
 - **Retry pass** — failed domains get a second attempt with 3x timeout
@@ -52,7 +76,8 @@ A site is classified as:
 
 ---
 
-## Installation
+<a id="installation"></a>
+## `> installation`
 
 ### Option 1: Download Pre-Built Binary
 
@@ -89,7 +114,8 @@ mv frankenstein ../
 
 ---
 
-## Quick Start
+<a id="quick-start"></a>
+## `> quick_start`
 
 ### Linux / Kali
 
@@ -132,7 +158,8 @@ WINDOWS\frankenstein.exe
 
 ---
 
-## Usage
+<a id="usage"></a>
+## `> usage`
 
 ### Single Domain Check
 
@@ -200,7 +227,8 @@ Load targets
 
 ---
 
-## Running Through Tor / Proxychains
+<a id="running-through-tor--proxychains"></a>
+## `> running_through_tor__proxychains`
 
 If you're running on Kali with an OPSEC stack, prefix with `proxychains4` to route all traffic through Tor:
 
@@ -217,7 +245,8 @@ proxychains4 ./frankenstein
 
 ---
 
-## DB Viewer
+<a id="db-viewer"></a>
+## `> db_viewer`
 
 Open `frankenstein-db-viewer.html` in any browser and drag your `frankenstein.db` file onto it. No server needed — runs entirely in the browser.
 
@@ -232,7 +261,8 @@ Open `frankenstein-db-viewer.html` in any browser and drag your `frankenstein.db
 
 ---
 
-## Database
+<a id="database"></a>
+## `> database`
 
 All scan results are stored in `frankenstein.db` (SQLite). The database is auto-created on first run.
 
@@ -246,7 +276,8 @@ The database persists across runs. Use option `9` (Rescan All) to refresh all ex
 
 ---
 
-## Building From Source
+<a id="building-from-source"></a>
+## `> building_from_source`
 
 ### Prerequisites
 
@@ -276,7 +307,8 @@ No CGO. No system libraries. Single static binary on every platform.
 
 ---
 
-## Project Structure
+<a id="project-structure"></a>
+## `> project_structure`
 
 ```
 FRANKENSTEIN/
@@ -304,3 +336,11 @@ FRANKENSTEIN/
 <p align="center">
 <a href="https://buymeacoffee.com/ringmast4r"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
+
+---
+
+<div align="center">
+
+<img width="100%" alt="FRANKENSTEIN footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:25702C,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20RECONNAISSANCE&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
